@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP DS90LV048ATM_NOPB
+D 400 Mbps LVDS Quad High Speed Differential Receiver
+K
+F http://www.ti.com/lit/ds/symlink/ds90lv048a.pdf
+$ENDCMP
+#
+$CMP NCV317BD2TR4G
+D Linear Voltage Regulators 1.5A -1.2 to -37V ADJ Positive
+K
+F http://www.onsemi.com/pub/Collateral/LM317-D.PDF
+$ENDCMP
+#
+$CMP DS90LV011AHMF_NOPB
+D High Temperature 3V LVDS Differential Driver
+K
+F http://www.ti.com/lit/gpn/DS90LV011AH
+$ENDCMP
+#
+#End Doc Library

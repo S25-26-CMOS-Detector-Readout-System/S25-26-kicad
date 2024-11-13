@@ -1,0 +1,110 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NE555DR
+#/6648/2/2.37/8/4/Integrated Circuit
+DEF NE555DR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "NE555DR" 1050 500 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 400 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 1050 300 50 H I L CNN
+F4 "Single Precision Timer" 1050 200 50 H I L CNN "Description"
+F5 "1.75" 1050 100 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "NE555DR" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-NE555DR" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-NE555DR" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "1218414" 1050 -400 50 H I L CNN "RS Part Number"
+F11 "http//uk.rs-online.com/web/p/products/1218414" 1050 -500 50 H I L CNN "RS Price/Stock"
+DRAW
+X GND 1 600 -1000 200 U 50 50 0 0 B
+X TRIG 2 0 -400 200 R 50 50 0 0 B
+X OUT 3 1200 -200 200 L 50 50 0 0 B
+X ~RESET 4 0 0 200 R 50 50 0 0 B
+X CONT 5 500 600 200 D 50 50 0 0 B
+X THRES 6 0 -300 200 R 50 50 0 0 B
+X DISCH 7 0 -100 200 R 50 50 0 0 B
+X VCC 8 700 600 200 D 50 50 0 0 B
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model DS90LV048ATM_NOPB
+#/155054/1536219/2.50/16/3/Integrated Circuit
+DEF DS90LV048ATM_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "DS90LV048ATM_NOPB" 1150 200 50 H V L CNN
+F2 "SOIC127P600X175-16N" 1150 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ds90lv048a.pdf" 1150 0 50 H I L CNN
+F4 "400 Mbps LVDS Quad High Speed Differential Receiver" 1150 -100 50 H I L CNN "Description"
+F5 "1.75" 1150 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "DS90LV048ATM/NOPB" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "DS90LV048ATM/NOPB" 1150 -500 50 H I L CNN "Arrow Part Number"
+F9 "null?region=nac" 1150 -600 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X RIN1- 1 0 0 200 R 50 50 0 0 P
+X RIN1+ 2 0 -100 200 R 50 50 0 0 P
+X RIN2+ 3 0 -200 200 R 50 50 0 0 P
+X RIN2- 4 0 -300 200 R 50 50 0 0 P
+X RIN3- 5 0 -400 200 R 50 50 0 0 P
+X RIN3+ 6 0 -500 200 R 50 50 0 0 P
+X RIN4+ 7 0 -600 200 R 50 50 0 0 P
+X RIN4- 8 0 -700 200 R 50 50 0 0 P
+X EN 16 1300 0 200 L 50 50 0 0 P
+X ROUT1 15 1300 -100 200 L 50 50 0 0 P
+X ROUT2 14 1300 -200 200 L 50 50 0 0 P
+X VCC 13 1300 -300 200 L 50 50 0 0 P
+X GND 12 1300 -400 200 L 50 50 0 0 P
+X ROUT3 11 1300 -500 200 L 50 50 0 0 P
+X ROUT4 10 1300 -600 200 L 50 50 0 0 P
+X EN~ 9 1300 -700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model NCV317BD2TR4G
+#/226379/1536219/2.50/4/0/Integrated Circuit
+DEF NCV317BD2TR4G IC 0 30 Y Y 1 F N
+F0 "IC" 1450 300 50 H V L CNN
+F1 "NCV317BD2TR4G" 1450 200 50 H V L CNN
+F2 "TO254P1420X457-4N" 1450 100 50 H I L CNN
+F3 "http://www.onsemi.com/pub/Collateral/LM317-D.PDF" 1450 0 50 H I L CNN
+F4 "Linear Voltage Regulators 1.5A -1.2 to -37V ADJ Positive" 1450 -100 50 H I L CNN "Description"
+F5 "4.572" 1450 -200 50 H I L CNN "Height"
+F6 "onsemi" 1450 -300 50 H I L CNN "Manufacturer_Name"
+F7 "NCV317BD2TR4G" 1450 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "NCV317BD2TR4G" 1450 -500 50 H I L CNN "Arrow Part Number"
+F9 "https://www.arrow.com/en/products/ncv317bd2tr4g/on-semiconductor?region=europe" 1450 -600 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X ADJ 1 0 0 200 R 50 50 0 0 P
+X VOUT_NOPAD 2 0 -100 200 R 50 50 0 0 O
+X VIN 3 0 -200 200 R 50 50 0 0 I
+X VOUT_TAB 4 1600 0 200 L 50 50 0 0 O
+P 5 0 1 6 200 100 1400 100 1400 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model DS90LV011AHMF_NOPB
+#/1081073/1536219/2.50/5/3/Integrated Circuit
+DEF DS90LV011AHMF_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "DS90LV011AHMF_NOPB" 1050 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 1050 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/DS90LV011AH" 1050 0 50 H I L CNN
+F4 "High Temperature 3V LVDS Differential Driver" 1050 -100 50 H I L CNN "Description"
+F5 "1.45" 1050 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "DS90LV011AHMF/NOPB" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "DS90LV011AHMF/NOPB" 1050 -500 50 H I L CNN "Arrow Part Number"
+F9 "https://www.arrow.com/en/products/ds90lv011ahmfnopb/texas-instruments?utm_currency=USD&region=nac" 1050 -600 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VDD 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X OUT- 3 0 -200 200 R 50 50 0 0 P
+X OUT+ 4 1200 0 200 L 50 50 0 0 P
+X TTL_IN 5 1200 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
