@@ -24,4 +24,40 @@ K
 F http://www.ti.com/lit/gpn/DS90LV011AH
 $ENDCMP
 #
+$CMP CMV4000-3E5M0PN
+D Global Shutter CMOS Image Sensor for Machine Vision
+K
+F https://www.mouser.in/datasheet/2/588/CMV4000_DS000728_4_00-1889788.pdf
+$ENDCMP
+#
+$CMP PTS120601B100RP100
+D Temperature Dependent Platinum Thin Film Chip Resistor
+K
+F http://www.vishay.com/docs/28762/ptsserie.pdf
+$ENDCMP
+#
+$CMP XMC7200D-E272K8384AA
+D ARM Microcontrollers - MCU
+K
+F https://www.infineon.com/cms/en/product/microcontroller/32-bit-industrial-microcontroller-based-on-arm-cortex-m/32-bit-xmc7000-industrial-microcontroller-arm-cortex-m7/xmc7200d-e272k8384aa/?tab=~%27all#!designsupport
+$ENDCMP
+#
+$CMP DSC1101DM2-012.0000
+D Standard Clock Oscillators Oscillator Hi Perf -55C-125C 25ppm
+K
+F https://ww1.microchip.com/downloads/aemDocuments/documents/TCG/ProductDocuments/DataSheets/DSC1101-21-Low-Jitter-Precision-CMOS-Oscillator-DS20005613D.pdf
+$ENDCMP
+#
+$CMP MT29F2G01ABAGDWB-IT_G_TR
+D IC FLASH 2G SPI 8UPDFN
+K
+F https://www.arrow.com/en/products/mt29f2g01abagdwb-itgtr/micron-technology
+$ENDCMP
+#
+$CMP MXL86110C-AQB-R
+D 1/1 Transceiver Full, Half Ethernet 40-QFN (5x5)
+K
+F https://assets.maxlinear.com/web/documents/mxl86110.pdf
+$ENDCMP
+#
 #End Doc Library
