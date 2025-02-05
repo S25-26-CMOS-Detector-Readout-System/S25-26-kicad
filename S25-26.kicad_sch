@@ -12682,7 +12682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CMV40003E5M0PN"
+		(property "Footprint" "SamacSys_Parts:CMV40003E5M0PN"
 			(at 54.61 174.93 0)
 			(effects
 				(font

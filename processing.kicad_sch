@@ -15087,7 +15087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON127P800X600X65-8N"
+		(property "Footprint" "SamacSys_Parts:SON127P800X600X65-8N"
 			(at 62.23 199.06 0)
 			(effects
 				(font
@@ -15225,7 +15225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BGA272C80P18X18_1600X1600X170"
+		(property "Footprint" "SamacSys_Parts:BGA272C80P18X18_1600X1600X170"
 			(at 257.81 200.33 0)
 			(effects
 				(font
@@ -16971,7 +16971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DSC1101DM20120000"
+		(property "Footprint" "SamacSys_Parts:DSC1101DM20120000"
 			(at 49.53 258.75 0)
 			(effects
 				(font
@@ -17982,7 +17982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON127P800X600X65-8N"
+		(property "Footprint" "SamacSys_Parts:SON127P800X600X65-8N"
 			(at 62.23 225.73 0)
 			(effects
 				(font
@@ -18670,7 +18670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT95P280X145-5N"
+		(property "Footprint" "SamacSys_Parts:SOT95P280X145-5N"
 			(at 337.82 125.4 0)
 			(effects
 				(font
