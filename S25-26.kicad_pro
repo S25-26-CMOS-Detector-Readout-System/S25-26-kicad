@@ -651,6 +651,18 @@
     [
       "6f4563ef-8a79-4567-b913-33c6dfb42b56",
       "Root"
+    ],
+    [
+      "79b56aaa-8dda-4cfa-a280-62298a03532e",
+      "Voltage Regulation"
+    ],
+    [
+      "e295881b-793d-44b2-856b-25e9d19ba3af",
+      "Processing"
+    ],
+    [
+      "10aa7ffc-4759-4dd0-b397-4be5b97e2346",
+      "LVDS Conversion"
     ]
   ],
   "text_variables": {}
