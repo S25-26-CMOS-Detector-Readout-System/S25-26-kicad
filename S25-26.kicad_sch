@@ -6924,7 +6924,7 @@
 		(uuid "90981ad8-603f-4fb8-bf7c-83b8af021641")
 	)
 	(bus_entry
-		(at 313.69 67.31)
+		(at 314.96 67.31)
 		(size 2.54 2.54)
 		(stroke
 			(width 0)
@@ -7200,16 +7200,6 @@
 			(type default)
 		)
 		(uuid "1a7f59d9-2db2-465f-8167-edfe83480616")
-	)
-	(wire
-		(pts
-			(xy 316.23 69.85) (xy 316.23 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a89f69d-258f-486f-a764-641ef665674f")
 	)
 	(polyline
 		(pts
@@ -7713,7 +7703,7 @@
 	)
 	(bus
 		(pts
-			(xy 313.69 67.31) (xy 351.79 67.31)
+			(xy 314.96 67.31) (xy 351.79 67.31)
 		)
 		(stroke
 			(width 0)
@@ -7743,7 +7733,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 80.01) (xy 317.5 81.28)
+			(xy 317.5 69.85) (xy 317.5 81.28)
 		)
 		(stroke
 			(width 0)
@@ -7970,16 +7960,6 @@
 			(type default)
 		)
 		(uuid "5c999150-db2c-41e5-9e63-819e28b496b4")
-	)
-	(wire
-		(pts
-			(xy 316.23 80.01) (xy 317.5 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d96fa3a-68b1-46fd-bf27-aba585fa5ca3")
 	)
 	(wire
 		(pts
@@ -8883,7 +8863,7 @@
 	)
 	(bus
 		(pts
-			(xy 270.51 67.31) (xy 313.69 67.31)
+			(xy 270.51 67.31) (xy 314.96 67.31)
 		)
 		(stroke
 			(width 0)
@@ -10191,18 +10171,6 @@
 		)
 		(uuid "ff1d211b-2bfc-44a6-83c2-6cd10749287c")
 	)
-	(rectangle
-		(start 175.26 229.87)
-		(end 294.64 264.16)
-		(stroke
-			(width 0.381)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 57e85382-30fb-4cf8-9524-9a6c71a11263)
-	)
 	(text "NC\n"
 		(exclude_from_sim no)
 		(at 96.52 95.504 0)
@@ -10414,7 +10382,7 @@
 	)
 	(text "Temperature Sensing"
 		(exclude_from_sim no)
-		(at 292.1 260.35 0)
+		(at 262.128 249.174 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -10760,7 +10728,7 @@
 		(uuid "64df120e-9c0a-4a7d-b05b-a5f9b839e316")
 	)
 	(label "VDD1V1"
-		(at 316.23 80.01 90)
+		(at 317.5 80.01 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
