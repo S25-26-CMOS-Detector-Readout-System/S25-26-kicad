@@ -11693,6 +11693,12 @@
 		(uuid "35ba64bd-e578-4328-9f2e-81ee1e6b202c")
 	)
 	(junction
+		(at 290.83 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "35c4f224-cccb-42a9-9b0f-d577c3244cf3")
+	)
+	(junction
 		(at 116.84 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11789,6 +11795,12 @@
 		(uuid "94f20c14-7144-4911-9cfd-3ccb5e43956d")
 	)
 	(junction
+		(at 163.83 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a0db6ce0-2769-474f-937a-1d1eeab1f400")
+	)
+	(junction
 		(at 69.85 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11837,16 +11849,16 @@
 		(uuid "d46e18fb-2fa7-4573-a2fd-38b92bf007df")
 	)
 	(junction
-		(at 290.83 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d63fbdaf-6346-47af-9fbe-1e77d2547c5a")
-	)
-	(junction
 		(at 31.75 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dcfc8669-0fd0-48ec-9ed2-d7f972db87b6")
+	)
+	(junction
+		(at 231.14 113.03)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "def89dec-78a9-4d51-9f13-dbd106b56a86")
 	)
 	(junction
 		(at 21.59 57.15)
@@ -11895,6 +11907,30 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f28a14bb-a71b-4839-83e3-a1c938ab6473")
+	)
+	(no_connect
+		(at 53.34 166.37)
+		(uuid "53c6fdb8-0c18-4448-9e8d-b7e84df7d00d")
+	)
+	(no_connect
+		(at 66.04 106.68)
+		(uuid "5ceb3fea-1e6a-437c-b5f5-e284b773b5d3")
+	)
+	(no_connect
+		(at 27.94 135.89)
+		(uuid "6fc3cac3-0838-44ad-9b43-32d27fdcabb5")
+	)
+	(no_connect
+		(at 66.04 133.35)
+		(uuid "746711dc-8a9d-4db1-b9e3-6988229d66c1")
+	)
+	(no_connect
+		(at 27.94 109.22)
+		(uuid "818eed92-aea1-4433-bbb9-c6f1cab99237")
+	)
+	(no_connect
+		(at 25.4 166.37)
+		(uuid "8f81d865-a0c8-4579-9123-8aeb49c9a98b")
 	)
 	(wire
 		(pts
@@ -12088,6 +12124,16 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 30.48) (xy 311.15 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12770333-0bfc-4f0f-acdd-c704a6ce077b")
+	)
+	(wire
+		(pts
 			(xy 185.42 43.18) (xy 185.42 41.91)
 		)
 		(stroke
@@ -12135,6 +12181,16 @@
 			(type default)
 		)
 		(uuid "18335f31-ddbc-405c-912c-73501108b154")
+	)
+	(wire
+		(pts
+			(xy 163.83 153.67) (xy 191.77 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a36f0f0-7da3-4f8d-a1b0-570f182ed787")
 	)
 	(wire
 		(pts
@@ -12215,6 +12271,16 @@
 			(type default)
 		)
 		(uuid "1e8c7103-894c-46a6-a5f7-a0d94cc0cf2e")
+	)
+	(wire
+		(pts
+			(xy 161.29 153.67) (xy 163.83 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ef1bf60-3a81-4cb9-8f08-a6ecf7d9edce")
 	)
 	(wire
 		(pts
@@ -12518,6 +12584,16 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 36.83) (xy 290.83 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bf2ca63-f5a0-46e5-a7ac-cc6221fc3769")
+	)
+	(wire
+		(pts
 			(xy 177.8 232.41) (xy 191.77 232.41)
 		)
 		(stroke
@@ -12525,6 +12601,16 @@
 			(type default)
 		)
 		(uuid "4d0f5521-2aa6-456b-a98a-17636a9c2396")
+	)
+	(wire
+		(pts
+			(xy 231.14 113.03) (xy 231.14 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4dfea088-306f-4701-a153-cb5f85295fcb")
 	)
 	(wire
 		(pts
@@ -12788,6 +12874,16 @@
 	)
 	(wire
 		(pts
+			(xy 290.83 30.48) (xy 290.83 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75933758-0b39-45d9-b111-58c17c3e9ac5")
+	)
+	(wire
+		(pts
 			(xy 368.3 111.76) (xy 368.3 123.19)
 		)
 		(stroke
@@ -12808,7 +12904,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 104.14) (xy 80.01 104.14)
+			(xy 76.2 104.14) (xy 80.01 104.14)
 		)
 		(stroke
 			(width 0)
@@ -12848,16 +12944,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 130.81) (xy 80.01 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f0bacfa-7ce0-429e-a590-7fdaac3e860f")
-	)
-	(wire
-		(pts
 			(xy 90.17 66.04) (xy 90.17 68.58)
 		)
 		(stroke
@@ -12868,7 +12954,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 52.07) (xy 229.87 54.61)
+			(xy 229.87 52.07) (xy 229.87 57.15)
 		)
 		(stroke
 			(width 0)
@@ -12985,16 +13071,6 @@
 			(type default)
 		)
 		(uuid "944e346e-c03d-4858-b6fa-c4cfbe0cfacf")
-	)
-	(wire
-		(pts
-			(xy 290.83 30.48) (xy 311.15 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95f54634-7fca-4e3d-86fe-8e8ea0f563c3")
 	)
 	(wire
 		(pts
@@ -13348,6 +13424,16 @@
 	)
 	(wire
 		(pts
+			(xy 231.14 109.22) (xy 231.14 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c773bfa4-a889-4639-9fe4-bc158c4f3603")
+	)
+	(wire
+		(pts
 			(xy 115.57 59.69) (xy 105.41 59.69)
 		)
 		(stroke
@@ -13385,6 +13471,16 @@
 			(type default)
 		)
 		(uuid "cc2000ee-0060-46b9-bfe1-0ebe4b8e74d4")
+	)
+	(wire
+		(pts
+			(xy 76.2 130.81) (xy 80.01 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cef1c87b-6516-4820-9960-ad10acabda3a")
 	)
 	(wire
 		(pts
@@ -13834,6 +13930,7 @@
 	)
 	(label "XMC_VDIO1"
 		(at 21.59 45.72 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13844,6 +13941,7 @@
 	)
 	(label "XMC_VDDD"
 		(at 21.59 22.86 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13854,6 +13952,7 @@
 	)
 	(label "CMOS_LVDS_CLK_IN"
 		(at 158.75 168.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13864,6 +13963,7 @@
 	)
 	(label "SCB0_MOSI"
 		(at 77.47 111.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13874,6 +13974,7 @@
 	)
 	(label "SCB2_MOSI"
 		(at 77.47 138.43 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13884,6 +13985,7 @@
 	)
 	(label "EXT_PS_CTL1"
 		(at 210.82 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13894,6 +13996,7 @@
 	)
 	(label "XMC_VDIO2"
 		(at 360.68 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13904,6 +14007,7 @@
 	)
 	(label "SCB0_MOSI"
 		(at 261.62 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13914,6 +14018,7 @@
 	)
 	(label "XMC_VDIO3"
 		(at 105.41 48.26 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13924,6 +14029,7 @@
 	)
 	(label "SCB2_CLK"
 		(at 400.05 201.93 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13934,6 +14040,7 @@
 	)
 	(label "EXT_PS_CTL0"
 		(at 210.82 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13944,6 +14051,7 @@
 	)
 	(label "SCB0_MISO"
 		(at 259.08 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13954,6 +14062,7 @@
 	)
 	(label "ECO_IN"
 		(at 270.51 294.64 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13964,6 +14073,7 @@
 	)
 	(label "PWM1_M_4"
 		(at 180.34 190.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13974,6 +14084,7 @@
 	)
 	(label "SCB0_MISO"
 		(at 16.51 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13984,6 +14095,7 @@
 	)
 	(label "CMOS_LVDS_CLK_IN"
 		(at 360.68 34.29 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -13994,6 +14106,7 @@
 	)
 	(label "XMC_VCCD"
 		(at 96.52 24.13 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14004,6 +14117,7 @@
 	)
 	(label "DRV_VOUT"
 		(at 210.82 33.02 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14014,6 +14128,7 @@
 	)
 	(label "SCB0_SEL0"
 		(at 264.16 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14024,6 +14139,7 @@
 	)
 	(label "XMC_VCCD"
 		(at 242.57 52.07 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14034,6 +14150,7 @@
 	)
 	(label "XMC_VDDA"
 		(at 152.4 24.13 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14044,6 +14161,7 @@
 	)
 	(label "XMC_VCCD"
 		(at 365.76 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14054,6 +14172,7 @@
 	)
 	(label "SCB2_MISO"
 		(at 16.51 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14064,6 +14183,7 @@
 	)
 	(label "XMC_VDIO2"
 		(at 69.85 46.99 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14074,6 +14194,7 @@
 	)
 	(label "XMC_VDDA"
 		(at 368.3 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14084,6 +14205,7 @@
 	)
 	(label "SCB0_CLK"
 		(at 76.2 109.22 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14094,6 +14216,7 @@
 	)
 	(label "EXT_PS_CTL0"
 		(at 179.07 257.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14104,6 +14227,7 @@
 	)
 	(label "XMC_VDIO4"
 		(at 355.6 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14114,6 +14238,7 @@
 	)
 	(label "SCB2_CLK"
 		(at 76.2 135.89 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14124,6 +14249,7 @@
 	)
 	(label "XMC_VREFH"
 		(at 175.26 24.13 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14134,6 +14260,7 @@
 	)
 	(label "DRV_VOUT"
 		(at 373.38 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14144,6 +14271,7 @@
 	)
 	(label "SCB2_MOSI"
 		(at 401.32 245.11 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14154,6 +14282,7 @@
 	)
 	(label "SCB7_MOSI"
 		(at 180.34 229.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14164,6 +14293,7 @@
 	)
 	(label "SCB0_CLK"
 		(at 304.8 113.03 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14174,6 +14304,7 @@
 	)
 	(label "SCB7_CLK"
 		(at 180.34 227.33 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14184,6 +14315,7 @@
 	)
 	(label "SCB2_SEL0"
 		(at 401.32 156.21 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14194,6 +14326,7 @@
 	)
 	(label "EXT_PS_CTL1"
 		(at 179.07 237.49 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14204,6 +14337,7 @@
 	)
 	(label "XMC_VDDD"
 		(at 363.22 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14214,6 +14348,7 @@
 	)
 	(label "XMC_VDIO3"
 		(at 358.14 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14224,6 +14359,7 @@
 	)
 	(label "ECO_IN"
 		(at 69.85 168.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14234,6 +14370,7 @@
 	)
 	(label "SCB2_MISO"
 		(at 401.32 242.57 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14244,6 +14381,7 @@
 	)
 	(label "XMC_VDIO1"
 		(at 353.06 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14254,6 +14392,7 @@
 	)
 	(label "SCB2_SEL0"
 		(at 16.51 130.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14264,6 +14403,7 @@
 	)
 	(label "PWM1_M_4"
 		(at 180.34 168.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14274,6 +14414,7 @@
 	)
 	(label "SCB0_SEL0"
 		(at 16.51 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14284,6 +14425,7 @@
 	)
 	(label "XMC_VDIO4"
 		(at 140.97 49.53 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14294,6 +14436,7 @@
 	)
 	(label "XMC_VREFH"
 		(at 214.63 298.45 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14304,6 +14447,7 @@
 	)
 	(label "SCB7_MISO"
 		(at 180.34 232.41 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14337,6 +14481,7 @@
 	(hierarchical_label "ETH0_RX_CLK (P23.3)"
 		(shape input)
 		(at 191.77 209.55 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14348,6 +14493,7 @@
 	(hierarchical_label "ETH0_RXD_0 (P19.0)"
 		(shape input)
 		(at 389.89 140.97 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14359,6 +14505,7 @@
 	(hierarchical_label "ETH0_RXD_3 (P19.3)"
 		(shape input)
 		(at 311.15 285.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14370,6 +14517,7 @@
 	(hierarchical_label "CMOS_CH03 (P4.0)"
 		(shape input)
 		(at 327.66 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14381,6 +14529,7 @@
 	(hierarchical_label "TEMPR_ADC0 (P6.0)"
 		(shape input)
 		(at 294.64 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14392,6 +14541,7 @@
 	(hierarchical_label "ETH0_MDC (P3.1)"
 		(shape bidirectional)
 		(at 317.5 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14400,20 +14550,10 @@
 		)
 		(uuid "1e975822-93cb-43f8-83bd-e00a5e4eb37d")
 	)
-	(hierarchical_label "ETH0_TX_ER (P18.2)"
-		(shape output)
-		(at 389.89 186.69 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "317ed684-7fbd-432f-9fe0-cfbb4d39836c")
-	)
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 52.07 57.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14425,6 +14565,7 @@
 	(hierarchical_label "CMOS_CLK_IN_N"
 		(shape output)
 		(at 311.15 35.56 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14433,9 +14574,22 @@
 		)
 		(uuid "340d6f58-9e59-42cb-a526-9ea441642f14")
 	)
+	(hierarchical_label "LVDS_REC_EN"
+		(shape output)
+		(at 191.77 135.89 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3420dfa5-f9e6-4a10-9e0c-494cf55cf4f8")
+	)
 	(hierarchical_label "JTAG_TDI (P23.7)"
 		(shape input)
 		(at 191.77 184.15 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14447,6 +14601,7 @@
 	(hierarchical_label "ETH0_RXD_2 (P19.2)"
 		(shape input)
 		(at 313.69 285.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14455,9 +14610,22 @@
 		)
 		(uuid "396048a6-c62c-4e13-8ed4-c142f3c9eddc")
 	)
+	(hierarchical_label "CMOS_RESET_N"
+		(shape output)
+		(at 231.14 109.22 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3ac418bb-6db2-4275-847e-96dfe7e9cb8f")
+	)
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 137.16 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14469,6 +14637,7 @@
 	(hierarchical_label "ETH0_REF_CLK (P18.0)"
 		(shape output)
 		(at 389.89 232.41 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14480,6 +14649,7 @@
 	(hierarchical_label "JTAG_SWDIO (P23.6)"
 		(shape bidirectional)
 		(at 191.77 186.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14491,6 +14661,7 @@
 	(hierarchical_label "ETH0_RXD_1 (P19.1)"
 		(shape input)
 		(at 389.89 138.43 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14502,6 +14673,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 68.58 104.14 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14510,20 +14682,10 @@
 		)
 		(uuid "5b27cff3-4d58-4be8-965e-a3332ab1c785")
 	)
-	(hierarchical_label "ETH0_RX_ER (P2.2)"
-		(shape input)
-		(at 223.52 123.19 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5bcae910-cc7a-4bd4-b72e-1e16362df09d")
-	)
 	(hierarchical_label "CMOS_SPI_MOSI (P23.1)"
 		(shape output)
 		(at 177.8 229.87 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14535,6 +14697,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 161.29 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14546,6 +14709,7 @@
 	(hierarchical_label "ETH0_MDIO (P3.0)"
 		(shape bidirectional)
 		(at 314.96 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14557,6 +14721,7 @@
 	(hierarchical_label "ETH0_TX_CTL (P18.1)"
 		(shape output)
 		(at 389.89 229.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14565,9 +14730,22 @@
 		)
 		(uuid "6c327ecb-bd44-4cef-b65e-6e5a2e460525")
 	)
+	(hierarchical_label "+3V3"
+		(shape input)
+		(at 223.52 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7086285b-8f2d-49d4-8985-4d0a67f53f6d")
+	)
 	(hierarchical_label "TEMPR_ADC1 (P6.1)"
 		(shape input)
 		(at 248.92 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14579,6 +14757,7 @@
 	(hierarchical_label "CMOS_CH13 (P4.3)"
 		(shape input)
 		(at 191.77 143.51 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14587,9 +14766,22 @@
 		)
 		(uuid "771384ca-6d3e-4ae5-bcf8-7e73514ad897")
 	)
+	(hierarchical_label "CMOS_CLK_OUT"
+		(shape input)
+		(at 191.77 265.43 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7edfde45-b545-4a3b-829f-c0260bfa4c5a")
+	)
 	(hierarchical_label "ETH0_TXD_1 (P18.5)"
 		(shape output)
 		(at 389.89 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14601,6 +14793,7 @@
 	(hierarchical_label "CMOS_CTR (P28.3)"
 		(shape input)
 		(at 191.77 163.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14612,6 +14805,7 @@
 	(hierarchical_label "CMOS_CLK_IN_P"
 		(shape output)
 		(at 341.63 30.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14620,20 +14814,10 @@
 		)
 		(uuid "826e51ed-44f9-43a9-b4a1-93a29ff2d278")
 	)
-	(hierarchical_label "ETH0_ETH_TSU_TIMER_CMP_VAL (P2.3)"
-		(shape output)
-		(at 191.77 156.21 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8cd62c84-4f91-4de4-b7c2-5600685bf0e3")
-	)
 	(hierarchical_label "CMOS_SPI_EN (P7.3)"
 		(shape bidirectional)
 		(at 191.77 191.77 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14645,6 +14829,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 68.58 130.81 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14656,6 +14841,7 @@
 	(hierarchical_label "ETH0_TXD_2 (P18.6)"
 		(shape output)
 		(at 389.89 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14664,9 +14850,22 @@
 		)
 		(uuid "9e73cfa4-110c-48ff-991c-784ec3157415")
 	)
+	(hierarchical_label "FRAME_REQ"
+		(shape output)
+		(at 191.77 148.59 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a673e9fc-7512-472e-94f2-2fbaea465b9d")
+	)
 	(hierarchical_label "CMOS_CH11 (P5.1)"
 		(shape input)
 		(at 289.56 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14678,6 +14877,7 @@
 	(hierarchical_label "ETH0_TX_CLK (P18.3)"
 		(shape output)
 		(at 389.89 184.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14689,6 +14889,7 @@
 	(hierarchical_label "ETH0_TXD_3 (P18.7)"
 		(shape output)
 		(at 308.61 285.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14697,9 +14898,22 @@
 		)
 		(uuid "aae92a50-4b9a-4795-8fde-30dad038968e")
 	)
+	(hierarchical_label "HRSTN"
+		(shape output)
+		(at 161.29 153.67 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ac22b5e1-41cd-48ac-915e-d94588bd5026")
+	)
 	(hierarchical_label "CMOS_CH01 (P5.0)"
 		(shape input)
 		(at 332.74 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14711,6 +14925,7 @@
 	(hierarchical_label "SCB3_TX (P17.2)"
 		(shape output)
 		(at 389.89 267.97 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14722,6 +14937,7 @@
 	(hierarchical_label "ETH0_TXD_0 (P18.4)"
 		(shape output)
 		(at 389.89 181.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14733,6 +14949,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 90.17 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14744,6 +14961,7 @@
 	(hierarchical_label "SCB3_RX (P17.1)"
 		(shape input)
 		(at 389.89 222.25 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14755,6 +14973,7 @@
 	(hierarchical_label "JTAG_SWCLK (P23.5)"
 		(shape input)
 		(at 191.77 204.47 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14766,6 +14985,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 185.42 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14777,6 +14997,7 @@
 	(hierarchical_label "CMOS_CH09 (P4.1)"
 		(shape input)
 		(at 284.48 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14788,6 +15009,7 @@
 	(hierarchical_label "ETH0_RX_CTL (P21.5)"
 		(shape input)
 		(at 224.79 285.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14799,6 +15021,7 @@
 	(hierarchical_label "CMOS_SPI_CLK (P23.2)"
 		(shape output)
 		(at 177.8 227.33 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14810,6 +15033,7 @@
 	(hierarchical_label "CMOS_SPI_MISO (P23.0)"
 		(shape output)
 		(at 177.8 232.41 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14821,6 +15045,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 55.88 163.83 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14829,9 +15054,22 @@
 		)
 		(uuid "e23b37a2-67b6-4041-b499-112307dd4141")
 	)
+	(hierarchical_label "+3V3"
+		(shape input)
+		(at 163.83 146.05 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e78ac0f1-a6e8-4e3f-a1dc-ee34aa6c8b07")
+	)
 	(hierarchical_label "CMOS_CH15 (P5.3)"
 		(shape input)
 		(at 191.77 138.43 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14843,6 +15081,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 162.56 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14854,6 +15093,7 @@
 	(hierarchical_label "CMOS_MASTER_CLK (P7.2)"
 		(shape output)
 		(at 168.91 190.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14865,6 +15105,7 @@
 	(hierarchical_label "CMOS_CH07 (P4.2)"
 		(shape input)
 		(at 238.76 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14876,6 +15117,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 82.55 34.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14887,6 +15129,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 229.87 26.67 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14898,6 +15141,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 125.73 59.69 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14909,6 +15153,7 @@
 	(hierarchical_label "JTAG_SWO (P23.4)"
 		(shape input)
 		(at 191.77 207.01 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14920,6 +15165,7 @@
 	(hierarchical_label "CMOS_CH05 (P5.2)"
 		(shape input)
 		(at 243.84 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15062,6 +15308,117 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 105.41 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "04742311-ee77-4d81-8017-031f76ec5bb5")
+		(property "Reference" "C43"
+			(at 107.95 62.2362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 107.95 64.7762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 105.41 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 105.41 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 109.728 67.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 109.728 68.834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 109.728 70.866 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "963-MLASU168AB7105KT"
+			(at 105.41 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/TAIYO-YUDEN/MLASU168AB7105KTNA01?qs=tlsG%2FOw5FFhFNBU7UyMRvQ%3D%3D"
+			(at 105.41 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "fa143708-9481-4b5d-ac10-d465b8f621ee")
+		)
+		(pin "1"
+			(uuid "6366df35-39c4-4655-ad64-ce80a9bdda81")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SamacSys_Parts:MT29F2G01ABAGDWB-IT_G_TR")
 		(at 27.94 104.14 0)
 		(unit 1)
@@ -15146,7 +15503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Part Number" "MT29F2G01ABAGDWB-IT:G TR"
+		(property "Mouser Part Number" "340-319922-REEL"
 			(at 62.23 799.06 0)
 			(effects
 				(font
@@ -15156,7 +15513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/mt29f2g01abagdwb-itg-tr/micron-technology?region=nac"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Micron/MT29F2G01ABAGDWB-ITG-TR?qs=j%252B1pi9TdxUa99FyONPZPSg%3D%3D"
 			(at 62.23 899.06 0)
 			(effects
 				(font
@@ -15284,7 +15641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Part Number" ""
+		(property "Mouser Part Number" "726-C7200DE272K8384A"
 			(at 257.81 833.35 0)
 			(effects
 				(font
@@ -15294,7 +15651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Price/Stock" ""
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Infineon-Technologies/XMC7200D-E272K8384AA?qs=IPgv5n7u5QboW26YEH1Jvg%3D%3D&srsltid=AfmBOoovwbSwRoy-OPaAM_cjlSoM3UdF77G4mLSyiGqq1XtnX7aATCcF"
 			(at 257.81 933.35 0)
 			(effects
 				(font
@@ -17030,7 +17387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Part Number" "DSC1101DM2-012.0000"
+		(property "Mouser Part Number" "579-DSC1101DM2012"
 			(at 49.53 858.75 0)
 			(effects
 				(font
@@ -17040,7 +17397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/dsc1101dm2-012.0000/microchip-technology?region=nac"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Microchip-Technology/DSC1101DM2-012.0000?qs=Gd3Cm49KlLMvFQgrIIxy1Q%3D%3D"
 			(at 49.53 958.75 0)
 			(effects
 				(font
@@ -17078,17 +17435,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 31.75 60.96 0)
+		(lib_id "Device:R")
+		(at 163.83 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0e56fc8a-4921-4b04-a6e6-5607555dcf16")
-		(property "Reference" "C37"
-			(at 34.29 59.6962 0)
+		(uuid "1097313c-8470-445d-be78-fa3f992902e1")
+		(property "Reference" "R5"
+			(at 166.37 148.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17096,8 +17452,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 34.29 62.2362 0)
+		(property "Value" "10k"
+			(at 166.37 151.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17105,8 +17461,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 31.75 60.96 0)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 162.052 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17115,7 +17471,110 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 31.75 60.96 0)
+			(at 163.83 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 163.83 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "0.1W"
+			(at 172.974 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 172.212 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW060310K0FKEI"
+			(at 163.83 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW060310K0FKEI?qs=3qWEzBg5KnKofE%252B8acPBRA%3D%3D"
+			(at 163.83 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a28a63b-8938-4610-9afb-c9600a51c360")
+		)
+		(pin "2"
+			(uuid "4cbb2f17-22e1-40ee-ac12-4360cbcddb51")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 90.17 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "14131c5b-7f13-418c-8ae3-25c2bf0484fe")
+		(property "Reference" "C41"
+			(at 92.71 60.9662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 92.71 63.5062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 90.17 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 90.17 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17124,7 +17583,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 31.75 60.96 0)
+			(at 90.17 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 94.488 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 94.742 67.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 94.742 68.834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 90.17 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 90.17 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17133,15 +17634,126 @@
 			)
 		)
 		(pin "2"
-			(uuid "5ec0c914-fbfe-450a-8a51-99ac63de99d5")
+			(uuid "c5dbe0be-6fcb-421e-8272-42c030b59ef1")
 		)
 		(pin "1"
-			(uuid "c6d69c58-7968-469c-aaf5-c3826d123470")
+			(uuid "3f5a2b03-6aca-433c-beb0-96fdaf33fbe0")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C37")
+					(reference "C41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 80.01 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "16dcaa9c-d07d-470a-a6ac-9da9f2c52548")
+		(property "Reference" "C54"
+			(at 82.55 60.9662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 82.55 63.5062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 80.01 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 80.01 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 80.01 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 84.328 65.278 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 84.582 67.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 84.582 68.834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 80.01 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 80.01 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "47692ace-2289-4f8f-8eb0-0a014d7b091c")
+		)
+		(pin "1"
+			(uuid "d57e20e9-aea2-45a2-9b1a-ed8548697594")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C54")
 					(unit 1)
 				)
 			)
@@ -17155,7 +17767,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "175077d3-2945-4e0d-98ee-8aabfe3e0059")
 		(property "Reference" "C36"
 			(at 34.29 36.8362 0)
@@ -17175,7 +17786,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 31.75 38.1 0)
 			(effects
 				(font
@@ -17194,6 +17805,48 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 31.75 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 36.068 41.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 36.322 42.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 36.322 44.704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 31.75 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
 			(at 31.75 38.1 0)
 			(effects
 				(font
@@ -17219,16 +17872,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 115.57 63.5 0)
+		(at 69.85 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "20be9fe4-abb2-4901-a387-d95fb428940e")
-		(property "Reference" "C51"
-			(at 118.11 62.2362 0)
+		(uuid "2113fa1d-5a42-425e-891e-17df20b0e40e")
+		(property "Reference" "C25"
+			(at 72.39 60.9662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17236,8 +17888,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 118.11 64.7762 0)
+		(property "Value" "1uF"
+			(at 72.39 63.5062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17245,8 +17897,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 115.57 63.5 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 69.85 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17255,7 +17907,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 63.5 0)
+			(at 69.85 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17264,7 +17916,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 115.57 63.5 0)
+			(at 69.85 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 74.168 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 74.168 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 74.168 69.596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "963-MLASU168AB7105KT"
+			(at 69.85 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/TAIYO-YUDEN/MLASU168AB7105KTNA01?qs=tlsG%2FOw5FFhFNBU7UyMRvQ%3D%3D"
+			(at 69.85 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17273,15 +17967,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "ce2bcb87-5c92-4637-8b8e-065f70defe19")
+			(uuid "e0b7cd12-0164-424b-be11-2f48467fb8f0")
 		)
 		(pin "1"
-			(uuid "2b54ab3b-b4c9-47b5-a5fb-e6de0ab2b631")
+			(uuid "0121a141-a84a-4a55-80fc-da1b823d17e2")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C51")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -17420,6 +18114,117 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 116.84 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2a2feaaa-62bd-463d-b080-dbd60864b07e")
+		(property "Reference" "C42"
+			(at 119.38 38.1062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 119.38 40.6462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 121.158 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 121.412 44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 121.412 45.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "050a7d64-8fcb-4109-bf05-8def57f6febc")
+		)
+		(pin "1"
+			(uuid "37a35843-71cb-4a52-8d3f-def904c00460")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 82.55 44.45 0)
 		(unit 1)
@@ -17480,6 +18285,339 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
 					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 82.55 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "333c6822-10bc-43ef-bfb4-124f92cdc208")
+		(property "Reference" "C39"
+			(at 85.09 36.8362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 85.09 39.3762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 82.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 82.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 82.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 86.868 41.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 87.122 42.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 87.122 44.704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 82.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 82.55 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4a21bfd0-9809-448a-b2b2-588cb9b8902e")
+		)
+		(pin "1"
+			(uuid "cd74fc3b-6f8c-47f0-8af9-c21363b9b7a1")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 41.91 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3549c528-c866-4161-9de0-5eda0a5b93b8")
+		(property "Reference" "C52"
+			(at 44.45 59.6962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 44.45 62.2362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 41.91 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 41.91 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 41.91 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 46.228 64.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 46.482 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 46.482 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 41.91 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 41.91 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c1e245b9-a9ce-4682-87f7-fc043ba90c87")
+		)
+		(pin "1"
+			(uuid "b9e25ab9-40b5-4e6e-afb5-4940a252460a")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 72.39 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "370129f9-bdb7-4988-af69-203a6ae46543")
+		(property "Reference" "C38"
+			(at 74.93 36.8362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 74.93 39.3762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 72.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 72.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 72.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 76.708 41.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 76.962 42.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 76.962 44.704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 72.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 72.39 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9e6b7287-ec05-4459-bbc2-56c44c318c94")
+		)
+		(pin "1"
+			(uuid "aa84e1e8-8f32-4d29-9821-891084b81cfd")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -17612,6 +18750,117 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
 					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 21.59 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3e9fe36e-e50f-4ef0-b577-f03b7f923881")
+		(property "Reference" "C71"
+			(at 24.13 59.6962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 24.13 62.2362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 21.59 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 21.59 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 21.59 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 25.908 64.516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 25.908 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 25.908 68.326 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "963-MLASU168AB7105KT"
+			(at 21.59 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/TAIYO-YUDEN/MLASU168AB7105KTNA01?qs=tlsG%2FOw5FFhFNBU7UyMRvQ%3D%3D"
+			(at 21.59 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c90b1e26-68fd-4cd8-ac45-4a6a8074f7ba")
+		)
+		(pin "1"
+			(uuid "41c5d73d-abda-4225-8741-648cf4c300fe")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C71")
 					(unit 1)
 				)
 			)
@@ -17751,87 +19000,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 72.39 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "46d70ebd-99cb-4441-93bd-182fa9bd920b")
-		(property "Reference" "C44"
-			(at 74.93 36.8362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 74.93 39.3762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 72.39 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 72.39 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 72.39 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a4e517fa-2687-4c99-89dd-cb7a2e003435")
-		)
-		(pin "1"
-			(uuid "94555b11-16e7-48ab-b8c9-cd22a4096754")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 67.31 163.83 180)
+		(at 67.31 163.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4786f207-e139-43f4-9f42-5a26be284683")
 		(property "Reference" "#PWR058"
-			(at 67.31 157.48 0)
+			(at 67.31 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17840,11 +19018,12 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 67.31 158.75 0)
+			(at 68.326 164.338 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -17887,214 +19066,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 140.97 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4811c650-1f7b-4c0f-ac01-509ad1ca512a")
-		(property "Reference" "C56"
-			(at 143.51 63.5062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 143.51 66.0462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 140.97 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 140.97 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 140.97 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3848ecb1-eba7-42d2-9391-b31595f82b98")
-		)
-		(pin "1"
-			(uuid "bffd2209-b6ec-445d-8f9b-f90b9a9e7a3a")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C56")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:MT29F2G01ABAGDWB-IT_G_TR")
-		(at 27.94 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "482d7d01-509d-4538-b496-16d6eca2e792")
-		(property "Reference" "IC10"
-			(at 46.99 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MT29F2G01ABAGDWB-IT_G_TR"
-			(at 46.99 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "SamacSys_Parts:SON127P800X600X65-8N"
-			(at 62.23 225.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.arrow.com/en/products/mt29f2g01abagdwb-itgtr/micron-technology"
-			(at 62.23 325.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "IC FLASH 2G SPI 8UPDFN"
-			(at 27.94 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "0.65"
-			(at 62.23 525.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Micron"
-			(at 62.23 625.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "MT29F2G01ABAGDWB-IT:G TR"
-			(at 62.23 725.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" "MT29F2G01ABAGDWB-IT:G TR"
-			(at 62.23 825.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/mt29f2g01abagdwb-itg-tr/micron-technology?region=nac"
-			(at 62.23 925.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "8"
-			(uuid "0a5253f9-7f82-4fc6-b0f9-180fed2c65c5")
-		)
-		(pin "7"
-			(uuid "5993fc68-db92-4afc-84b8-576f22aedbba")
-		)
-		(pin "6"
-			(uuid "a10e2e4b-c11d-4dc0-94e9-e34293a5ce5e")
-		)
-		(pin "1"
-			(uuid "3acdeaa6-f16d-4480-9f5e-4ee677c848f7")
-		)
-		(pin "4"
-			(uuid "d91abddf-e3a5-4ee6-a6aa-600abfd1aa69")
-		)
-		(pin "2"
-			(uuid "21646f04-f411-4fec-a93b-1a9f5976d9c5")
-		)
-		(pin "5"
-			(uuid "f24503e9-c185-44c5-b9f5-8073805811e3")
-		)
-		(pin "3"
-			(uuid "fd2b4e39-ec97-43d0-881a-ca36588a537e")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "IC10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 276.86 34.29 0)
 		(mirror y)
@@ -18122,7 +19093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 275.8948 38.1 0)
 			(effects
 				(font
@@ -18149,6 +19120,48 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage Rating" "20V"
+			(at 271.018 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "TANT"
+			(at 270.764 38.608 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 271.018 40.386 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "581-TAJR104K020R"
+			(at 276.86 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/TAJR104K020RNJ?qs=4whTb%2F0XQMhML1Gq%2FTLBlg%3D%3D"
+			(at 276.86 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "74e8c5fc-a407-4df3-bf62-5ef6a26e60e0")
 		)
@@ -18166,155 +19179,14 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 127 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4fc650c5-cbfd-438d-839d-304af78d738d")
-		(property "Reference" "C54"
-			(at 129.54 38.1062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 129.54 40.6462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 127 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 127 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 127 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e767218e-1ee5-4efd-8c11-6949ced7268d")
-		)
-		(pin "1"
-			(uuid "31a02b57-ae43-4888-98f4-cd8bc3b3633e")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C54")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 21.59 60.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "53b0c74b-dd39-4785-af3f-587d9b599483")
-		(property "Reference" "C25"
-			(at 24.13 59.6962 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 24.13 62.2362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 21.59 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 21.59 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 21.59 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6fd99e22-6dc7-4a49-becf-337a711e0f7f")
-		)
-		(pin "1"
-			(uuid "4a9413c1-7f77-422a-9fde-48376064c23c")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
 		(at 162.56 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "55eba78a-67b0-492a-8796-ce4632f5f004")
-		(property "Reference" "C60"
+		(uuid "57bd29c2-e548-4139-bfae-c5ef172cc0f2")
+		(property "Reference" "C46"
 			(at 165.1 38.1062 0)
 			(effects
 				(font
@@ -18332,7 +19204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 162.56 39.37 0)
 			(effects
 				(font
@@ -18359,51 +19231,32 @@
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "a9d4c1d1-c070-416e-8620-12e4d9339d6e")
-		)
-		(pin "1"
-			(uuid "19900fa4-cd48-44fa-962c-b8e01ba8e03d")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C60")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 90.17 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "56912cfb-92b1-4285-aa98-0fec95ab4049")
-		(property "Reference" "C47"
-			(at 92.71 60.9662 0)
+		(property "Voltage Rating" "16V"
+			(at 166.878 42.418 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 92.71 63.5062 0)
+		(property "Dielectric" "X7R"
+			(at 167.132 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 90.17 62.23 0)
+		(property "Tolerance" "10%"
+			(at 167.132 45.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 162.56 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18411,17 +19264,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 90.17 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 90.17 62.23 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 162.56 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18430,15 +19274,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "d5437451-7f2f-4008-a21c-3baba9905ce6")
+			(uuid "ab08bc66-48d2-4a63-ab8f-9c9a142c121e")
 		)
 		(pin "1"
-			(uuid "9232231e-d721-4258-8bf6-de830b52874d")
+			(uuid "47faf5c7-e55c-4c69-bde4-1976d61f0ddb")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C47")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -18573,6 +19417,228 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
 					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5a9b007e-a91c-4e2d-9e57-b7aadda13ff3")
+		(property "Reference" "C62"
+			(at 54.61 59.6962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 54.61 62.2362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 52.07 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 56.388 64.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 56.642 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 56.642 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 52.07 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 52.07 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a436dcbd-f5e2-4772-a16c-ee10961afb0f")
+		)
+		(pin "1"
+			(uuid "ec6dd123-29b1-4844-8ca7-20a6cb7674d7")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 31.75 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5b7ebfbd-8d1e-42f2-90e8-0f7a24cbe43c")
+		(property "Reference" "C51"
+			(at 34.29 59.6962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 34.29 62.2362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 31.75 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 31.75 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 31.75 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 36.068 64.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 36.322 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 36.322 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 31.75 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 31.75 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a109865f-e206-46c5-a4b5-a9c6abe81aae")
+		)
+		(pin "1"
+			(uuid "1dcc8314-79d1-4832-91e5-3adf11aea71a")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -18729,7 +19795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Part Number" "DS90LV011AHMF/NOPB"
+		(property "Mouser Part Number" "926-DS90LV011AHMFNPB"
 			(at 337.82 725.4 0)
 			(effects
 				(font
@@ -18739,7 +19805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ds90lv011ahmfnopb/texas-instruments?utm_currency=USD&region=nac"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Texas-Instruments/DS90LV011AHMF-NOPB?qs=X1J7HmVL2ZGmrinF1%2FzlLA%3D%3D"
 			(at 337.82 825.4 0)
 			(effects
 				(font
@@ -18774,144 +19840,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 62.23 163.83 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "627bc9ba-959a-4c1b-a263-c0f1b81b9ab7")
-		(property "Reference" "C14"
-			(at 61.341 156.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 61.341 158.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 66.04 162.8648 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 62.23 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "61086132-0b22-4d74-b86a-f48e05dbb437")
-		)
-		(pin "2"
-			(uuid "d3096f5a-e5b9-44c4-b2dc-4335c6e7a198")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 290.83 34.29 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "67f61ba9-fc44-49c6-9d78-7851524db3a8")
-		(property "Reference" "C12"
-			(at 287.02 32.1309 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1nF"
-			(at 287.02 34.6709 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 289.8648 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 290.83 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 290.83 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5d2391db-cdb9-4787-bbf2-d04937a008fa")
-		)
-		(pin "2"
-			(uuid "3cb3e7aa-eb67-4576-97b5-f94fc2ded0f5")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 59.69 172.72 0)
 		(unit 1)
@@ -18919,7 +19847,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "68c95248-023d-4567-9192-da70678ec875")
 		(property "Reference" "C13"
 			(at 63.5 171.4499 0)
@@ -18966,6 +19893,48 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage Rating" "50V"
+			(at 65.278 176.022 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 65.532 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 65.024 179.578 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "80-C0603C150J5RACTU"
+			(at 59.69 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KEMET/C0603C150J5RACTU?qs=bZr6mbWTK5mIN8x%2FGA2oMQ%3D%3D"
+			(at 59.69 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8d67ab8-155e-44c9-883e-f059d214cd53")
 		)
@@ -18976,6 +19945,117 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 73.66 130.81 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "68cdf133-c34c-4d57-9926-56da737a6d85")
+		(property "Reference" "C60"
+			(at 76.2 125.476 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 76.2 128.016 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 73.66 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 73.66 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 73.66 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 77.978 125.9778 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 78.232 127.7558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 78.232 129.5338 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 73.66 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 73.66 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b23c195f-d9f8-4d18-b756-a587203ba9cf")
+		)
+		(pin "1"
+			(uuid "779b6d42-50bf-4135-a218-7fa416bc0f8d")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C60")
 					(unit 1)
 				)
 			)
@@ -19049,16 +20129,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 137.16 39.37 0)
+		(at 290.83 34.29 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6d0309ba-39fc-4770-8d6b-c9ab4a7dbc02")
-		(property "Reference" "C55"
-			(at 139.7 38.1062 0)
+		(uuid "7520c820-e64b-4a74-b73b-4560df9b260a")
+		(property "Reference" "C12"
+			(at 288.29 33.0262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19066,8 +20146,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 139.7 40.6462 0)
+		(property "Value" "1nF"
+			(at 288.29 35.5662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19075,8 +20155,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 137.16 39.37 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 290.83 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19085,7 +20165,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 39.37 0)
+			(at 290.83 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19094,7 +20174,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 137.16 39.37 0)
+			(at 290.83 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 286.512 37.338 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 286.258 39.116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 286.258 40.894 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "581-KAM15AR71H102KM"
+			(at 290.83 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAM15AR71H102KM?qs=OcgtsXO%252B3guc58RvGZLAWA%3D%3D"
+			(at 290.83 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19103,10 +20225,232 @@
 			)
 		)
 		(pin "2"
-			(uuid "3024a0e5-de9b-46d7-b4a5-4af24277bdfb")
+			(uuid "7fbae2ae-837f-4422-9810-1179645cae4c")
 		)
 		(pin "1"
-			(uuid "1fd62b2a-2198-4790-b620-7afb4154f965")
+			(uuid "aaf0a355-f10f-4344-911b-b0b1fd2976d6")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 161.29 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7606b06b-c6ee-4713-a0fe-64e03cf85b5c")
+		(property "Reference" "C53"
+			(at 163.83 63.5062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10nF"
+			(at 163.83 66.0462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 161.29 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 161.29 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 165.608 68.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 165.862 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 165.862 71.628 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71H103KA7J"
+			(at 161.29 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71H103KA37J?qs=N3Kl9KD794T3%2FxlXdF0Axg%3D%3D"
+			(at 161.29 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0ef67e63-391f-4850-9daf-cad102d3dc1f")
+		)
+		(pin "1"
+			(uuid "ea5adb6d-ab3a-4f3a-9389-a28d3ddbc38e")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 115.57 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "78023b37-b06e-4025-9bf2-2c7e0c0ac8d0")
+		(property "Reference" "C55"
+			(at 118.11 62.2362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 118.11 64.7762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 115.57 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 115.57 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 115.57 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 119.888 66.548 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 120.142 68.326 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 120.142 70.104 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 115.57 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 115.57 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "5d603dcf-222b-474d-b3b2-6e48d3972e49")
+		)
+		(pin "1"
+			(uuid "96f7560d-c1eb-4c4a-8a2f-93752846c407")
 		)
 		(instances
 			(project "S25-26"
@@ -19184,6 +20528,228 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 229.87 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "78669206-f06e-4e1d-ad52-43636bce705c")
+		(property "Reference" "C33"
+			(at 232.41 58.4262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 232.41 60.9662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 229.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 229.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 229.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "10V"
+			(at 234.188 62.738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 234.442 64.516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 234.442 66.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GRM188Z71A106MA3J"
+			(at 229.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM188Z71A106MA73J?qs=Ey7%2FXF42M3f78Sc1nKhFOg%3D%3D"
+			(at 229.87 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cbf4ecd5-9d2f-4053-bb81-0ac013f3fc65")
+		)
+		(pin "1"
+			(uuid "516ed79d-cb43-4adb-a02d-cbf6e30695ce")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 73.66 104.14 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "79e7ea17-9be6-4594-b0f5-7e41e0ac5221")
+		(property "Reference" "C59"
+			(at 76.2 98.806 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 76.2 101.346 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 73.66 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 73.66 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 73.66 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 77.978 99.3078 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 78.232 101.0858 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 78.232 102.8638 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 73.66 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 73.66 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a27cc52c-be5d-4779-b48a-30be88cdbc87")
+		)
+		(pin "1"
+			(uuid "caf2e8f6-8cde-474c-ae7d-c8c50e6b70d4")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 367.03 290.83 0)
 		(unit 1)
@@ -19244,76 +20810,6 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
 					(reference "#PWR061")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 125.73 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "81c285a0-de1c-4cbb-87a4-df098ddd7f3f")
-		(property "Reference" "C53"
-			(at 128.27 62.2362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10nF"
-			(at 128.27 64.7762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 125.73 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 125.73 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "204d533c-6d58-425c-8107-7345de18eeef")
-		)
-		(pin "1"
-			(uuid "e6462f99-9ee8-4985-be04-a93ddc0795bc")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -19388,16 +20884,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 105.41 63.5 0)
+		(at 52.07 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "847577f3-c7f1-4943-b804-5ad7af116d03")
-		(property "Reference" "C49"
-			(at 107.95 62.2362 0)
+		(uuid "826a2b61-0621-41c9-b979-fc30ab0f34d1")
+		(property "Reference" "C23"
+			(at 54.61 36.8362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19405,8 +20900,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 107.95 64.7762 0)
+		(property "Value" "0.1uF"
+			(at 54.61 39.3762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19414,8 +20909,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 105.41 63.5 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 52.07 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19424,7 +20919,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 63.5 0)
+			(at 52.07 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19433,7 +20928,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 105.41 63.5 0)
+			(at 52.07 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 56.388 41.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 56.642 42.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 56.642 44.704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 52.07 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 52.07 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19442,15 +20979,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "511cb1cc-a5df-4dd1-b5be-dbe05812968b")
+			(uuid "ec585bc9-24b1-460c-b0ea-73e835586866")
 		)
 		(pin "1"
-			(uuid "c6a505e6-3820-40db-b366-625a17494d0f")
+			(uuid "b8945969-fdc8-4521-9b98-1365cfffcf4a")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C49")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -19523,76 +21060,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8abf8689-c300-48b9-b613-7222c3fe2acd")
-		(property "Reference" "C40"
-			(at 54.61 36.8362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 54.61 39.3762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 52.07 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d7809473-4bbe-4c89-8c9d-7b7c7d1e5b04")
-		)
-		(pin "1"
-			(uuid "a37130a4-18eb-4d6a-8c76-522ffc6f55e7")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 229.87 45.72 0)
 		(unit 1)
@@ -19600,7 +21067,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8e671906-f3df-459c-aebb-b43195311fdc")
 		(property "Reference" "R4"
 			(at 232.41 44.4499 0)
@@ -19620,7 +21086,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 228.092 45.72 90)
 			(effects
 				(font
@@ -19647,6 +21113,40 @@
 				(hide yes)
 			)
 		)
+		(property "Power Rating" "1W"
+			(at 237.744 44.704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 237.744 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "755-LTR10LEZPJLR10"
+			(at 229.87 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/ROHM-Semiconductor/LTR10LEZPJLR10?qs=Jm2GQyTW%2FbjxkuhaGlr%252Bag%3D%3D"
+			(at 229.87 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a6519960-406e-4227-b398-ccd4e6f39276")
 		)
@@ -19657,76 +21157,6 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 229.87 58.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94e896c9-135c-4b6c-89f9-15f32d82c885")
-		(property "Reference" "C63"
-			(at 233.68 57.1499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 233.68 59.6899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 230.8352 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 229.87 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 229.87 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a64cb238-7892-486b-9aac-94694aff0097")
-		)
-		(pin "1"
-			(uuid "ebbffef4-a184-4dd0-b3c1-324980f6245d")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C63")
 					(unit 1)
 				)
 			)
@@ -19807,7 +21237,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9c2bcb0f-5ea8-4fd8-978e-a5fd33f3ebcc")
 		(property "Reference" "C58"
 			(at 154.94 38.1062 0)
@@ -19827,7 +21256,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 152.4 39.37 0)
 			(effects
 				(font
@@ -19846,6 +21275,48 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 152.4 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "10V"
+			(at 156.718 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 156.972 44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 156.972 45.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "963-LMK107B7225KA-TR"
+			(at 152.4 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/TAIYO-YUDEN/LMK107B7225KA-TR?qs=vF%252B8ahGVildKPUFyo2XZuA%3D%3D"
 			(at 152.4 39.37 0)
 			(effects
 				(font
@@ -19871,83 +21342,12 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 69.85 62.23 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9c5f5f88-1044-425a-b994-b48a71455a63")
-		(property "Reference" "C43"
-			(at 72.39 60.9662 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1uF"
-			(at 72.39 63.5062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 69.85 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 69.85 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 69.85 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8ef298f7-5c63-4b41-8551-5ef6f7880157")
-		)
-		(pin "1"
-			(uuid "1e086a63-aa61-4cad-82c0-c1d2dc36845c")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
 		(at 21.59 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a5ad2826-0f53-4f8f-89cd-3fac76701069")
 		(property "Reference" "C16"
 			(at 24.13 36.8362 0)
@@ -19967,7 +21367,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 21.59 38.1 0)
 			(effects
 				(font
@@ -19986,6 +21386,48 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 21.59 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "10V"
+			(at 25.908 41.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 26.162 42.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 26.162 44.704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GRM188Z71A106MA3J"
+			(at 21.59 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM188Z71A106MA73J?qs=Ey7%2FXF42M3f78Sc1nKhFOg%3D%3D"
 			(at 21.59 38.1 0)
 			(effects
 				(font
@@ -20010,17 +21452,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 41.91 38.1 0)
+		(lib_id "Device:C_Polarized")
+		(at 62.23 163.83 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a6a52d4b-8d67-4636-bc13-5e4b3b814bb9")
-		(property "Reference" "C38"
-			(at 44.45 36.8362 0)
+		(uuid "a5c88d0e-a3a6-48eb-9cde-abeaa959065a")
+		(property "Reference" "C14"
+			(at 61.468 157.988 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20029,7 +21471,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 44.45 39.3762 0)
+			(at 62.992 160.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20037,8 +21479,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 41.91 38.1 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 66.04 164.7952 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20047,7 +21489,118 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 38.1 0)
+			(at 62.23 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 62.23 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "20V"
+			(at 65.278 157.226 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "TANT"
+			(at 65.786 159.258 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 65.532 161.036 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "581-TAJR104K020R"
+			(at 62.23 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/TAJR104K020RNJ?qs=4whTb%2F0XQMhML1Gq%2FTLBlg%3D%3D"
+			(at 62.23 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6f5114f6-5f42-44c2-ae9c-6d3150aea137")
+		)
+		(pin "2"
+			(uuid "31ddce9c-945e-44ec-9f40-eafc64f61c56")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 175.26 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a6b03541-213b-4d74-9775-61ce1e5812d4")
+		(property "Reference" "C61"
+			(at 177.8 38.1062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 177.8 40.6462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 175.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20056,7 +21609,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 41.91 38.1 0)
+			(at 175.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "10V"
+			(at 179.578 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 179.832 44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 179.832 45.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "963-LMK107B7225KA-TR"
+			(at 175.26 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/TAIYO-YUDEN/LMK107B7225KA-TR?qs=vF%252B8ahGVildKPUFyo2XZuA%3D%3D"
+			(at 175.26 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20065,153 +21660,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "36b64fa6-caca-4414-9f42-af73e0f23700")
+			(uuid "2c5c2aa4-2142-4158-8fac-fea7060d61b1")
 		)
 		(pin "1"
-			(uuid "b9992395-1612-4742-8ef4-23e771aebb78")
+			(uuid "4b9b82b1-3d76-4dee-b4e9-a1bc20eea58a")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C38")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 74.93 104.14 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a78ae074-8060-461c-846f-c8dab04e8b68")
-		(property "Reference" "C15"
-			(at 74.93 96.52 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 74.93 99.06 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 103.1748 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 74.93 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 74.93 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "27d2fb00-717e-4048-9f1b-ae96a7eb46bb")
-		)
-		(pin "1"
-			(uuid "0293a97d-040b-4cf3-b998-3187c5f92539")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 82.55 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac257c18-2bca-4e69-8c82-f4d8e1ea31e8")
-		(property "Reference" "C46"
-			(at 85.09 36.8362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 85.09 39.3762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 82.55 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 82.55 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 82.55 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "605e8d2a-6b03-4ab4-ba4e-b6c160a1b894")
-		)
-		(pin "1"
-			(uuid "88222afb-4d8a-42a5-9742-29d81626d3f8")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C46")
+					(reference "C61")
 					(unit 1)
 				)
 			)
@@ -20219,16 +21676,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 130.81 180)
+		(at 80.01 130.81 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b12a9c3d-b2cf-49f8-a5b3-a267d16312c8")
 		(property "Reference" "#PWR059"
-			(at 80.01 124.46 0)
+			(at 80.01 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20237,7 +21694,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 125.73 0)
+			(at 80.01 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20351,16 +21808,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 96.52 39.37 0)
+		(at 62.23 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b744ae32-c825-4567-a97d-f1ece4672df4")
-		(property "Reference" "C48"
-			(at 99.06 38.1062 0)
+		(uuid "b82e8c4a-a8b8-427d-977f-fa3ba8140535")
+		(property "Reference" "C37"
+			(at 64.77 36.8362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20368,8 +21824,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 99.06 40.6462 0)
+		(property "Value" "0.1uF"
+			(at 64.77 39.3762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20377,8 +21833,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 96.52 39.37 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 62.23 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20387,7 +21843,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 96.52 39.37 0)
+			(at 62.23 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20396,7 +21852,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 96.52 39.37 0)
+			(at 62.23 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 66.548 41.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 66.802 42.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 66.802 44.704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 62.23 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 62.23 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20405,15 +21903,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "a6395d44-c662-4b78-b5be-9c8d5513209c")
+			(uuid "56de8294-2014-4e41-8e26-c040c6f2f3bb")
 		)
 		(pin "1"
-			(uuid "cbd60f4c-cc9d-4f41-bacc-5a82eeea5530")
+			(uuid "04dc2998-ad8f-46f7-8206-848ef82ffae1")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C48")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -20421,16 +21919,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 161.29 64.77 0)
+		(at 106.68 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c8f0ffc1-e798-4a6b-a0b4-6e81fc17a71a")
-		(property "Reference" "C59"
-			(at 163.83 63.5062 0)
+		(uuid "bba5250e-d11b-4f44-b8dc-5d8f9eaf38b4")
+		(property "Reference" "C40"
+			(at 109.22 38.1062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20438,8 +21935,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10nF"
-			(at 163.83 66.0462 0)
+		(property "Value" "0.1uF"
+			(at 109.22 40.6462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20447,8 +21944,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 161.29 64.77 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 106.68 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20457,7 +21954,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 161.29 64.77 0)
+			(at 106.68 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20466,7 +21963,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 161.29 64.77 0)
+			(at 106.68 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 110.998 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 111.252 44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 111.252 45.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 106.68 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 106.68 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20475,15 +22014,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "935b59ca-1308-4b84-8490-8161d2fea794")
+			(uuid "358d934a-095d-4775-a9c6-344e82939ab0")
 		)
 		(pin "1"
-			(uuid "5994c08f-17dd-4449-810e-165e35a71483")
+			(uuid "df02de0a-2b13-41d1-8ae3-406101ab478d")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C59")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -20497,9 +22036,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cea386a1-a23c-41cc-9f55-976e29d2f83b")
-		(property "Reference" "C62"
+		(uuid "c4f33f6c-6da5-439a-8ae0-dca4a8a344d0")
+		(property "Reference" "C50"
 			(at 187.96 38.1062 0)
 			(effects
 				(font
@@ -20517,7 +22055,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 185.42 39.37 0)
 			(effects
 				(font
@@ -20544,16 +22082,383 @@
 				(hide yes)
 			)
 		)
+		(property "Voltage Rating" "16V"
+			(at 189.738 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 189.992 44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 189.992 45.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 185.42 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 185.42 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
-			(uuid "4113d806-6227-49ee-8203-8a7214487a02")
+			(uuid "fc6fd89c-7867-4478-9fa3-ec6774d52993")
 		)
 		(pin "1"
-			(uuid "f5c81276-39ad-4ce4-95d0-a1ba272a8dc4")
+			(uuid "69f3fe1b-0f6f-4a6f-8b9f-6c3717a2bf70")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C62")
+					(reference "C50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 227.33 113.03 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c7aa947a-728a-475f-ad77-618decb93bd3")
+		(property "Reference" "R6"
+			(at 225.044 107.696 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 225.044 110.236 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 227.33 114.808 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 227.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 227.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "0.1W"
+			(at 227.838 107.696 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 227.076 110.236 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW060310K0FKEI"
+			(at 227.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW060310K0FKEI?qs=3qWEzBg5KnKofE%252B8acPBRA%3D%3D"
+			(at 227.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ce0b571-4953-4a51-9038-e1b982d105d7")
+		)
+		(pin "2"
+			(uuid "8d67cc68-e13c-4c44-914d-5699728df09a")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 140.97 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c9464be2-7ca4-48b5-8979-7c29b807e54c")
+		(property "Reference" "C48"
+			(at 143.51 63.5062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 143.51 66.0462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 140.97 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 140.97 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 140.97 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 145.288 68.326 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 145.288 70.104 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 145.288 72.136 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "963-MLASU168AB7105KT"
+			(at 140.97 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/TAIYO-YUDEN/MLASU168AB7105KTNA01?qs=tlsG%2FOw5FFhFNBU7UyMRvQ%3D%3D"
+			(at 140.97 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f2c25593-7aec-4a29-b9d9-50138627dbe8")
+		)
+		(pin "1"
+			(uuid "c91740f1-54e1-4853-bb71-88d074f64bcc")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C48")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 151.13 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cf58b74f-b16e-44db-85e2-a1ba7fbb215c")
+		(property "Reference" "C57"
+			(at 153.67 63.5062 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 153.67 66.0462 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 151.13 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 151.13 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 155.448 67.818 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 155.702 69.596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 155.702 71.374 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 151.13 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 151.13 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "10eeff15-4565-47f3-b6fa-196b6cc6cb2b")
+		)
+		(pin "1"
+			(uuid "98c3ab41-5c38-4323-8322-5846437f65cf")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -20561,16 +22466,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 80.01 104.14 180)
+		(at 80.01 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d36fc609-b8de-4dd6-8c0c-2daea14fca3e")
 		(property "Reference" "#PWR060"
-			(at 80.01 97.79 0)
+			(at 80.01 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20579,7 +22484,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 99.06 0)
+			(at 80.01 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20626,74 +22531,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 74.93 130.81 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d3af6007-9d37-4cca-a027-66d1cbf62d6c")
-		(property "Reference" "C23"
-			(at 74.93 123.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1F"
-			(at 74.93 125.73 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 78.74 129.8448 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 74.93 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 74.93 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b2a47e7a-d509-4763-b1df-84d1f02d36af")
-		)
-		(pin "1"
-			(uuid "45426c8b-67d9-4ca5-937f-3f5ffd9453e9")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Simulation_SPICE:NPN")
 		(at 227.33 33.02 0)
 		(unit 1)
@@ -20721,7 +22558,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-3_TabPin4"
 			(at 290.83 33.02 0)
 			(effects
 				(font
@@ -20775,6 +22612,24 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Part Number" "522-ZXT849KTC"
+			(at 227.33 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Diodes-Incorporated/ZXT849KTC?qs=z1586jurcfxjNYmecDvwdA%3D%3D"
+			(at 227.33 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88b177ab-a439-47ae-bc41-7ace2c61606a")
 		)
@@ -20794,17 +22649,154 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 175.26 39.37 0)
+		(lib_id "SamacSys_Parts:MT29F2G01ABAGDWB-IT_G_TR")
+		(at 27.94 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "da0f6c7a-a756-474a-b39e-ce765c1d845b")
-		(property "Reference" "C61"
-			(at 177.8 38.1062 0)
+		(uuid "d777cfd7-6c19-4673-b32b-96bfd9ddc3b7")
+		(property "Reference" "IC10"
+			(at 46.99 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MT29F2G01ABAGDWB-IT_G_TR"
+			(at 46.99 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SamacSys_Parts:SON127P800X600X65-8N"
+			(at 62.23 225.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.arrow.com/en/products/mt29f2g01abagdwb-itgtr/micron-technology"
+			(at 62.23 325.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "IC FLASH 2G SPI 8UPDFN"
+			(at 27.94 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.65"
+			(at 62.23 525.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Micron"
+			(at 62.23 625.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "MT29F2G01ABAGDWB-IT:G TR"
+			(at 62.23 725.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "340-319922-REEL"
+			(at 62.23 825.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Micron/MT29F2G01ABAGDWB-ITG-TR?qs=j%252B1pi9TdxUa99FyONPZPSg%3D%3D"
+			(at 62.23 925.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "2ffe68cd-6614-4cb3-a054-bc3b1d1c06d8")
+		)
+		(pin "7"
+			(uuid "dc788344-7b66-4f95-a344-34f8fb17dd40")
+		)
+		(pin "6"
+			(uuid "1f6d4fa7-be1c-49dc-8659-e400e073a5eb")
+		)
+		(pin "1"
+			(uuid "653a259a-35e1-4a24-8837-b804363e7823")
+		)
+		(pin "4"
+			(uuid "b617c87e-d187-4404-8263-22c68701da71")
+		)
+		(pin "2"
+			(uuid "7d1fff30-c847-415e-bea8-2ec3a313fd97")
+		)
+		(pin "5"
+			(uuid "6e35e613-fcec-43e3-ad77-645a1ef9de19")
+		)
+		(pin "3"
+			(uuid "ba386689-9e62-4107-a7ad-3175080a5594")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "IC10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 125.73 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dd59aef5-2a2f-4a95-833e-4f4815b26fab")
+		(property "Reference" "C69"
+			(at 128.27 62.2362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20812,8 +22804,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2uF"
-			(at 177.8 40.6462 0)
+		(property "Value" "10nF"
+			(at 128.27 64.7762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20821,8 +22813,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 175.26 39.37 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 125.73 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20831,7 +22823,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 175.26 39.37 0)
+			(at 125.73 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20840,7 +22832,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 175.26 39.37 0)
+			(at 125.73 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 130.048 66.802 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 130.302 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 130.302 70.358 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71H103KA7J"
+			(at 125.73 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71H103KA37J?qs=N3Kl9KD794T3%2FxlXdF0Axg%3D%3D"
+			(at 125.73 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20849,15 +22883,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "076b19dc-bd1f-4807-bee1-37c452c4bcae")
+			(uuid "d8042471-fac7-44d9-a6f9-f6b69db6fd75")
 		)
 		(pin "1"
-			(uuid "069f850a-d93a-4641-be93-d42600c8d44a")
+			(uuid "c8ba44e0-51f2-41f8-b0e3-7c8b4f19a1a0")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C61")
+					(reference "C69")
 					(unit 1)
 				)
 			)
@@ -20865,16 +22899,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 52.07 60.96 0)
+		(at 127 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "db960682-12a3-40b4-9c10-5202b988e6f9")
-		(property "Reference" "C41"
-			(at 54.61 59.6962 0)
+		(uuid "e21b311b-b871-4ca2-a42f-cfc3dd22571b")
+		(property "Reference" "C44"
+			(at 129.54 38.1062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20883,7 +22916,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 54.61 62.2362 0)
+			(at 129.54 40.6462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20891,8 +22924,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 52.07 60.96 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 127 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20901,7 +22934,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 60.96 0)
+			(at 127 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20910,7 +22943,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 60.96 0)
+			(at 127 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 131.318 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 131.572 44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 131.572 45.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 127 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 127 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20919,15 +22994,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "081fccdb-0901-4d8d-8c35-054b4be69730")
+			(uuid "787cce1a-97e2-4af9-96a9-d952e98a48b7")
 		)
 		(pin "1"
-			(uuid "fd87218e-1eae-4caa-a25e-23c4708944f1")
+			(uuid "715137f8-35bf-440f-83aa-16f0d007549f")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C41")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -20935,16 +23010,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 41.91 60.96 0)
+		(at 96.52 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dd2426bf-6c9c-4b7a-9a37-0368ffce4aba")
-		(property "Reference" "C39"
-			(at 44.45 59.6962 0)
+		(uuid "e69d49cc-2b7f-41a1-b8ae-3b3aa7e2aba8")
+		(property "Reference" "C49"
+			(at 99.06 38.1062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20952,8 +23026,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 44.45 62.2362 0)
+		(property "Value" "1uF"
+			(at 99.06 40.6462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20961,8 +23035,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 41.91 60.96 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 96.52 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20971,7 +23045,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 41.91 60.96 0)
+			(at 96.52 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20980,7 +23054,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 41.91 60.96 0)
+			(at 96.52 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 100.838 42.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 100.838 44.704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 100.838 46.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "963-MLASU168AB7105KT"
+			(at 96.52 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/TAIYO-YUDEN/MLASU168AB7105KTNA01?qs=tlsG%2FOw5FFhFNBU7UyMRvQ%3D%3D"
+			(at 96.52 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20989,15 +23105,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "461dec46-db19-48ff-8319-b6d242985278")
+			(uuid "4d6e80f5-b385-4872-8983-1d78fe137b89")
 		)
 		(pin "1"
-			(uuid "bb98ffe1-8b93-427a-9d17-8d331698ac30")
+			(uuid "33c99743-d6ef-4ba8-b336-fff12c8a6d70")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C39")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -21005,16 +23121,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 80.01 62.23 0)
+		(at 137.16 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e21e3a12-fa24-4b7a-be1a-99b430aa078d")
+		(uuid "ea9e3d08-7b65-4d23-b925-9ac6dc4fa938")
 		(property "Reference" "C45"
-			(at 82.55 60.9662 0)
+			(at 139.7 38.1062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21023,7 +23138,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 82.55 63.5062 0)
+			(at 139.7 40.6462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21031,8 +23146,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 80.01 62.23 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 137.16 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21041,7 +23156,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 80.01 62.23 0)
+			(at 137.16 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21050,7 +23165,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 80.01 62.23 0)
+			(at 137.16 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 141.478 42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 141.732 44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 141.732 45.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 137.16 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 137.16 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21059,155 +23216,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "b982b784-4f44-4806-9b4c-87832211baac")
+			(uuid "15cd79d1-7711-480d-be10-1a85c0a6b2be")
 		)
 		(pin "1"
-			(uuid "d2390a2a-863d-41be-b6e4-4420f7e0f23f")
+			(uuid "4f8bde55-f4cf-423f-b1b3-85451d9fb623")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
 					(reference "C45")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 116.84 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e246746a-78d3-428f-9f39-b406ef68f1e0")
-		(property "Reference" "C52"
-			(at 119.38 38.1062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 119.38 40.6462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 116.84 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 116.84 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2f16433a-0cab-4938-9658-c459ccb0880a")
-		)
-		(pin "1"
-			(uuid "3e91f63e-5410-4c93-9e2b-8606304cd034")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 151.13 64.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e55b2393-3e78-4ed1-854d-fb39c4cd9da7")
-		(property "Reference" "C57"
-			(at 153.67 63.5062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 153.67 66.0462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 151.13 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 151.13 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 151.13 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cab3f071-f263-4c08-a5b3-cca2cf3792e9")
-		)
-		(pin "1"
-			(uuid "100bb40d-bf81-4d09-afb7-bbf9cf53be2a")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -21274,76 +23291,6 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
 					(reference "#PWR043")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 62.23 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f795f89b-4a72-4def-bd6e-6a9fc11d5630")
-		(property "Reference" "C42"
-			(at 64.77 36.8362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 64.77 39.3762 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.23 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 62.23 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8dcd209e-3ded-4c41-9eb7-f071dceb3cf0")
-		)
-		(pin "1"
-			(uuid "b1422709-a886-495d-bf1f-092db8ad0eee")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -21417,16 +23364,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 106.68 39.37 0)
+		(at 41.91 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fb590e21-5ed1-4f8c-a1f2-09f30c4ae4e9")
-		(property "Reference" "C50"
-			(at 109.22 38.1062 0)
+		(uuid "feea4562-296a-43c1-ac10-787dd24317b3")
+		(property "Reference" "C15"
+			(at 44.45 36.8362 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21435,7 +23381,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 109.22 40.6462 0)
+			(at 44.45 39.3762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21443,8 +23389,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 106.68 39.37 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 41.91 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21453,7 +23399,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 39.37 0)
+			(at 41.91 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21462,7 +23408,49 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 106.68 39.37 0)
+			(at 41.91 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "16V"
+			(at 46.228 41.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 46.482 42.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 46.482 44.704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
+			(at 41.91 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
+			(at 41.91 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21471,15 +23459,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "07efc06d-e554-406c-ade9-20546b08348b")
+			(uuid "1227563c-1187-41f1-891f-ab7401a83234")
 		)
 		(pin "1"
-			(uuid "2e9fefb5-15f4-461b-8cf9-c2dad6de4580")
+			(uuid "3075a8b4-0d58-4296-bdfa-4c1474374ada")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "C50")
+					(reference "C15")
 					(unit 1)
 				)
 			)
