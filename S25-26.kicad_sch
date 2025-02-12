@@ -11946,7 +11946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Part Number" "701-MXL86110I-AQB-R"
+		(property "Mouser Part Number" "701-MXL86110I-AQB-R"
 			(at 293.37 783.82 0)
 			(effects
 				(font
@@ -11956,7 +11956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Arrow Price/Stock" "https://www.mouser.com/ProductDetail/MaxLinear/MXL86110I-AQB-R?qs=HoCaDK9Nz5dY9zcrCfZYZw%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/MaxLinear/MXL86110I-AQB-R?qs=HoCaDK9Nz5dY9zcrCfZYZw%3D%3D"
 			(at 293.37 883.82 0)
 			(effects
 				(font
@@ -12217,7 +12217,7 @@
 		(at 22.86 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12828,7 +12828,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "35f7794d-8695-4b85-925d-99c14b0de5c8")
@@ -13980,7 +13980,7 @@
 		(at 220.98 55.88 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "63406e2e-3e70-433b-b8ff-0b0a9587524c")
@@ -16633,7 +16633,7 @@
 		(at 237.49 57.15 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ed282a84-81a7-4fa1-b2ab-34fdefe7b877")
