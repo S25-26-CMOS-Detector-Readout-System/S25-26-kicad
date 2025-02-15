@@ -2399,7 +2399,6 @@
 	(hierarchical_label "LVDS_CH09_N"
 		(shape input)
 		(at 93.98 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2411,7 +2410,6 @@
 	(hierarchical_label "LVDS_CTR_OUT_N"
 		(shape input)
 		(at 93.98 149.86 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2423,7 +2421,6 @@
 	(hierarchical_label "LVDS_CH07_N"
 		(shape input)
 		(at 93.98 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2435,7 +2432,6 @@
 	(hierarchical_label "CMOS_CH03"
 		(shape output)
 		(at 147.32 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2447,7 +2443,6 @@
 	(hierarchical_label "LVDS_CTR_OUT_P"
 		(shape input)
 		(at 93.98 144.78 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2459,7 +2454,6 @@
 	(hierarchical_label "LVDS_CLK_OUT_P"
 		(shape input)
 		(at 93.98 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2471,7 +2465,6 @@
 	(hierarchical_label "LVDS_CH03_P"
 		(shape input)
 		(at 93.98 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2483,7 +2476,6 @@
 	(hierarchical_label "LVDS_CH15_N"
 		(shape input)
 		(at 93.98 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2495,7 +2487,6 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 187.96 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2507,7 +2498,6 @@
 	(hierarchical_label "LVDS_CH05_N"
 		(shape input)
 		(at 93.98 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2519,7 +2509,6 @@
 	(hierarchical_label "CMOS_CH07"
 		(shape output)
 		(at 147.32 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2531,7 +2520,6 @@
 	(hierarchical_label "LVDS_CH05_P"
 		(shape input)
 		(at 93.98 45.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2543,7 +2531,6 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 187.96 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2555,7 +2542,6 @@
 	(hierarchical_label "CMOS_CTR_OUT"
 		(shape output)
 		(at 147.32 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2567,7 +2553,6 @@
 	(hierarchical_label "LVDS_CH07_P"
 		(shape input)
 		(at 93.98 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2579,7 +2564,6 @@
 	(hierarchical_label "LVDS_CH11_P"
 		(shape input)
 		(at 93.98 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2591,7 +2575,6 @@
 	(hierarchical_label "LVDS_CH13_N"
 		(shape input)
 		(at 93.98 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2603,7 +2586,6 @@
 	(hierarchical_label "CMOS_CH05"
 		(shape output)
 		(at 147.32 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2615,7 +2597,6 @@
 	(hierarchical_label "CMOS_CLK_OUT"
 		(shape output)
 		(at 147.32 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2627,7 +2608,6 @@
 	(hierarchical_label "CMOS_CH01"
 		(shape output)
 		(at 147.32 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2639,7 +2619,6 @@
 	(hierarchical_label "LVDS_RECV_EN"
 		(shape input)
 		(at 147.32 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2651,7 +2630,6 @@
 	(hierarchical_label "LVDS_CH01_N"
 		(shape input)
 		(at 93.98 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2663,7 +2641,6 @@
 	(hierarchical_label "LVDS_CH15_P"
 		(shape input)
 		(at 93.98 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2675,7 +2652,6 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 187.96 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2687,7 +2663,6 @@
 	(hierarchical_label "LVDS_CH03_N"
 		(shape input)
 		(at 93.98 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2699,7 +2674,6 @@
 	(hierarchical_label "LVDS_CH01_P"
 		(shape input)
 		(at 93.98 85.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2711,7 +2685,6 @@
 	(hierarchical_label "CMOS_CH11"
 		(shape output)
 		(at 147.32 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2723,7 +2696,6 @@
 	(hierarchical_label "CMOS_CH09"
 		(shape output)
 		(at 147.32 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2735,7 +2707,6 @@
 	(hierarchical_label "LVDS_CH09_P"
 		(shape input)
 		(at 93.98 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2747,7 +2718,6 @@
 	(hierarchical_label "CMOS_CH15"
 		(shape output)
 		(at 147.32 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2759,7 +2729,6 @@
 	(hierarchical_label "LVDS_CLK_OUT_N"
 		(shape input)
 		(at 93.98 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2771,7 +2740,6 @@
 	(hierarchical_label "LVDS_RECV_EN"
 		(shape input)
 		(at 147.32 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2783,7 +2751,6 @@
 	(hierarchical_label "LVDS_RECV_EN"
 		(shape input)
 		(at 147.32 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2795,7 +2762,6 @@
 	(hierarchical_label "LVDS_CH11_N"
 		(shape input)
 		(at 93.98 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2807,7 +2773,6 @@
 	(hierarchical_label "CMOS_CH13"
 		(shape output)
 		(at 147.32 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2819,7 +2784,6 @@
 	(hierarchical_label "LVDS_CH13_P"
 		(shape input)
 		(at 93.98 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2837,7 +2801,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16fb9ed4-e08e-47b4-8ef0-eee1636d7b4d")
-		(property "Reference" "C19"
+		(property "Reference" "C67"
 			(at 170.18 135.8962 0)
 			(effects
 				(font
@@ -2933,7 +2897,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "C19")
+					(reference "C67")
 					(unit 1)
 				)
 			)
@@ -2949,7 +2913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b0b7066-7565-49ff-b0c4-438afe7f675d")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR058"
 			(at 165.1 107.95 0)
 			(effects
 				(font
@@ -2999,7 +2963,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "#PWR049")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -3015,7 +2979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f83fa1f-0bdc-421d-b544-69e0d821126e")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR054"
 			(at 153.67 57.15 0)
 			(effects
 				(font
@@ -3066,7 +3030,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "#PWR044")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -3081,7 +3045,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "237de5bd-49ce-4ba1-b4ac-d2ee82babee6")
-		(property "Reference" "RLVDS10"
+		(property "Reference" "RLVDS11"
 			(at 95.504 146.304 0)
 			(effects
 				(font
@@ -3171,7 +3135,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS10")
+					(reference "RLVDS11")
 					(unit 1)
 				)
 			)
@@ -3186,7 +3150,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2b6c6ab6-2c21-4a9e-85a6-2dcd3add87fc")
-		(property "Reference" "C20"
+		(property "Reference" "C68"
 			(at 182.88 56.2609 0)
 			(effects
 				(font
@@ -3282,7 +3246,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "C20")
+					(reference "C68")
 					(unit 1)
 				)
 			)
@@ -3297,7 +3261,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e808d84-7bdd-4138-a542-7f83ba4bd2aa")
-		(property "Reference" "C17"
+		(property "Reference" "C65"
 			(at 167.64 57.1562 0)
 			(effects
 				(font
@@ -3393,7 +3357,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "C17")
+					(reference "C65")
 					(unit 1)
 				)
 			)
@@ -3408,7 +3372,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2f5cc7e5-53ce-4cc0-b3a2-fd0d3c1cf9c6")
-		(property "Reference" "C22"
+		(property "Reference" "C70"
 			(at 182.88 135.0009 0)
 			(effects
 				(font
@@ -3504,7 +3468,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "C22")
+					(reference "C70")
 					(unit 1)
 				)
 			)
@@ -3519,7 +3483,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3e97b768-26c9-4c63-b3d0-425bb43cdfe1")
-		(property "Reference" "RLVDS7"
+		(property "Reference" "RLVDS8"
 			(at 96.52 98.044 0)
 			(effects
 				(font
@@ -3609,7 +3573,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS7")
+					(reference "RLVDS8")
 					(unit 1)
 				)
 			)
@@ -3624,7 +3588,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5a5bb514-859d-4387-a8bf-f2ae36203975")
-		(property "Reference" "RLVDS9"
+		(property "Reference" "RLVDS10"
 			(at 96.52 120.904 0)
 			(effects
 				(font
@@ -3714,7 +3678,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS9")
+					(reference "RLVDS10")
 					(unit 1)
 				)
 			)
@@ -3729,7 +3693,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5ceec029-ad45-49c9-82ea-7e359d0cc7af")
-		(property "Reference" "C18"
+		(property "Reference" "C66"
 			(at 167.64 96.5262 0)
 			(effects
 				(font
@@ -3825,7 +3789,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "C18")
+					(reference "C66")
 					(unit 1)
 				)
 			)
@@ -3841,7 +3805,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64c8d771-f690-4211-8849-89927bbeffce")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR056"
 			(at 153.67 135.89 0)
 			(effects
 				(font
@@ -3892,7 +3856,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "#PWR046")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -3907,7 +3871,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "707f821a-d14d-48b2-8a5f-bc7613045905")
-		(property "Reference" "RLVDS8"
+		(property "Reference" "RLVDS9"
 			(at 96.52 106.934 0)
 			(effects
 				(font
@@ -3997,7 +3961,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS8")
+					(reference "RLVDS9")
 					(unit 1)
 				)
 			)
@@ -4013,7 +3977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7fdcc960-9776-4e8a-b685-79139c063ec4")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR055"
 			(at 153.67 96.52 0)
 			(effects
 				(font
@@ -4064,7 +4028,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "#PWR045")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -4080,7 +4044,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80087b51-c391-48e5-901b-ba3f780b794d")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR060"
 			(at 179.07 68.58 0)
 			(effects
 				(font
@@ -4130,7 +4094,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "#PWR048")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -4145,7 +4109,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "94f8a353-c5ca-4502-aec1-5373a8daf386")
-		(property "Reference" "C21"
+		(property "Reference" "C69"
 			(at 182.88 95.6309 0)
 			(effects
 				(font
@@ -4241,7 +4205,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "C21")
+					(reference "C69")
 					(unit 1)
 				)
 			)
@@ -4257,7 +4221,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c350c27-6dc1-4c1d-8571-f59137d7e5ee")
-		(property "Reference" "IC4"
+		(property "Reference" "IC9"
 			(at 130.81 78.74 0)
 			(effects
 				(font
@@ -4403,7 +4367,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "IC4")
+					(reference "IC9")
 					(unit 1)
 				)
 			)
@@ -4418,7 +4382,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f6b3aad-2fd9-4789-b0bd-a941eafe5c01")
-		(property "Reference" "RLVDS3"
+		(property "Reference" "RLVDS4"
 			(at 96.52 58.674 0)
 			(effects
 				(font
@@ -4508,7 +4472,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS3")
+					(reference "RLVDS4")
 					(unit 1)
 				)
 			)
@@ -4524,7 +4488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac183a06-32b6-4f7f-911f-434cb4c65e4c")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR061"
 			(at 179.07 107.95 0)
 			(effects
 				(font
@@ -4574,7 +4538,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "#PWR050")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -4589,7 +4553,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b1b04b32-2dc9-4cf2-8506-815334fc4912")
-		(property "Reference" "RLVDS1"
+		(property "Reference" "RLVDS2"
 			(at 96.52 42.164 0)
 			(effects
 				(font
@@ -4677,7 +4641,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS1")
+					(reference "RLVDS2")
 					(unit 1)
 				)
 			)
@@ -4693,7 +4657,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b20bec7f-ea48-4b56-840f-f36dfeb977ef")
-		(property "Reference" "IC5"
+		(property "Reference" "IC10"
 			(at 130.81 118.11 0)
 			(effects
 				(font
@@ -4839,7 +4803,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "IC5")
+					(reference "IC10")
 					(unit 1)
 				)
 			)
@@ -4854,7 +4818,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b385120a-7478-4873-b7a1-04634d393cad")
-		(property "Reference" "RLVDS5"
+		(property "Reference" "RLVDS6"
 			(at 96.52 81.534 0)
 			(effects
 				(font
@@ -4944,7 +4908,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS5")
+					(reference "RLVDS6")
 					(unit 1)
 				)
 			)
@@ -4960,7 +4924,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be1ae1a3-53be-4981-b807-c88d4207d5cc")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR059"
 			(at 167.64 147.32 0)
 			(effects
 				(font
@@ -5010,7 +4974,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "#PWR051")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -5025,7 +4989,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c0df0a8a-b6ee-4640-ae9d-4458fdf2657c")
-		(property "Reference" "RLVDS6"
+		(property "Reference" "RLVDS7"
 			(at 96.52 90.424 0)
 			(effects
 				(font
@@ -5115,7 +5079,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS6")
+					(reference "RLVDS7")
 					(unit 1)
 				)
 			)
@@ -5130,7 +5094,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c300c9eb-7905-43a9-8d7d-0592d565ab50")
-		(property "Reference" "RLVDS4"
+		(property "Reference" "RLVDS5"
 			(at 96.52 67.564 0)
 			(effects
 				(font
@@ -5220,7 +5184,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS4")
+					(reference "RLVDS5")
 					(unit 1)
 				)
 			)
@@ -5236,7 +5200,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4859cf6-7148-4352-905b-ccb688341b73")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR062"
 			(at 179.07 147.32 0)
 			(effects
 				(font
@@ -5286,7 +5250,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "#PWR052")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -5302,7 +5266,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4861a19-1bce-474b-8016-4bb92f3aea9b")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR057"
 			(at 165.1 68.58 0)
 			(effects
 				(font
@@ -5352,7 +5316,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "#PWR047")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -5368,7 +5332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f19f60b5-b6f6-4c47-bf0e-7122057a9456")
-		(property "Reference" "IC3"
+		(property "Reference" "IC8"
 			(at 130.81 39.37 0)
 			(effects
 				(font
@@ -5514,7 +5478,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "IC3")
+					(reference "IC8")
 					(unit 1)
 				)
 			)
@@ -5529,7 +5493,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f67e379f-d214-4363-be63-f038da70455b")
-		(property "Reference" "RLVDS2"
+		(property "Reference" "RLVDS3"
 			(at 96.52 51.054 0)
 			(effects
 				(font
@@ -5619,7 +5583,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS2")
+					(reference "RLVDS3")
 					(unit 1)
 				)
 			)
