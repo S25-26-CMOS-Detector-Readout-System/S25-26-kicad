@@ -14074,6 +14074,7 @@
 	)
 	(label "QSPI_IO2"
 		(at 16.51 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14084,6 +14085,7 @@
 	)
 	(label "XMC_VDIO1"
 		(at 21.59 45.72 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14094,6 +14096,7 @@
 	)
 	(label "XMC_VDDD"
 		(at 21.59 22.86 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14104,6 +14107,7 @@
 	)
 	(label "CMOS_LVDS_CLK_IN"
 		(at 158.75 168.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14112,8 +14116,9 @@
 		)
 		(uuid "155e63e0-2145-4dd0-914a-0e448f41806e")
 	)
-	(label "QSPI_CLK"
+	(label "QSPI_SCLK"
 		(at 180.975 267.97 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14124,6 +14129,7 @@
 	)
 	(label "QSPI_IO0"
 		(at 76.835 111.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14134,6 +14140,7 @@
 	)
 	(label "QSPI_IO0"
 		(at 77.47 138.43 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14144,6 +14151,7 @@
 	)
 	(label "EXT_PS_CTL1"
 		(at 210.82 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14154,6 +14162,7 @@
 	)
 	(label "QSPI_IO1"
 		(at 16.51 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14164,6 +14173,7 @@
 	)
 	(label "QSPI_IO3"
 		(at 76.835 133.35 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14174,6 +14184,7 @@
 	)
 	(label "QSPI_IO2"
 		(at 232.41 295.91 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14184,6 +14195,7 @@
 	)
 	(label "XMC_VDIO2"
 		(at 360.68 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14194,6 +14206,7 @@
 	)
 	(label "SCB0_MOSI"
 		(at 261.62 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14204,6 +14217,7 @@
 	)
 	(label "XMC_VDIO3"
 		(at 105.41 48.26 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14214,6 +14228,7 @@
 	)
 	(label "QSPI_IO0"
 		(at 212.09 296.545 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14224,6 +14239,7 @@
 	)
 	(label "SCB2_CLK"
 		(at 400.05 201.93 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14234,6 +14250,7 @@
 	)
 	(label "QSPI_IO2"
 		(at 16.51 109.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14244,6 +14261,7 @@
 	)
 	(label "EXT_PS_CTL0"
 		(at 210.82 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14254,6 +14272,7 @@
 	)
 	(label "SCB0_MISO"
 		(at 259.08 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14264,6 +14283,7 @@
 	)
 	(label "ECO_IN"
 		(at 270.51 294.64 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14274,6 +14294,7 @@
 	)
 	(label "PWM1_M_4"
 		(at 180.34 190.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14284,6 +14305,7 @@
 	)
 	(label "QSPI_IO3"
 		(at 234.95 295.91 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14294,6 +14316,7 @@
 	)
 	(label "QSPI_IO1"
 		(at 16.51 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14304,6 +14327,7 @@
 	)
 	(label "CMOS_LVDS_CLK_IN"
 		(at 360.68 34.29 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14314,6 +14338,7 @@
 	)
 	(label "XMC_VCCD"
 		(at 96.52 24.13 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14324,6 +14349,7 @@
 	)
 	(label "DRV_VOUT"
 		(at 210.82 33.02 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14334,6 +14360,7 @@
 	)
 	(label "SCB0_SEL0"
 		(at 264.16 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14344,6 +14371,7 @@
 	)
 	(label "QSPI_SCLK"
 		(at 76.835 135.89 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14354,6 +14382,7 @@
 	)
 	(label "XMC_VCCD"
 		(at 242.57 52.07 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14364,6 +14393,7 @@
 	)
 	(label "XMC_VDDA"
 		(at 152.4 24.13 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14374,6 +14404,7 @@
 	)
 	(label "XMC_VCCD"
 		(at 365.76 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14384,6 +14415,7 @@
 	)
 	(label "QSPI_IO3"
 		(at 76.835 106.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14394,6 +14426,7 @@
 	)
 	(label "XMC_VDIO2"
 		(at 69.85 46.99 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14404,6 +14437,7 @@
 	)
 	(label "XMC_VDDA"
 		(at 368.3 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14414,6 +14448,7 @@
 	)
 	(label "QSPI_SCLK"
 		(at 76.835 109.22 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14424,6 +14459,7 @@
 	)
 	(label "EXT_PS_CTL0"
 		(at 179.07 257.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14434,6 +14470,7 @@
 	)
 	(label "XMC_VDIO4"
 		(at 355.6 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14444,6 +14481,7 @@
 	)
 	(label "XMC_VREFH"
 		(at 175.26 24.13 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14454,6 +14492,7 @@
 	)
 	(label "DRV_VOUT"
 		(at 373.38 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14464,6 +14503,7 @@
 	)
 	(label "SCB2_MOSI"
 		(at 401.32 245.11 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14474,6 +14514,7 @@
 	)
 	(label "SCB7_MOSI"
 		(at 180.34 229.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14484,6 +14525,7 @@
 	)
 	(label "SCB0_CLK"
 		(at 304.8 113.03 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14494,6 +14536,7 @@
 	)
 	(label "SCB7_CLK"
 		(at 180.34 227.33 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14504,6 +14547,7 @@
 	)
 	(label "QSPI_SEL1"
 		(at 209.55 296.545 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14514,6 +14558,7 @@
 	)
 	(label "QSPI_IO1"
 		(at 229.87 295.91 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14524,6 +14569,7 @@
 	)
 	(label "SCB2_SEL0"
 		(at 401.32 156.21 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14534,6 +14580,7 @@
 	)
 	(label "EXT_PS_CTL1"
 		(at 179.07 237.49 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14544,6 +14591,7 @@
 	)
 	(label "XMC_VDDD"
 		(at 363.22 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14554,6 +14602,7 @@
 	)
 	(label "XMC_VDIO3"
 		(at 358.14 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14564,6 +14613,7 @@
 	)
 	(label "QSPI_SEL0"
 		(at 16.51 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14574,6 +14624,7 @@
 	)
 	(label "ECO_IN"
 		(at 69.85 168.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14584,6 +14635,7 @@
 	)
 	(label "SCB2_MISO"
 		(at 401.32 242.57 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14594,6 +14646,7 @@
 	)
 	(label "XMC_VDIO1"
 		(at 353.06 111.76 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14604,6 +14657,7 @@
 	)
 	(label "QSPI_SEL1"
 		(at 16.51 130.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14614,6 +14668,7 @@
 	)
 	(label "QSPI_SEL0"
 		(at 207.01 296.545 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14624,6 +14679,7 @@
 	)
 	(label "PWM1_M_4"
 		(at 180.34 168.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14634,6 +14690,7 @@
 	)
 	(label "XMC_VDIO4"
 		(at 140.97 49.53 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14644,6 +14701,7 @@
 	)
 	(label "XMC_VREFH"
 		(at 214.63 298.45 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14654,6 +14712,7 @@
 	)
 	(label "SCB7_MISO"
 		(at 180.34 232.41 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14687,6 +14746,7 @@
 	(hierarchical_label "ETH0_RX_CLK (P23.3)"
 		(shape input)
 		(at 191.77 209.55 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14698,6 +14758,7 @@
 	(hierarchical_label "ETH0_RXD_0 (P19.0)"
 		(shape input)
 		(at 389.89 140.97 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14709,6 +14770,7 @@
 	(hierarchical_label "ETH0_RXD_3 (P19.3)"
 		(shape input)
 		(at 311.15 285.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14720,6 +14782,7 @@
 	(hierarchical_label "CMOS_CH03 (P4.0)"
 		(shape input)
 		(at 327.66 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14731,6 +14794,7 @@
 	(hierarchical_label "TEMPR_ADC0 (P6.0)"
 		(shape input)
 		(at 294.64 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14742,6 +14806,7 @@
 	(hierarchical_label "ETH0_MDC (P3.1)"
 		(shape bidirectional)
 		(at 317.5 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14753,6 +14818,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 52.07 57.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14764,6 +14830,7 @@
 	(hierarchical_label "CMOS_CLK_IN_N"
 		(shape output)
 		(at 311.15 35.56 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14775,6 +14842,7 @@
 	(hierarchical_label "LVDS_REC_EN"
 		(shape output)
 		(at 191.77 135.89 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14786,6 +14854,7 @@
 	(hierarchical_label "JTAG_TDI (P23.7)"
 		(shape input)
 		(at 191.77 184.15 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14797,6 +14866,7 @@
 	(hierarchical_label "ETH0_RXD_2 (P19.2)"
 		(shape input)
 		(at 313.69 285.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14808,6 +14878,7 @@
 	(hierarchical_label "CMOS_RESET_N"
 		(shape output)
 		(at 231.14 109.22 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14819,6 +14890,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 137.16 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14830,6 +14902,7 @@
 	(hierarchical_label "ETH0_REF_CLK (P18.0)"
 		(shape output)
 		(at 389.89 232.41 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14841,6 +14914,7 @@
 	(hierarchical_label "JTAG_SWDIO (P23.6)"
 		(shape bidirectional)
 		(at 191.77 186.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14852,6 +14926,7 @@
 	(hierarchical_label "ETH0_RXD_1 (P19.1)"
 		(shape input)
 		(at 389.89 138.43 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14863,6 +14938,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 68.58 102.87 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14874,6 +14950,7 @@
 	(hierarchical_label "CMOS_SPI_MOSI (P23.1)"
 		(shape output)
 		(at 177.8 229.87 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14885,6 +14962,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 161.29 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14896,6 +14974,7 @@
 	(hierarchical_label "ETH0_MDIO (P3.0)"
 		(shape bidirectional)
 		(at 314.96 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14907,6 +14986,7 @@
 	(hierarchical_label "ETH0_TX_CTL (P18.1)"
 		(shape output)
 		(at 389.89 229.87 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14918,6 +14998,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 223.52 113.03 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14929,6 +15010,7 @@
 	(hierarchical_label "TEMPR_ADC1 (P6.1)"
 		(shape input)
 		(at 248.92 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14940,6 +15022,7 @@
 	(hierarchical_label "CMOS_CH13 (P4.3)"
 		(shape input)
 		(at 191.77 143.51 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14951,6 +15034,7 @@
 	(hierarchical_label "CMOS_CLK_OUT"
 		(shape input)
 		(at 191.77 265.43 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14962,6 +15046,7 @@
 	(hierarchical_label "ETH0_TXD_1 (P18.5)"
 		(shape output)
 		(at 389.89 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14973,6 +15058,7 @@
 	(hierarchical_label "CMOS_CTR (P28.3)"
 		(shape input)
 		(at 191.77 163.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14984,6 +15070,7 @@
 	(hierarchical_label "CMOS_CLK_IN_P"
 		(shape output)
 		(at 341.63 30.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14995,6 +15082,7 @@
 	(hierarchical_label "CMOS_SPI_EN (P7.3)"
 		(shape bidirectional)
 		(at 191.77 191.77 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15006,6 +15094,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 68.58 128.905 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15017,6 +15106,7 @@
 	(hierarchical_label "ETH0_TXD_2 (P18.6)"
 		(shape output)
 		(at 389.89 133.35 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15028,6 +15118,7 @@
 	(hierarchical_label "FRAME_REQ"
 		(shape output)
 		(at 191.77 148.59 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15039,6 +15130,7 @@
 	(hierarchical_label "CMOS_CH11 (P5.1)"
 		(shape input)
 		(at 289.56 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15050,6 +15142,7 @@
 	(hierarchical_label "ETH0_TX_CLK (P18.3)"
 		(shape output)
 		(at 389.89 184.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15061,6 +15154,7 @@
 	(hierarchical_label "ETH0_TXD_3 (P18.7)"
 		(shape output)
 		(at 308.61 285.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15072,6 +15166,7 @@
 	(hierarchical_label "HRSTN"
 		(shape output)
 		(at 161.29 153.67 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15083,6 +15178,7 @@
 	(hierarchical_label "CMOS_CH01 (P5.0)"
 		(shape input)
 		(at 332.74 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15094,6 +15190,7 @@
 	(hierarchical_label "SCB3_TX (P17.2)"
 		(shape output)
 		(at 389.89 267.97 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15105,6 +15202,7 @@
 	(hierarchical_label "ETH0_TXD_0 (P18.4)"
 		(shape output)
 		(at 389.89 181.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15116,6 +15214,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 90.17 58.42 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15127,6 +15226,7 @@
 	(hierarchical_label "SCB3_RX (P17.1)"
 		(shape input)
 		(at 389.89 222.25 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15138,6 +15238,7 @@
 	(hierarchical_label "JTAG_SWCLK (P23.5)"
 		(shape input)
 		(at 191.77 204.47 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15149,6 +15250,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 185.42 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15160,6 +15262,7 @@
 	(hierarchical_label "CMOS_CH09 (P4.1)"
 		(shape input)
 		(at 284.48 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15171,6 +15274,7 @@
 	(hierarchical_label "ETH0_RX_CTL (P21.5)"
 		(shape input)
 		(at 224.79 285.75 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15182,6 +15286,7 @@
 	(hierarchical_label "CMOS_SPI_CLK (P23.2)"
 		(shape output)
 		(at 177.8 227.33 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15193,6 +15298,7 @@
 	(hierarchical_label "CMOS_SPI_MISO (P23.0)"
 		(shape output)
 		(at 177.8 232.41 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15204,6 +15310,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 55.88 163.83 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15215,6 +15322,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 163.83 146.05 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15226,6 +15334,7 @@
 	(hierarchical_label "CMOS_CH15 (P5.3)"
 		(shape input)
 		(at 191.77 138.43 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15237,6 +15346,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 162.56 35.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15248,6 +15358,7 @@
 	(hierarchical_label "CMOS_MASTER_CLK (P7.2)"
 		(shape output)
 		(at 168.91 190.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15259,6 +15370,7 @@
 	(hierarchical_label "CMOS_CH07 (P4.2)"
 		(shape input)
 		(at 238.76 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15270,6 +15382,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 82.55 34.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15281,6 +15394,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 229.87 26.67 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15292,6 +15406,7 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 125.73 59.69 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15303,6 +15418,7 @@
 	(hierarchical_label "JTAG_SWO (P23.4)"
 		(shape input)
 		(at 191.77 207.01 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15314,6 +15430,7 @@
 	(hierarchical_label "CMOS_CH05 (P5.2)"
 		(shape input)
 		(at 243.84 123.19 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
