@@ -11609,6 +11609,12 @@
 		(uuid "035639cb-0ae8-4903-8d35-fbf25cfbf070")
 	)
 	(junction
+		(at 137.16 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04b2d630-9102-48bc-b669-a04e42bba2e6")
+	)
+	(junction
 		(at 21.59 34.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12308,6 +12314,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 237.49) (xy 191.77 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "219debdb-7679-449a-b045-1d4c54a0345a")
+	)
+	(wire
+		(pts
 			(xy 151.13 68.58) (xy 151.13 67.31)
 		)
 		(stroke
@@ -12715,16 +12731,6 @@
 			(type default)
 		)
 		(uuid "5316a81e-3da5-44ef-bfb2-9a359c2232fe")
-	)
-	(wire
-		(pts
-			(xy 179.07 237.49) (xy 191.77 237.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54e4beaa-a0a6-4a75-9bcc-b9a06bbe566d")
 	)
 	(wire
 		(pts
@@ -13285,6 +13291,16 @@
 			(type default)
 		)
 		(uuid "a07bba08-95fe-4173-a1fe-2c91799360eb")
+	)
+	(wire
+		(pts
+			(xy 137.16 24.13) (xy 137.16 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a16af5a8-d3bb-4773-b057-c21b058fb368")
 	)
 	(wire
 		(pts
@@ -14149,17 +14165,6 @@
 		)
 		(uuid "1bd29fdb-c54c-4c47-9886-031d2941c2a4")
 	)
-	(label "EXT_PS_CTL1"
-		(at 210.82 49.53 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1d13c5d3-4f68-4772-bbc6-347e3e9e71d7")
-	)
 	(label "QSPI_IO1"
 		(at 16.51 133.35 0)
 		(fields_autoplaced yes)
@@ -14479,6 +14484,17 @@
 		)
 		(uuid "925e0edf-3151-44e7-a287-f4062f19eb21")
 	)
+	(label "EXT_PS_CTL1"
+		(at 210.82 49.53 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "97d0fbfe-575d-4a19-92ee-f20ac3fdb65a")
+	)
 	(label "XMC_VREFH"
 		(at 175.26 24.13 270)
 		(fields_autoplaced yes)
@@ -14556,6 +14572,17 @@
 		)
 		(uuid "c00e65ed-24ab-4773-9b3b-9574157b4be1")
 	)
+	(label "XMC_VCCD"
+		(at 137.16 24.13 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c196f100-2f7b-4fa3-b42a-3fdd8fe2ec6f")
+	)
 	(label "QSPI_IO1"
 		(at 229.87 295.91 90)
 		(fields_autoplaced yes)
@@ -14578,17 +14605,6 @@
 		)
 		(uuid "c66a5fdd-a74c-4f29-adb3-9976cdb32e8e")
 	)
-	(label "EXT_PS_CTL1"
-		(at 179.07 237.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cbca3b66-031c-48ee-9edc-3f0862c6b17d")
-	)
 	(label "XMC_VDDD"
 		(at 363.22 111.76 270)
 		(fields_autoplaced yes)
@@ -14599,6 +14615,17 @@
 			(justify right bottom)
 		)
 		(uuid "cd3d34a3-2a68-40a8-9439-5a0aaa7be7b7")
+	)
+	(label "EXT_PS_CTL1"
+		(at 179.07 237.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d27dd7e8-def5-4c1c-8c30-a629483c11d6")
 	)
 	(label "XMC_VDIO3"
 		(at 358.14 111.76 270)
@@ -14781,7 +14808,7 @@
 	)
 	(hierarchical_label "CMOS_CH03 (P4.0)"
 		(shape input)
-		(at 327.66 123.19 90)
+		(at 340.36 123.19 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14793,7 +14820,7 @@
 	)
 	(hierarchical_label "TEMPR_ADC0 (P6.0)"
 		(shape input)
-		(at 294.64 123.19 90)
+		(at 389.89 189.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14886,18 +14913,6 @@
 			(justify left)
 		)
 		(uuid "3ac418bb-6db2-4275-847e-96dfe7e9cb8f")
-	)
-	(hierarchical_label "+3V3"
-		(shape input)
-		(at 137.16 35.56 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "401d20c4-705b-4fd5-8517-049dc664808c")
 	)
 	(hierarchical_label "ETH0_REF_CLK (P18.0)"
 		(shape output)
@@ -15009,7 +15024,7 @@
 	)
 	(hierarchical_label "TEMPR_ADC1 (P6.1)"
 		(shape input)
-		(at 248.92 123.19 90)
+		(at 389.89 234.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15021,25 +15036,25 @@
 	)
 	(hierarchical_label "CMOS_CH13 (P4.3)"
 		(shape input)
-		(at 191.77 143.51 180)
+		(at 327.66 123.19 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "771384ca-6d3e-4ae5-bcf8-7e73514ad897")
 	)
 	(hierarchical_label "CMOS_CLK_OUT"
 		(shape input)
-		(at 191.77 265.43 180)
+		(at 213.36 123.19 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "7edfde45-b545-4a3b-829f-c0260bfa4c5a")
 	)
@@ -15055,15 +15070,15 @@
 		)
 		(uuid "800157ea-d0ff-4393-a212-755696859618")
 	)
-	(hierarchical_label "CMOS_CTR (P28.3)"
+	(hierarchical_label "CMOS_CTR_OUT (P28.3)"
 		(shape input)
-		(at 191.77 163.83 180)
+		(at 254 123.19 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "824f5bde-1c88-4775-b630-bb50c4004623")
 	)
@@ -15129,7 +15144,7 @@
 	)
 	(hierarchical_label "CMOS_CH11 (P5.1)"
 		(shape input)
-		(at 289.56 123.19 90)
+		(at 330.2 123.19 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15177,7 +15192,7 @@
 	)
 	(hierarchical_label "CMOS_CH01 (P5.0)"
 		(shape input)
-		(at 332.74 123.19 90)
+		(at 342.9 123.19 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15261,7 +15276,7 @@
 	)
 	(hierarchical_label "CMOS_CH09 (P4.1)"
 		(shape input)
-		(at 284.48 123.19 90)
+		(at 332.74 123.19 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15333,13 +15348,13 @@
 	)
 	(hierarchical_label "CMOS_CH15 (P5.3)"
 		(shape input)
-		(at 191.77 138.43 180)
+		(at 325.12 123.19 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "e95c03c5-dffa-41f9-9574-ebb5c975a4ed")
 	)
@@ -15369,7 +15384,7 @@
 	)
 	(hierarchical_label "CMOS_CH07 (P4.2)"
 		(shape input)
-		(at 238.76 123.19 90)
+		(at 335.28 123.19 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15429,7 +15444,7 @@
 	)
 	(hierarchical_label "CMOS_CH05 (P5.2)"
 		(shape input)
-		(at 243.84 123.19 90)
+		(at 337.82 123.19 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17726,7 +17741,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 162.052 149.86 90)
 			(effects
 				(font
@@ -17753,7 +17768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.1W"
+		(property "Power Rating" "0.25W"
 			(at 172.974 148.59 0)
 			(effects
 				(font
@@ -20131,7 +20146,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 60.6552 176.53 0)
 			(effects
 				(font
@@ -22431,7 +22446,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 227.33 114.808 90)
 			(effects
 				(font
@@ -22458,7 +22473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.1W"
+		(property "Power Rating" "0.25W"
 			(at 227.838 107.696 90)
 			(effects
 				(font
