@@ -1,12 +1,14 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "714874dd-57e4-4054-b833-6a0d6b434c34")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Device:C_Polarized"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0.254)
 			)
@@ -162,11 +164,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:C_Small"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0.254) hide)
+				(offset 0.254)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -236,10 +243,10 @@
 			(symbol "C_Small_0_1"
 				(polyline
 					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
+						(xy -1.524 0.508) (xy 1.524 0.508)
 					)
 					(stroke
-						(width 0.3302)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -248,10 +255,10 @@
 				)
 				(polyline
 					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
 					)
 					(stroke
-						(width 0.3048)
+						(width 0.3302)
 						(type default)
 					)
 					(fill
@@ -297,11 +304,16 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "Device:R_Small"
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0.254) hide)
+				(offset 0.254)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -419,6 +431,7 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "SamacSys_Parts:DS90LV048ATM_NOPB"
 			(exclude_from_sim no)
@@ -544,132 +557,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 -15.24 180)
-					(length 5.08)
-					(name "ROUT4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 -12.7 180)
-					(length 5.08)
-					(name "ROUT3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 -10.16 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "12"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 -7.62 180)
-					(length 5.08)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "13"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 -5.08 180)
-					(length 5.08)
-					(name "ROUT2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "14"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 -2.54 180)
-					(length 5.08)
-					(name "ROUT1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "15"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 33.02 0 180)
-					(length 5.08)
-					(name "EN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "16"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -804,6 +691,132 @@
 					)
 				)
 				(pin passive line
+					(at 33.02 0 180)
+					(length 5.08)
+					(name "EN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -2.54 180)
+					(length 5.08)
+					(name "ROUT1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -5.08 180)
+					(length 5.08)
+					(name "ROUT2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -7.62 180)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -10.16 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -12.7 180)
+					(length 5.08)
+					(name "ROUT3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 33.02 -15.24 180)
+					(length 5.08)
+					(name "ROUT4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
 					(at 33.02 -17.78 180)
 					(length 5.08)
 					(name "EN~"
@@ -822,12 +835,17 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
 		(symbol "power:GND"
 			(power)
-			(pin_numbers hide)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
-				(offset 0) hide)
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -918,7 +936,78 @@
 					)
 				)
 			)
+			(embedded_fonts no)
 		)
+	)
+	(text "NC\n"
+		(exclude_from_sim no)
+		(at 149.86 141.224 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "08a68645-67af-4dc1-aeeb-c4ec6f8f6ac9")
+	)
+	(text "NC\n"
+		(exclude_from_sim no)
+		(at 111.76 138.684 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0f8a5849-4de9-487a-a233-266e798159ce")
+	)
+	(text "NC\n"
+		(exclude_from_sim no)
+		(at 149.86 138.684 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "61a4282a-e9f5-4f8f-83bd-426d44257f05")
+	)
+	(text "NC\n"
+		(exclude_from_sim no)
+		(at 111.76 136.144 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "664437f5-575e-4b4a-bf83-30495aba2a25")
+	)
+	(text "NC\n"
+		(exclude_from_sim no)
+		(at 149.86 104.394 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6e7181c1-f28e-481b-b137-a403bac97693")
+	)
+	(text "NC\n"
+		(exclude_from_sim no)
+		(at 149.86 65.024 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "78e7acd9-2d8f-44b2-8d6c-db13780a4cba")
+	)
+	(text "NC\n"
+		(exclude_from_sim no)
+		(at 149.86 143.764 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b4ca4101-1c88-4a1e-816e-6809eb4d4e09")
 	)
 	(junction
 		(at 165.1 54.61)
@@ -2214,80 +2303,9 @@
 		)
 		(uuid "ffbc6062-49d7-4d82-a4dd-b3c1849a6929")
 	)
-	(text "NC\n"
-		(exclude_from_sim no)
-		(at 149.86 141.224 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "08a68645-67af-4dc1-aeeb-c4ec6f8f6ac9")
-	)
-	(text "NC\n"
-		(exclude_from_sim no)
-		(at 111.76 138.684 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "0f8a5849-4de9-487a-a233-266e798159ce")
-	)
-	(text "NC\n"
-		(exclude_from_sim no)
-		(at 149.86 138.684 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "61a4282a-e9f5-4f8f-83bd-426d44257f05")
-	)
-	(text "NC\n"
-		(exclude_from_sim no)
-		(at 111.76 136.144 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "664437f5-575e-4b4a-bf83-30495aba2a25")
-	)
-	(text "NC\n"
-		(exclude_from_sim no)
-		(at 149.86 104.394 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6e7181c1-f28e-481b-b137-a403bac97693")
-	)
-	(text "NC\n"
-		(exclude_from_sim no)
-		(at 149.86 65.024 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "78e7acd9-2d8f-44b2-8d6c-db13780a4cba")
-	)
-	(text "NC\n"
-		(exclude_from_sim no)
-		(at 149.86 143.764 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "b4ca4101-1c88-4a1e-816e-6809eb4d4e09")
-	)
 	(hierarchical_label "LVDS_CH09_N"
 		(shape input)
 		(at 93.98 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2299,7 +2317,6 @@
 	(hierarchical_label "LVDS_CTR_OUT_N"
 		(shape input)
 		(at 93.98 133.35 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2311,7 +2328,6 @@
 	(hierarchical_label "LVDS_CH07_N"
 		(shape input)
 		(at 93.98 93.98 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2323,7 +2339,6 @@
 	(hierarchical_label "CMOS_CH03"
 		(shape output)
 		(at 147.32 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2335,7 +2350,6 @@
 	(hierarchical_label "LVDS_CTR_OUT_P"
 		(shape input)
 		(at 93.98 128.27 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2347,7 +2361,6 @@
 	(hierarchical_label "LVDS_CLK_OUT_P"
 		(shape input)
 		(at 93.98 45.72 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2359,7 +2372,6 @@
 	(hierarchical_label "LVDS_CH03_P"
 		(shape input)
 		(at 93.98 105.41 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2371,7 +2383,6 @@
 	(hierarchical_label "LVDS_CH15_N"
 		(shape input)
 		(at 93.98 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2383,7 +2394,6 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 187.96 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2395,7 +2405,6 @@
 	(hierarchical_label "LVDS_CH05_N"
 		(shape input)
 		(at 93.98 96.52 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2407,7 +2416,6 @@
 	(hierarchical_label "CMOS_CH07"
 		(shape output)
 		(at 147.32 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2419,7 +2427,6 @@
 	(hierarchical_label "LVDS_CH05_P"
 		(shape input)
 		(at 93.98 101.6 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2431,7 +2438,6 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 187.96 93.98 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2443,7 +2449,6 @@
 	(hierarchical_label "CMOS_CTR_OUT"
 		(shape output)
 		(at 147.32 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2455,7 +2460,6 @@
 	(hierarchical_label "LVDS_CH07_P"
 		(shape input)
 		(at 93.98 88.9 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2467,7 +2471,6 @@
 	(hierarchical_label "LVDS_CH11_P"
 		(shape input)
 		(at 93.98 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2479,7 +2482,6 @@
 	(hierarchical_label "LVDS_CH13_N"
 		(shape input)
 		(at 93.98 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2491,7 +2493,6 @@
 	(hierarchical_label "CMOS_CH05"
 		(shape output)
 		(at 147.32 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2503,7 +2504,6 @@
 	(hierarchical_label "CMOS_CLK_OUT"
 		(shape output)
 		(at 147.32 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2515,7 +2515,6 @@
 	(hierarchical_label "CMOS_CH01"
 		(shape output)
 		(at 147.32 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2527,7 +2526,6 @@
 	(hierarchical_label "LVDS_RECV_EN"
 		(shape input)
 		(at 147.32 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2539,7 +2537,6 @@
 	(hierarchical_label "LVDS_CH01_N"
 		(shape input)
 		(at 93.98 119.38 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2551,7 +2548,6 @@
 	(hierarchical_label "LVDS_CH15_P"
 		(shape input)
 		(at 93.98 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2563,7 +2559,6 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 187.96 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2575,7 +2570,6 @@
 	(hierarchical_label "LVDS_CH03_N"
 		(shape input)
 		(at 93.98 110.49 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2587,7 +2581,6 @@
 	(hierarchical_label "LVDS_CH01_P"
 		(shape input)
 		(at 93.98 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2599,7 +2592,6 @@
 	(hierarchical_label "CMOS_CH11"
 		(shape output)
 		(at 147.32 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2611,7 +2603,6 @@
 	(hierarchical_label "CMOS_CH09"
 		(shape output)
 		(at 147.32 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2623,7 +2614,6 @@
 	(hierarchical_label "LVDS_CH09_P"
 		(shape input)
 		(at 93.98 85.09 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2635,7 +2625,6 @@
 	(hierarchical_label "CMOS_CH15"
 		(shape output)
 		(at 147.32 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2647,7 +2636,6 @@
 	(hierarchical_label "LVDS_CLK_OUT_N"
 		(shape input)
 		(at 93.98 40.64 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2659,7 +2647,6 @@
 	(hierarchical_label "LVDS_RECV_EN"
 		(shape input)
 		(at 147.32 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2671,7 +2658,6 @@
 	(hierarchical_label "LVDS_RECV_EN"
 		(shape input)
 		(at 147.32 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2683,7 +2669,6 @@
 	(hierarchical_label "LVDS_CH11_N"
 		(shape input)
 		(at 93.98 71.12 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2695,7 +2680,6 @@
 	(hierarchical_label "CMOS_CH13"
 		(shape output)
 		(at 147.32 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2707,7 +2691,6 @@
 	(hierarchical_label "LVDS_CH13_P"
 		(shape input)
 		(at 93.98 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
