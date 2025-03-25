@@ -1010,52 +1010,46 @@
 		(uuid "b4ca4101-1c88-4a1e-816e-6809eb4d4e09")
 	)
 	(junction
+		(at 105.41 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05b49df3-699b-41b1-a242-7841b2731763")
+	)
+	(junction
 		(at 165.1 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "09759984-db54-4b3f-bac2-e13fb9735f7c")
 	)
 	(junction
-		(at 105.41 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "11715e8d-5367-4d11-9e77-375439a3dcb0")
-	)
-	(junction
 		(at 105.41 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "1abcc06b-87a3-4140-aaeb-334523022d82")
+		(uuid "206e11df-6df5-479d-8f2e-bb3ea31c1226")
 	)
 	(junction
-		(at 105.41 49.53)
+		(at 105.41 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "25cad997-f172-4378-a269-a56ba40496e0")
+		(uuid "23a2a85d-1742-4fae-84c1-f589531a0437")
 	)
 	(junction
-		(at 105.41 57.15)
+		(at 105.41 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3a8c7967-0907-482e-9ce4-60e8a954a53f")
+		(uuid "2f03c268-49e4-45c3-babf-6a20e399052f")
+	)
+	(junction
+		(at 105.41 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ab950ac-544a-4a34-b38c-5516e6cd5d34")
 	)
 	(junction
 		(at 105.41 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3bdb6c2b-94bf-4981-b9cb-c711276ee980")
-	)
-	(junction
-		(at 105.41 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ce549dc-ced6-415c-b3b2-6c8621abb4e5")
-	)
-	(junction
-		(at 105.41 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "47e7c66a-8899-4836-923c-f410c8de62e9")
+		(uuid "4b98cfe8-fc42-425a-b18e-c5a054847394")
 	)
 	(junction
 		(at 179.07 133.35)
@@ -1064,10 +1058,10 @@
 		(uuid "4fca439e-a2df-4d43-bc0a-75904c033783")
 	)
 	(junction
-		(at 105.41 80.01)
+		(at 105.41 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "54671b33-0371-4406-8312-4a7016c15acd")
+		(uuid "5bd4a163-046a-43cc-9702-d914a65b620a")
 	)
 	(junction
 		(at 179.07 54.61)
@@ -1076,16 +1070,10 @@
 		(uuid "62a9325c-74fe-4f33-b468-b79ef335fbca")
 	)
 	(junction
-		(at 105.41 71.12)
+		(at 105.41 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "63aa9e1b-a872-4fd8-91f0-2bd409227934")
-	)
-	(junction
-		(at 105.41 62.23)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "68115f9f-cd69-47b8-84f3-1aa7bcb7773a")
+		(uuid "6c4eed25-1905-45ee-b0e4-36aec3576042")
 	)
 	(junction
 		(at 165.1 93.98)
@@ -1094,40 +1082,34 @@
 		(uuid "6ec90995-f949-4cee-8bfd-031457d44c95")
 	)
 	(junction
-		(at 105.41 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "73c6d61d-07d5-4dfc-b07e-ddd7b555cb49")
-	)
-	(junction
-		(at 105.41 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "78fa86db-089b-4ae1-aab2-cf11bd30a0e0")
-	)
-	(junction
-		(at 105.41 85.09)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7d59128e-1379-4f50-8a1b-1849d2fa913c")
-	)
-	(junction
 		(at 105.41 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "895e590a-e886-4e6e-94e3-b108cbde5044")
 	)
 	(junction
-		(at 105.41 105.41)
+		(at 105.41 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9ee3adfd-9ffa-474c-9237-99afd0df19c2")
+		(uuid "89b1f8d9-28ba-4136-9ff2-808e07bbb7e9")
 	)
 	(junction
-		(at 105.41 101.6)
+		(at 105.41 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a4b98614-b3c4-4d67-9a24-d3f7d7214e55")
+		(uuid "9556418b-daec-4609-ac9a-294ff9309496")
+	)
+	(junction
+		(at 105.41 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1ef1c29-e84a-42c0-bf1f-2987d7f20085")
+	)
+	(junction
+		(at 105.41 128.27)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a5161d7e-2f83-41c8-b00a-93e8f09478a0")
 	)
 	(junction
 		(at 167.64 133.35)
@@ -1136,22 +1118,34 @@
 		(uuid "a6c36f61-700b-4e95-be17-eba82c7b0410")
 	)
 	(junction
-		(at 105.41 110.49)
+		(at 105.41 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ac67555b-d3b1-44ec-accf-878315b1e99f")
+		(uuid "b07c8721-54e3-4f6b-9e47-a2a4846f22c1")
+	)
+	(junction
+		(at 105.41 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2a6a312-4c77-434b-b8bc-13ab70cddbc9")
 	)
 	(junction
 		(at 105.41 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d95a23c2-e219-4514-8625-e1efe7ca8d72")
+		(uuid "c0b0da41-5881-45ab-8fc4-81e8c2730b55")
 	)
 	(junction
-		(at 105.41 88.9)
+		(at 105.41 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "dc915eb3-9f1c-4735-89a4-81958ac6e9a6")
+		(uuid "c19f0454-9c02-42ec-a97b-5a8d0878d09f")
+	)
+	(junction
+		(at 105.41 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce91ce36-2fe8-4f97-9088-6d39bfd78bc7")
 	)
 	(junction
 		(at 105.41 40.64)
@@ -1164,6 +1158,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f64a3d26-95d8-4a33-8564-b7cf10ec382b")
+	)
+	(junction
+		(at 105.41 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fe94d79b-f37b-4464-9620-443b2ee2eb81")
 	)
 	(no_connect
 		(at 114.3 143.51)
@@ -1212,6 +1212,16 @@
 			(type default)
 		)
 		(uuid "0aa22a68-1fc8-4567-9133-aa84b82699b0")
+	)
+	(wire
+		(pts
+			(xy 105.41 57.15) (xy 114.3 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b5ba6eb-5649-4841-892b-2b3358a0d2a5")
 	)
 	(polyline
 		(pts
@@ -1272,16 +1282,6 @@
 			(type default)
 		)
 		(uuid "20a279a0-2d1b-433a-8c8f-7f1fe76f0020")
-	)
-	(wire
-		(pts
-			(xy 93.98 105.41) (xy 105.41 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "212b211a-6aa4-4aaf-9f2d-7d19ddd75dc8")
 	)
 	(polyline
 		(pts
@@ -1355,6 +1355,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 88.9) (xy 107.95 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a8f4646-c7e2-49b1-816f-fa83e08707f5")
+	)
+	(wire
+		(pts
 			(xy 93.98 40.64) (xy 105.41 40.64)
 		)
 		(stroke
@@ -1385,16 +1395,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 54.61) (xy 114.3 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f1d85bf-b839-4a29-9c20-457386842a15")
-	)
-	(wire
-		(pts
 			(xy 107.95 52.07) (xy 114.3 52.07)
 		)
 		(stroke
@@ -1415,6 +1415,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 101.6) (xy 107.95 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34e25556-2bf8-4ba1-b76e-bf02af93a18b")
+	)
+	(wire
+		(pts
 			(xy 107.95 130.81) (xy 114.3 130.81)
 		)
 		(stroke
@@ -1422,16 +1432,6 @@
 			(type default)
 		)
 		(uuid "35f73d5b-2b09-4040-8e73-1391872bc257")
-	)
-	(wire
-		(pts
-			(xy 93.98 71.12) (xy 105.41 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35fd8752-119e-4fce-bf09-e1ff55028243")
 	)
 	(polyline
 		(pts
@@ -1455,6 +1455,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 96.52) (xy 114.3 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "378858a2-2a5b-4b33-9281-2ca8815785af")
+	)
+	(wire
+		(pts
 			(xy 107.95 59.69) (xy 114.3 59.69)
 		)
 		(stroke
@@ -1472,6 +1482,16 @@
 			(type default)
 		)
 		(uuid "3a117c8a-0af8-4df3-9c38-400481748fd8")
+	)
+	(wire
+		(pts
+			(xy 105.41 54.61) (xy 114.3 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b0e4c0d-4864-4921-8a38-82ee42f93005")
 	)
 	(wire
 		(pts
@@ -1515,6 +1535,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 71.12) (xy 113.03 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45c61e28-dfd1-48bf-aa2b-25495955b7c2")
+	)
+	(wire
+		(pts
 			(xy 93.98 85.09) (xy 105.41 85.09)
 		)
 		(stroke
@@ -1535,16 +1565,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 54.61) (xy 105.41 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a647d38-d64a-46bf-9cc4-deba2197d1f4")
-	)
-	(wire
-		(pts
 			(xy 107.95 101.6) (xy 107.95 99.06)
 		)
 		(stroke
@@ -1555,13 +1575,13 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 96.52) (xy 114.3 96.52)
+			(xy 105.41 80.01) (xy 113.03 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4c997ba3-5d68-4b86-88f3-354b5cfb1065")
+		(uuid "4e5e7602-9623-4fed-b99c-676b4269008c")
 	)
 	(wire
 		(pts
@@ -1572,6 +1592,16 @@
 			(type default)
 		)
 		(uuid "4ef1a782-fb3c-4d8f-9d61-ae2d61e356f4")
+	)
+	(wire
+		(pts
+			(xy 105.41 49.53) (xy 107.95 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "512bf31f-bb5b-47d2-bc25-e5496a191e41")
 	)
 	(wire
 		(pts
@@ -1625,13 +1655,13 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 85.09) (xy 109.22 85.09)
+			(xy 105.41 119.38) (xy 113.03 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5b7f08f9-5b83-4eeb-bc61-b76822dc41f3")
+		(uuid "59879b98-e127-4515-9cea-bd2251561cc4")
 	)
 	(wire
 		(pts
@@ -1645,13 +1675,13 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 124.46) (xy 109.22 124.46)
+			(xy 105.41 66.04) (xy 109.22 66.04)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5e2b450c-fb54-49f0-996d-27955df0e6aa")
+		(uuid "64e43c65-701a-481a-95e0-7f52ed9e443b")
 	)
 	(wire
 		(pts
@@ -1702,6 +1732,16 @@
 			(type default)
 		)
 		(uuid "6c5c1cba-0c86-458f-832d-36f11eab40ed")
+	)
+	(wire
+		(pts
+			(xy 105.41 124.46) (xy 109.22 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e4b1185-b016-4ec1-a198-bc65ebdc8228")
 	)
 	(polyline
 		(pts
@@ -1795,16 +1835,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 80.01) (xy 113.03 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "87f824a9-15ad-4171-998a-2701c70dcce2")
-	)
-	(wire
-		(pts
 			(xy 165.1 54.61) (xy 165.1 55.88)
 		)
 		(stroke
@@ -1812,16 +1842,6 @@
 			(type default)
 		)
 		(uuid "8c0332c1-0fc6-47ec-9b1c-4455eb64143b")
-	)
-	(wire
-		(pts
-			(xy 105.41 57.15) (xy 114.3 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d133db7-b04c-43c2-80c7-c79ec1f2a634")
 	)
 	(wire
 		(pts
@@ -1875,16 +1895,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 128.27) (xy 107.95 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a170150f-b2a8-425b-a6ed-a5b0f72d877e")
-	)
-	(wire
-		(pts
 			(xy 93.98 62.23) (xy 105.41 62.23)
 		)
 		(stroke
@@ -1895,16 +1905,6 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 110.49) (xy 113.03 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a430aafc-bb24-4410-89a8-91b262f64465")
-	)
-	(wire
-		(pts
 			(xy 93.98 93.98) (xy 105.41 93.98)
 		)
 		(stroke
@@ -1912,16 +1912,6 @@
 			(type default)
 		)
 		(uuid "a60e7530-f9d5-41e5-b8a2-6c187ca4d798")
-	)
-	(wire
-		(pts
-			(xy 105.41 88.9) (xy 107.95 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a866a1b0-0f47-48b7-aee3-f5b9f2d45060")
 	)
 	(polyline
 		(pts
@@ -1995,26 +1985,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 49.53) (xy 105.41 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb1ba24c-9417-4ca3-b4ad-dc6a29050d48")
-	)
-	(wire
-		(pts
-			(xy 105.41 66.04) (xy 109.22 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bdc4feaf-c6d5-48d1-890a-9b64cae6b15b")
-	)
-	(wire
-		(pts
 			(xy 113.03 125.73) (xy 114.3 125.73)
 		)
 		(stroke
@@ -2042,6 +2012,16 @@
 			(type default)
 		)
 		(uuid "bebb68ec-1632-47ab-ba21-b6de61877828")
+	)
+	(wire
+		(pts
+			(xy 105.41 62.23) (xy 107.95 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c112ec0e-33e3-4431-87ec-0c4fd6c4ed20")
 	)
 	(polyline
 		(pts
@@ -2075,13 +2055,23 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 71.12) (xy 113.03 71.12)
+			(xy 93.98 71.12) (xy 105.41 71.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "cac98236-c754-405e-868d-1dcab91c77c8")
+	)
+	(wire
+		(pts
+			(xy 105.41 93.98) (xy 114.3 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd7e92a5-5d7a-46f7-9a09-4a8ad5a8abc4")
 	)
 	(wire
 		(pts
@@ -2095,13 +2085,33 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 62.23) (xy 107.95 62.23)
+			(xy 105.41 133.35) (xy 114.3 133.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d286239f-13d3-41ee-953d-29e195fada3f")
+		(uuid "ceca9101-a33f-4007-bd7b-1c3f2f2ba2fa")
+	)
+	(wire
+		(pts
+			(xy 105.41 128.27) (xy 107.95 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfacd4ee-25cd-492a-85dd-f9d479e93b9f")
+	)
+	(wire
+		(pts
+			(xy 105.41 110.49) (xy 113.03 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d076d919-1e3b-47ea-aa5b-451af852bf0c")
 	)
 	(wire
 		(pts
@@ -2175,17 +2185,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 101.6) (xy 107.95 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e317564e-2f66-4c79-823c-7c45faba962e")
-	)
-	(wire
-		(pts
-			(xy 105.41 49.53) (xy 107.95 49.53)
+			(xy 93.98 49.53) (xy 105.41 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2195,23 +2195,13 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 119.38) (xy 113.03 119.38)
+			(xy 105.41 105.41) (xy 109.22 105.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "efa4f671-8660-410b-8b8c-b20d6d73a69a")
-	)
-	(wire
-		(pts
-			(xy 105.41 93.98) (xy 114.3 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1136a3f-21aa-4af4-92d0-e16ff48ad70b")
+		(uuid "e985eaba-750f-4906-831d-002de8b7df6f")
 	)
 	(wire
 		(pts
@@ -2245,6 +2235,16 @@
 	)
 	(wire
 		(pts
+			(xy 105.41 85.09) (xy 109.22 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7543f4d-f8cb-44ee-a760-b86a9eb4df38")
+	)
+	(wire
+		(pts
 			(xy 109.22 128.27) (xy 114.3 128.27)
 		)
 		(stroke
@@ -2255,7 +2255,7 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 105.41) (xy 109.22 105.41)
+			(xy 93.98 105.41) (xy 105.41 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2265,13 +2265,13 @@
 	)
 	(wire
 		(pts
-			(xy 105.41 133.35) (xy 114.3 133.35)
+			(xy 93.98 54.61) (xy 105.41 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fa34e584-d931-4d61-a778-4851fae63e33")
+		(uuid "fa4eded4-5c49-4105-b4cc-f02b882d921b")
 	)
 	(wire
 		(pts
@@ -2944,111 +2944,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 105.41 130.81 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "237de5bd-49ce-4ba1-b4ac-d2ee82babee6")
-		(property "Reference" "RLVDS11"
-			(at 95.504 129.794 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100"
-			(at 100.076 131.572 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 105.41 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 105.41 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Power Rating" "0.33W"
-			(at 109.728 130.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "1%"
-			(at 108.204 131.826 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "71-CRCW0603100RFKEAH"
-			(at 105.41 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100RFKEAHP?qs=k2%2FDWSARqgFge2%2F4aMqsYg%3D%3D"
-			(at 105.41 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "56138af0-37fc-40f9-a2be-2060e632f215")
-		)
-		(pin "2"
-			(uuid "f7f7ab58-bb92-4b36-9a2c-58469dd084fd")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 179.07 58.42 0)
 		(unit 1)
@@ -3154,6 +3049,111 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
 					(reference "C68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 105.41 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2dff1341-766f-4790-9c45-b9cd7056c536")
+		(property "Reference" "RLVDS6"
+			(at 96.52 81.534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100"
+			(at 100.076 83.312 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 105.41 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 105.41 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "0.2W"
+			(at 109.22 81.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 108.204 83.566 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-P03F1000V"
+			(at 105.41 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F1000V?qs=sGAEpiMZZMvdGkrng054tzSGWtpoOZZIE1SvWE3hbS0%3D"
+			(at 105.41 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b3e70926-d33c-479c-a8a2-54516a8801a9")
+		)
+		(pin "2"
+			(uuid "a4617810-62b9-4d71-a300-aea283ea97bc")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
+					(reference "RLVDS6")
 					(unit 1)
 				)
 			)
@@ -3383,15 +3383,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 105.41 99.06 0)
+		(at 105.41 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "3e97b768-26c9-4c63-b3d0-425bb43cdfe1")
-		(property "Reference" "RLVDS8"
-			(at 96.52 98.044 0)
+		(uuid "3ad0f8a5-f401-4aca-995a-76ffcef7e292")
+		(property "Reference" "RLVDS3"
+			(at 96.52 51.054 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3400,7 +3400,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 100.076 99.822 0)
+			(at 100.076 52.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3409,7 +3409,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 99.06 0)
+			(at 105.41 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3418,7 +3418,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 99.06 0)
+			(at 105.41 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3427,7 +3427,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 105.41 99.06 0)
+			(at 105.41 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3435,8 +3435,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.33W"
-			(at 109.728 98.298 0)
+		(property "Power Rating" "0.2W"
+			(at 109.22 51.308 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3445,7 +3445,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 108.204 100.076 0)
+			(at 108.204 53.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3453,8 +3453,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW0603100RFKEAH"
-			(at 105.41 99.06 0)
+		(property "Mouser Part Number" "667-ERJ-P03F1000V"
+			(at 105.41 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3462,8 +3462,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100RFKEAHP?qs=k2%2FDWSARqgFge2%2F4aMqsYg%3D%3D"
-			(at 105.41 99.06 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F1000V?qs=sGAEpiMZZMvdGkrng054tzSGWtpoOZZIE1SvWE3hbS0%3D"
+			(at 105.41 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3472,15 +3472,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "aa07ef1b-dd26-4b3a-8fca-53847e157aa6")
+			(uuid "99d05c11-ad7c-4178-be9c-1a7cbd0665a7")
 		)
 		(pin "2"
-			(uuid "3b35bdc9-db80-46d0-990c-c29975623cd3")
+			(uuid "391aeb6c-559c-41b9-8b4a-ca17bb6c7a48")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS8")
+					(reference "RLVDS3")
 					(unit 1)
 				)
 			)
@@ -3488,15 +3488,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 105.41 121.92 0)
+		(at 105.41 59.69 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "5a5bb514-859d-4387-a8bf-f2ae36203975")
-		(property "Reference" "RLVDS10"
-			(at 96.52 120.904 0)
+		(uuid "537db011-055f-4359-88fa-97359d18202b")
+		(property "Reference" "RLVDS4"
+			(at 96.52 58.674 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3505,7 +3505,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 100.076 122.682 0)
+			(at 100.076 60.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3514,7 +3514,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 121.92 0)
+			(at 105.41 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3523,7 +3523,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 121.92 0)
+			(at 105.41 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3532,7 +3532,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 105.41 121.92 0)
+			(at 105.41 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3540,8 +3540,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.33W"
-			(at 109.728 121.158 0)
+		(property "Power Rating" "0.2W"
+			(at 109.22 58.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3550,7 +3550,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 108.204 122.936 0)
+			(at 108.204 60.706 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3558,8 +3558,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW0603100RFKEAH"
-			(at 105.41 121.92 0)
+		(property "Mouser Part Number" "667-ERJ-P03F1000V"
+			(at 105.41 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3567,8 +3567,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100RFKEAHP?qs=k2%2FDWSARqgFge2%2F4aMqsYg%3D%3D"
-			(at 105.41 121.92 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F1000V?qs=sGAEpiMZZMvdGkrng054tzSGWtpoOZZIE1SvWE3hbS0%3D"
+			(at 105.41 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3577,15 +3577,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "809150a3-6ae2-47cb-919c-277c8f3bf099")
+			(uuid "1b13fe07-dee4-4fb8-b70d-74bd0ff356a1")
 		)
 		(pin "2"
-			(uuid "f55d7486-f689-4200-a026-e88e8a5b7e9e")
+			(uuid "08ef34d4-aa06-4188-9290-7f6a814bc30a")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS10")
+					(reference "RLVDS4")
 					(unit 1)
 				)
 			)
@@ -3777,7 +3777,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "707f821a-d14d-48b2-8a5f-bc7613045905")
+		(uuid "66b0bea1-1384-4fd7-af96-8d27ef4944c7")
 		(property "Reference" "RLVDS9"
 			(at 96.52 106.934 0)
 			(effects
@@ -3823,8 +3823,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.33W"
-			(at 109.728 107.188 0)
+		(property "Power Rating" "0.2W"
+			(at 109.22 107.188 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3841,7 +3841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW0603100RFKEAH"
+		(property "Mouser Part Number" "667-ERJ-P03F1000V"
 			(at 105.41 107.95 0)
 			(effects
 				(font
@@ -3850,7 +3850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100RFKEAHP?qs=k2%2FDWSARqgFge2%2F4aMqsYg%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F1000V?qs=sGAEpiMZZMvdGkrng054tzSGWtpoOZZIE1SvWE3hbS0%3D"
 			(at 105.41 107.95 0)
 			(effects
 				(font
@@ -3860,10 +3860,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "5383c7b8-db44-4a9a-b1c0-86a94c01631c")
+			(uuid "add0a014-d402-4ab9-a593-989c7610ec08")
 		)
 		(pin "2"
-			(uuid "311497e0-7a20-4113-8002-855bc98d46ac")
+			(uuid "844f05d2-6c87-4683-ade2-0d01cd99f649")
 		)
 		(instances
 			(project "S25-26"
@@ -4002,6 +4002,111 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
 					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 105.41 121.92 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "832cad27-79d1-475a-a3d3-215eb6007ecc")
+		(property "Reference" "RLVDS10"
+			(at 96.52 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100"
+			(at 100.076 122.682 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 105.41 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 105.41 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "0.2W"
+			(at 109.22 121.158 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 108.204 122.936 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-P03F1000V"
+			(at 105.41 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F1000V?qs=sGAEpiMZZMvdGkrng054tzSGWtpoOZZIE1SvWE3hbS0%3D"
+			(at 105.41 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b5cd3a93-ee17-46d1-9a92-b18d1018aae8")
+		)
+		(pin "2"
+			(uuid "67183762-df9e-46a6-9e30-75c42b7e867a")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
+					(reference "RLVDS10")
 					(unit 1)
 				)
 			)
@@ -4281,111 +4386,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 105.41 59.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9f6b3aad-2fd9-4789-b0bd-a941eafe5c01")
-		(property "Reference" "RLVDS4"
-			(at 96.52 58.674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100"
-			(at 100.076 60.452 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 105.41 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 105.41 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Power Rating" "0.33W"
-			(at 109.728 58.928 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "1%"
-			(at 108.204 60.706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "71-CRCW0603100RFKEAH"
-			(at 105.41 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100RFKEAHP?qs=k2%2FDWSARqgFge2%2F4aMqsYg%3D%3D"
-			(at 105.41 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "183be164-5292-4e7a-ada1-4c659dcd3180")
-		)
-		(pin "2"
-			(uuid "466bc789-2327-429a-ae83-3b5273bd755c")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 179.07 101.6 0)
 		(unit 1)
@@ -4505,8 +4505,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.33W"
-			(at 109.728 42.418 0)
+		(property "Power Rating" "0.2W"
+			(at 109.22 42.418 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4521,7 +4521,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW0603100RFKEAH"
+		(property "Mouser Part Number" "667-ERJ-P03F1000V"
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -4530,7 +4530,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100RFKEAHP?qs=k2%2FDWSARqgFge2%2F4aMqsYg%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F1000V?qs=sGAEpiMZZMvdGkrng054tzSGWtpoOZZIE1SvWE3hbS0%3D"
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -4718,15 +4718,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 105.41 82.55 0)
+		(at 105.41 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b385120a-7478-4873-b7a1-04634d393cad")
-		(property "Reference" "RLVDS6"
-			(at 96.52 81.534 0)
+		(uuid "bc3b9748-01ef-40b3-a9ce-c58e1e89cd97")
+		(property "Reference" "RLVDS11"
+			(at 96.52 129.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4735,7 +4735,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 100.076 83.312 0)
+			(at 100.076 131.572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4744,7 +4744,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 82.55 0)
+			(at 105.41 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4753,7 +4753,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 82.55 0)
+			(at 105.41 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4762,7 +4762,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 105.41 82.55 0)
+			(at 105.41 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4770,8 +4770,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.33W"
-			(at 109.728 81.788 0)
+		(property "Power Rating" "0.2W"
+			(at 109.22 130.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4780,7 +4780,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 108.204 83.566 0)
+			(at 108.204 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4788,8 +4788,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW0603100RFKEAH"
-			(at 105.41 82.55 0)
+		(property "Mouser Part Number" "667-ERJ-P03F1000V"
+			(at 105.41 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4797,8 +4797,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100RFKEAHP?qs=k2%2FDWSARqgFge2%2F4aMqsYg%3D%3D"
-			(at 105.41 82.55 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F1000V?qs=sGAEpiMZZMvdGkrng054tzSGWtpoOZZIE1SvWE3hbS0%3D"
+			(at 105.41 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4807,15 +4807,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "5d4b4ec1-3572-403c-80b2-884816465258")
+			(uuid "104669f0-0cc3-4294-bdac-4ffb4e96f802")
 		)
 		(pin "2"
-			(uuid "16e49de3-57c1-46e4-be5b-06731659147e")
+			(uuid "8dde9fdc-f71d-4632-b267-ca78863e7288")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS6")
+					(reference "RLVDS11")
 					(unit 1)
 				)
 			)
@@ -4888,216 +4888,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 105.41 91.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c0df0a8a-b6ee-4640-ae9d-4458fdf2657c")
-		(property "Reference" "RLVDS7"
-			(at 96.52 90.424 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100"
-			(at 100.076 92.202 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 105.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 105.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Power Rating" "0.33W"
-			(at 109.728 90.678 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "1%"
-			(at 108.204 92.456 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "71-CRCW0603100RFKEAH"
-			(at 105.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100RFKEAHP?qs=k2%2FDWSARqgFge2%2F4aMqsYg%3D%3D"
-			(at 105.41 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "78f71735-3c1e-40db-b63f-8b43a18fe8bf")
-		)
-		(pin "2"
-			(uuid "a8365ddb-a6fb-4c11-b716-031ed790bc31")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 105.41 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c300c9eb-7905-43a9-8d7d-0592d565ab50")
-		(property "Reference" "RLVDS5"
-			(at 96.52 67.564 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100"
-			(at 100.076 69.342 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 105.41 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 105.41 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Power Rating" "0.33W"
-			(at 109.728 67.818 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "1%"
-			(at 108.204 69.596 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "71-CRCW0603100RFKEAH"
-			(at 105.41 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100RFKEAHP?qs=k2%2FDWSARqgFge2%2F4aMqsYg%3D%3D"
-			(at 105.41 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e0c0e3b8-b22b-413b-8e1c-8d58a781aed1")
-		)
-		(pin "2"
-			(uuid "3165afea-7208-44ff-bcf0-55e985881171")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 179.07 140.97 0)
 		(unit 1)
@@ -5164,6 +4954,111 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 105.41 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c7f052a8-4d0a-455e-bf2c-92712a37053a")
+		(property "Reference" "RLVDS7"
+			(at 96.52 90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100"
+			(at 100.076 92.202 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 105.41 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 105.41 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "0.2W"
+			(at 109.22 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 108.204 92.456 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-P03F1000V"
+			(at 105.41 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F1000V?qs=sGAEpiMZZMvdGkrng054tzSGWtpoOZZIE1SvWE3hbS0%3D"
+			(at 105.41 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a7a7c20-c08a-4a9d-b71c-dfd360581a9c")
+		)
+		(pin "2"
+			(uuid "c8e1e8db-6d4b-4ea1-acdd-69cbe4888b28")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
+					(reference "RLVDS7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 165.1 62.23 0)
 		(unit 1)
@@ -5224,6 +5119,111 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
 					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 105.41 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "daf7e994-0663-4f30-abbf-0f9e94a83920")
+		(property "Reference" "RLVDS8"
+			(at 96.52 98.044 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100"
+			(at 100.076 99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 105.41 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 105.41 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 105.41 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "0.2W"
+			(at 109.22 98.298 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 108.204 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-P03F1000V"
+			(at 105.41 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F1000V?qs=sGAEpiMZZMvdGkrng054tzSGWtpoOZZIE1SvWE3hbS0%3D"
+			(at 105.41 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c0482778-d10c-4b42-b62f-417be5163271")
+		)
+		(pin "2"
+			(uuid "df7040ef-4bd8-4d72-a74f-d9189572aad8")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
+					(reference "RLVDS8")
 					(unit 1)
 				)
 			)
@@ -5393,15 +5393,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 105.41 52.07 0)
+		(at 105.41 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "f67e379f-d214-4363-be63-f038da70455b")
-		(property "Reference" "RLVDS3"
-			(at 96.52 51.054 0)
+		(uuid "f39a348d-1b8c-49e6-8ddb-d5364c458fdf")
+		(property "Reference" "RLVDS5"
+			(at 96.52 67.564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5410,7 +5410,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 100.076 52.832 0)
+			(at 100.076 69.342 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5419,7 +5419,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 105.41 52.07 0)
+			(at 105.41 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5428,7 +5428,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 105.41 52.07 0)
+			(at 105.41 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5437,7 +5437,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 105.41 52.07 0)
+			(at 105.41 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5445,8 +5445,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.33W"
-			(at 109.728 51.308 0)
+		(property "Power Rating" "0.2W"
+			(at 109.22 67.818 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5455,7 +5455,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 108.204 53.086 0)
+			(at 108.204 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5463,8 +5463,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW0603100RFKEAH"
-			(at 105.41 52.07 0)
+		(property "Mouser Part Number" "667-ERJ-P03F1000V"
+			(at 105.41 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5472,8 +5472,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW0603100RFKEAHP?qs=k2%2FDWSARqgFge2%2F4aMqsYg%3D%3D"
-			(at 105.41 52.07 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-P03F1000V?qs=sGAEpiMZZMvdGkrng054tzSGWtpoOZZIE1SvWE3hbS0%3D"
+			(at 105.41 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5482,15 +5482,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "34fe846d-3308-4970-958a-b72740a1f4fc")
+			(uuid "52e99ffb-7faa-4a47-9730-da8c62fa6056")
 		)
 		(pin "2"
-			(uuid "81df3bc3-0132-4795-a887-298723a5dafd")
+			(uuid "2a40a78d-a115-487b-a894-d0fd388cfe49")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "RLVDS3")
+					(reference "RLVDS5")
 					(unit 1)
 				)
 			)

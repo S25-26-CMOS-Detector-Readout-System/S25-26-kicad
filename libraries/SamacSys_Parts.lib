@@ -639,4 +639,77 @@ P 5 0 1 6 200 1100 1600 1100 1600 -1600 200 -1600 200 1100 N
 ENDDRAW
 ENDDEF
 #
+#SamacSys ECAD Model TPS5430DDAR
+#/417813/1536219/2.50/9/3/Integrated Circuit
+DEF TPS5430DDAR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "TPS5430DDAR" 1050 200 50 H V L CNN
+F2 "SOIC127P600X170-9N" 1050 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/tps5430" 1050 0 50 H I L CNN
+F4 "Texas Instruments, TPS5430DDAR Step-Down Switching Regulator 3A Adjustable, 1.22  31 V, 8-Pin SOIC" 1050 -100 50 H I L CNN "Description"
+F5 "1.7" 1050 -200 50 H I L CNN "Height"
+F6 "595-TPS5430DDAR" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS5430DDAR?qs=zwk82MlA57ZJdOTovH1aYA%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TPS5430DDAR" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X BOOT 1 0 0 200 R 50 50 0 0 P
+X NC_1 2 0 -100 200 R 50 50 0 0 P
+X NC_2 3 0 -200 200 R 50 50 0 0 P
+X VSENSE 4 0 -300 200 R 50 50 0 0 P
+X EP 9 600 -800 200 U 50 50 0 0 P
+X PH 8 1200 0 200 L 50 50 0 0 P
+X VIN 7 1200 -100 200 L 50 50 0 0 P
+X GND 6 1200 -200 200 L 50 50 0 0 P
+X ENA 5 1200 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model MBRS340T3G
+#/171020/1536219/2.50/2/2/Diode
+DEF MBRS340T3G D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "MBRS340T3G" 450 100 50 H V L CNN
+F2 "DIOM8059X261N" 450 0 50 H I L CNN
+F3 "https://www.onsemi.com/pub/Collateral/MBRS340T3-D.PDF" 450 -100 50 H I L CNN
+F4 "Case: Epoxy, Molded; Small Compact Surface Mountable Package with J-Bend Leads; Shipped in 16 mm Tape and Reel, 2500 units per reel; Excellent Ability to Withstand Reverse Avalanche Energy Transients; Rectangular Package for Automated Handling; Highly Stable Oxide Passivated Junction; Guardring for Stress Protection Mechanical Characteristics:; Weight: 217 mg (approximately); Marking: B32, B33, B34; Finish: All External Surfaces Corrosion Resistant and Terminal Leads are Readily Solderable; Polarity: Notch " 450 -200 50 H I L CNN "Description"
+F5 "2.61" 450 -300 50 H I L CNN "Height"
+F6 "863-MBRS340T3G" 450 -400 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/onsemi/MBRS340T3G?qs=3JMERSakeboCr3wxBgfY3w%3D%3D" 450 -500 50 H I L CNN "Mouser Price/Stock"
+F8 "onsemi" 450 -600 50 H I L CNN "Manufacturer_Name"
+F9 "MBRS340T3G" 450 -700 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 600 0 100 L 50 50 0 0 P
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model SRP6060FA-150M
+#/1349112/1536219/2.50/2/4/Inductor
+DEF SRP6060FA-150M L 0 30 Y Y 1 F N
+F0 "L" 650 250 50 H V L CNN
+F1 "SRP6060FA-150M" 650 150 50 H V L CNN
+F2 "SRP6060FA150M" 650 50 50 H I L CNN
+F3 "https://www.arrow.com/en/products/srp6060fa-150m/bourns" 650 -50 50 H I L CNN
+F4 "Inductor Power Shielded Wirewound 15uH 20% 100KHz Metal Alloy Powder 6A 0.043Ohm DCR Automotive T/R" 650 -150 50 H I L CNN "Description"
+F5 "5.8" 650 -250 50 H I L CNN "Height"
+F6 "652-SRP6060FA-150M" 650 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Bourns/SRP6060FA-150M?qs=MLItCLRbWsyaNp%252BY3GaXzw%3D%3D" 650 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Bourns" 650 -550 50 H I L CNN "Manufacturer_Name"
+F9 "SRP6060FA-150M" 650 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 800 0 200 L 50 50 0 0 P
+A 250 -2 50 1777 -23 0 1 6 N 300 0 200 0
+A 350 -2 50 1777 -23 0 1 6 N 400 0 300 0
+A 450 -2 50 1777 -23 0 1 6 N 500 0 400 0
+A 550 -2 50 1777 -23 0 1 6 N 600 0 500 0
+ENDDRAW
+ENDDEF
+#
 #End Library

@@ -14913,6 +14913,17 @@
 		)
 		(uuid "13cc48f4-794a-45c5-9d7d-9e70c45e684f")
 	)
+	(hierarchical_label "SCB3_CTS"
+		(shape bidirectional)
+		(at 389.89 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "144d4228-f109-4cfc-ae6f-54b09af0f327")
+	)
 	(hierarchical_label "TEMPR_ADC0 (P6.0)"
 		(shape input)
 		(at 389.89 189.23 0)
@@ -14968,7 +14979,7 @@
 		)
 		(uuid "3420dfa5-f9e6-4a10-9e0c-494cf55cf4f8")
 	)
-	(hierarchical_label "JTAG_TDI (P23.7)"
+	(hierarchical_label "SWJ_SWDOE_TDI"
 		(shape input)
 		(at 191.77 184.15 180)
 		(effects
@@ -15001,6 +15012,17 @@
 		)
 		(uuid "3ac418bb-6db2-4275-847e-96dfe7e9cb8f")
 	)
+	(hierarchical_label "SCB8_RX"
+		(shape bidirectional)
+		(at 316.23 285.75 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4109ba9b-f454-4878-a264-efe88b0f830f")
+	)
 	(hierarchical_label "ETH0_REF_CLK (P18.0)"
 		(shape output)
 		(at 389.89 232.41 0)
@@ -15012,7 +15034,7 @@
 		)
 		(uuid "4280275f-0d28-46dc-9074-fdb77f950a0a")
 	)
-	(hierarchical_label "JTAG_SWDIO (P23.6)"
+	(hierarchical_label "SWJ_SWDIO_TMS"
 		(shape bidirectional)
 		(at 191.77 186.69 180)
 		(effects
@@ -15055,6 +15077,17 @@
 			(justify right)
 		)
 		(uuid "5e81b0d3-a976-4c36-9923-7a12de7fdb5e")
+	)
+	(hierarchical_label "SWJ_TRSTN"
+		(shape bidirectional)
+		(at 312.42 123.19 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "60a68a3b-0b71-4386-87e0-1567063c291b")
 	)
 	(hierarchical_label "+3V3"
 		(shape input)
@@ -15122,6 +15155,17 @@
 		)
 		(uuid "771384ca-6d3e-4ae5-bcf8-7e73514ad897")
 	)
+	(hierarchical_label "SCB8_TX"
+		(shape bidirectional)
+		(at 318.77 285.75 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "787cc717-586a-4c8e-bea3-a8c7eec82865")
+	)
 	(hierarchical_label "CMOS_CLK_OUT"
 		(shape input)
 		(at 213.36 123.19 90)
@@ -15165,6 +15209,17 @@
 			(justify left)
 		)
 		(uuid "826e51ed-44f9-43a9-b4a1-93a29ff2d278")
+	)
+	(hierarchical_label "SCB3_RTS"
+		(shape bidirectional)
+		(at 389.89 224.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8ce879b5-b9d0-4464-ada2-481b6571f989")
 	)
 	(hierarchical_label "CMOS_SPI_EN (P7.3)"
 		(shape bidirectional)
@@ -15309,7 +15364,7 @@
 		)
 		(uuid "c0abcfed-ea63-4528-b7e8-738891c4b95c")
 	)
-	(hierarchical_label "JTAG_SWCLK (P23.5)"
+	(hierarchical_label "SWJ_SWCLK_TCLK"
 		(shape input)
 		(at 191.77 204.47 180)
 		(effects
@@ -15474,7 +15529,7 @@
 		)
 		(uuid "f8b9d510-2c3b-4573-a3d0-16b79708dab3")
 	)
-	(hierarchical_label "JTAG_SWO (P23.4)"
+	(hierarchical_label "SWJ_SWO_TDO"
 		(shape input)
 		(at 191.77 207.01 180)
 		(effects
@@ -15484,6 +15539,28 @@
 			(justify right)
 		)
 		(uuid "fbe6d6e6-eaab-4ba6-9b7e-5e9174e435d4")
+	)
+	(hierarchical_label "SCB8_CTS"
+		(shape bidirectional)
+		(at 389.89 143.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "fc9a51f4-4cf1-4c34-9d49-f3c5bf2ceb3b")
+	)
+	(hierarchical_label "SCB8_RTS"
+		(shape bidirectional)
+		(at 321.31 285.75 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ff1d38e6-1788-4174-902b-dbe40d57ebfb")
 	)
 	(hierarchical_label "CMOS_CH05 (P5.2)"
 		(shape input)

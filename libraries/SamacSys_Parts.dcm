@@ -60,4 +60,22 @@ K
 F https://assets.maxlinear.com/web/documents/mxl86110.pdf
 $ENDCMP
 #
+$CMP TPS5430DDAR
+D Texas Instruments, TPS5430DDAR Step-Down Switching Regulator 3A Adjustable, 1.22  31 V, 8-Pin SOIC
+K
+F http://www.ti.com/lit/gpn/tps5430
+$ENDCMP
+#
+$CMP MBRS340T3G
+D Case: Epoxy, Molded; Small Compact Surface Mountable Package with J-Bend Leads; Shipped in 16 mm Tape and Reel, 2500 units per reel; Excellent Ability to Withstand Reverse Avalanche Energy Transients; Rectangular Package for Automated Handling; Highly Stable Oxide Passivated Junction; Guardring for Stress Protection Mechanical Characteristics:; Weight: 217 mg (approximately); Marking: B32, B33, B34; Finish: All External Surfaces Corrosion Resistant and Terminal Leads are Readily Solderable; Polarity: Notch 
+K
+F https://www.onsemi.com/pub/Collateral/MBRS340T3-D.PDF
+$ENDCMP
+#
+$CMP SRP6060FA-150M
+D Inductor Power Shielded Wirewound 15uH 20% 100KHz Metal Alloy Powder 6A 0.043Ohm DCR Automotive T/R
+K
+F https://www.arrow.com/en/products/srp6060fa-150m/bourns
+$ENDCMP
+#
 #End Doc Library
