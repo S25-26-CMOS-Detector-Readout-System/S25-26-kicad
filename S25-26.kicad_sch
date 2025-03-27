@@ -7247,7 +7247,7 @@
 	)
 	(text "Ethernet PHY Transceiver"
 		(exclude_from_sim no)
-		(at 341.884 64.008 0)
+		(at 343.154 47.244 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -7451,22 +7451,10 @@
 		(uuid "23e1755a-f2dc-4790-8656-d0cc93f702e2")
 	)
 	(junction
-		(at 49.53 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2acacb3a-761c-4caf-a55a-0a7f30a0061d")
-	)
-	(junction
 		(at 142.24 205.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b96975f-d7ad-4e9e-acd1-367b51f452a2")
-	)
-	(junction
-		(at 49.53 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3fbf73e3-827b-4c2a-a7d3-71a5b5b1c3d8")
 	)
 	(junction
 		(at 129.54 173.99)
@@ -7475,10 +7463,16 @@
 		(uuid "4bfa305b-d67b-45f3-8cf3-e510b19e38a6")
 	)
 	(junction
-		(at 49.53 127)
+		(at 49.53 193.04)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7cf5b459-9e51-4fdf-acc1-eb326db98890")
+		(uuid "6bcb9c15-3a2c-4901-8530-7966022b50d9")
+	)
+	(junction
+		(at 49.53 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7fe574a1-b6c2-402c-8264-2e7508b0a549")
 	)
 	(junction
 		(at 270.51 245.11)
@@ -7487,10 +7481,10 @@
 		(uuid "92aff335-f50c-456e-9a94-7803f57f81b1")
 	)
 	(junction
-		(at 49.53 193.04)
+		(at 49.53 127)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a1588c60-7f4e-4c84-a275-9fd536ea5763")
+		(uuid "b531d0d2-f284-4bbb-9d95-806110dcb377")
 	)
 	(junction
 		(at 345.44 67.31)
@@ -7503,6 +7497,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bb2e4ee8-3bde-4024-958a-cd2b22bbd142")
+	)
+	(junction
+		(at 49.53 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd0755e2-b907-4eac-814d-eaa9bc14d20b")
 	)
 	(junction
 		(at 49.53 191.77)
@@ -7826,16 +7826,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 190.5) (xy 49.53 191.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c6cb410-4a4f-4214-9bb8-53a3f86208c4")
-	)
-	(wire
-		(pts
 			(xy 332.74 179.07) (xy 332.74 161.29)
 		)
 		(stroke
@@ -7984,6 +7974,16 @@
 		)
 		(uuid "28a72727-7310-4c25-89dc-2c9a2327b62e")
 	)
+	(wire
+		(pts
+			(xy 314.96 80.01) (xy 314.96 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28e6131e-e8c4-418b-80d4-48bacb124e99")
+	)
 	(polyline
 		(pts
 			(xy 106.68 83.82) (xy 105.41 85.09)
@@ -8096,6 +8096,16 @@
 	)
 	(wire
 		(pts
+			(xy 308.61 80.01) (xy 314.96 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "317063e9-837a-47c2-8fc5-08f63c3741d0")
+	)
+	(wire
+		(pts
 			(xy 39.37 191.77) (xy 49.53 191.77)
 		)
 		(stroke
@@ -8123,6 +8133,16 @@
 			(type default)
 		)
 		(uuid "321667a9-6e44-4d71-b864-3f3c5b41b79d")
+	)
+	(wire
+		(pts
+			(xy 267.97 245.11) (xy 270.51 245.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3357ca98-344f-49af-b249-87bb5176fc21")
 	)
 	(wire
 		(pts
@@ -8296,7 +8316,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 124.46) (xy 49.53 125.73)
+			(xy 49.53 121.92) (xy 49.53 124.46)
 		)
 		(stroke
 			(width 0)
@@ -8586,7 +8606,7 @@
 	)
 	(wire
 		(pts
-			(xy 314.96 68.58) (xy 314.96 82.55)
+			(xy 308.61 77.47) (xy 308.61 80.01)
 		)
 		(stroke
 			(width 0)
@@ -9276,6 +9296,16 @@
 	)
 	(wire
 		(pts
+			(xy 308.61 60.96) (xy 308.61 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ee9cebd-cddd-4e11-a6e2-b684ed16abeb")
+	)
+	(wire
+		(pts
 			(xy 191.77 113.03) (xy 200.66 113.03)
 		)
 		(stroke
@@ -9313,6 +9343,16 @@
 			(type default)
 		)
 		(uuid "91213afe-7f6e-4a8e-9c7b-d85c57a7cbee")
+	)
+	(wire
+		(pts
+			(xy 49.53 127) (xy 49.53 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "912dc6cb-1ef7-4e22-bad6-1b442a4e5b53")
 	)
 	(polyline
 		(pts
@@ -9353,6 +9393,16 @@
 			(type default)
 		)
 		(uuid "9436847b-1f82-4d39-861e-81e11e35b925")
+	)
+	(wire
+		(pts
+			(xy 317.5 69.85) (xy 317.5 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9561229e-e480-4fce-9ce0-5b0633302f74")
 	)
 	(polyline
 		(pts
@@ -9524,6 +9574,16 @@
 		)
 		(uuid "9b16d082-a4b0-4869-bd5b-9074420924f1")
 	)
+	(wire
+		(pts
+			(xy 49.53 190.5) (xy 49.53 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9baecbdd-0d7b-4931-a663-508155b6f605")
+	)
 	(polyline
 		(pts
 			(xy 63.5 175.006) (xy 64.77 173.736)
@@ -9596,16 +9656,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 193.04) (xy 49.53 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a35f8811-c531-4072-a7aa-0758fffc20b0")
-	)
-	(wire
-		(pts
 			(xy 54.61 104.14) (xy 63.5 104.14)
 		)
 		(stroke
@@ -9653,16 +9703,6 @@
 			(type default)
 		)
 		(uuid "a50611f7-9a9a-491f-b1c1-b7bd2e0eb0cc")
-	)
-	(wire
-		(pts
-			(xy 267.97 245.11) (xy 270.51 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5e43d90-ddec-4e3b-85e0-59d14ab3eb2e")
 	)
 	(wire
 		(pts
@@ -9806,7 +9846,7 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 68.58) (xy 317.5 82.55)
+			(xy 317.5 77.47) (xy 317.5 82.55)
 		)
 		(stroke
 			(width 0)
@@ -10016,7 +10056,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 127) (xy 49.53 129.54)
+			(xy 49.53 125.73) (xy 49.53 127)
 		)
 		(stroke
 			(width 0)
@@ -10303,6 +10343,16 @@
 			(type default)
 		)
 		(uuid "da1045cc-4f0c-4273-a6e7-4ae29fd5a347")
+	)
+	(wire
+		(pts
+			(xy 49.53 193.04) (xy 49.53 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db2781f0-bb3b-4b86-9089-475cf436f858")
 	)
 	(wire
 		(pts
@@ -10626,16 +10676,6 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 121.92) (xy 49.53 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f430a472-e5e4-40f9-b31a-bf22ff33aa1f")
-	)
-	(wire
-		(pts
 			(xy 39.37 86.36) (xy 63.5 86.36)
 		)
 		(stroke
@@ -10684,16 +10724,6 @@
 		)
 		(uuid "f793663e-84b6-4d67-89bf-687aa69497f4")
 	)
-	(wire
-		(pts
-			(xy 49.53 125.73) (xy 49.53 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8154736-9d9f-4171-8701-98b0ce33be49")
-	)
 	(polyline
 		(pts
 			(xy 63.5 141.986) (xy 64.77 140.716)
@@ -10713,6 +10743,16 @@
 			(type default)
 		)
 		(uuid "fb9817e5-ca59-4d86-ba1a-6a9cf02b6f4b")
+	)
+	(wire
+		(pts
+			(xy 49.53 124.46) (xy 49.53 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc062e70-4153-419f-8c26-e3b16286f53a")
 	)
 	(wire
 		(pts
@@ -10884,7 +10924,7 @@
 		)
 		(uuid "1fc6b0f5-e356-429c-9868-3a6e336f4f33")
 	)
-	(label "PHY_LED0"
+	(label "PHY_LED1"
 		(at 396.24 96.52 270)
 		(effects
 			(font
@@ -11125,7 +11165,7 @@
 		(uuid "96cf8193-7c56-4d59-976b-6f5d2e70f340")
 	)
 	(label "PHY_LED0"
-		(at 314.96 68.58 270)
+		(at 308.61 60.96 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11305,7 +11345,7 @@
 		(uuid "c583b27e-11d5-425c-99d4-a63efe2f48b9")
 	)
 	(label "PHY_LED1"
-		(at 317.5 68.58 270)
+		(at 317.5 60.96 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12049,7 +12089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 332.74 71.12 0)
 			(effects
 				(font
@@ -12076,7 +12116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.33W"
+		(property "Power Rating" "250mW"
 			(at 341.122 68.834 0)
 			(effects
 				(font
@@ -12092,7 +12132,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW06032K49FKEAH"
+		(property "Mouser Part Number" "603-RC1206FR-102K49L"
 			(at 332.74 71.12 0)
 			(effects
 				(font
@@ -12101,13 +12141,21 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW06032K49FKEAHP?qs=ua4hIysp8dLYrpYbxMi55Q%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/YAGEO/RC1206FR-102K49L?qs=qpJ%252B%252B%252Bdg6p0uP6HUktEK5Q%3D%3D"
 			(at 332.74 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 341.376 72.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -12127,15 +12175,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 52.07 106.68 90)
+		(at 52.07 160.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "05e25c84-9016-4d4c-80fb-8a51d7e12bbc")
-		(property "Reference" "C4"
-			(at 62.484 105.664 90)
+		(uuid "03f12fba-af41-4184-bf9e-1ccfca57ed22")
+		(property "Reference" "C12"
+			(at 62.484 159.004 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12144,7 +12192,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 58.42 105.664 90)
+			(at 58.42 159.004 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12152,8 +12200,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 106.68 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12162,7 +12210,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 106.68 0)
+			(at 52.07 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12171,7 +12219,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 106.68 0)
+			(at 52.07 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12179,8 +12227,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 103.378 90)
+		(property "Voltage Rating" "50V"
+			(at 53.086 156.464 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12189,7 +12237,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 54.356 103.378 90)
+			(at 57.404 156.464 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12197,8 +12245,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "10%"
-			(at 58.674 103.378 90)
+		(property "Tolerance" "5%"
+			(at 61.214 156.464 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12206,8 +12254,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 106.68 0)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12215,8 +12263,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 106.68 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 156.464 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12225,15 +12282,138 @@
 			)
 		)
 		(pin "2"
-			(uuid "58c62669-c63d-48f4-bb3d-60046e994458")
+			(uuid "04e8c858-9b8c-4b0d-a183-1d260d33b62a")
 		)
 		(pin "1"
-			(uuid "21d6a631-8605-4d6e-9e87-5d3b2389c184")
+			(uuid "73d003dc-d6fc-449b-8e72-b52aed5556f1")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C4")
+					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 190.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0f25aa65-ba54-446a-9f1c-fd6e2c91500d")
+		(property "Reference" "C16"
+			(at 62.484 189.484 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 58.42 189.484 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 53.086 186.944 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 57.404 186.944 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 186.944 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 186.944 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "bdd6c72f-15cd-4ba8-b254-867de14d8eb3")
+		)
+		(pin "1"
+			(uuid "a70de734-5dbf-469c-832d-9c9288eb8c16")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -12550,120 +12730,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 124.46 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "166417b0-c070-4a3e-b78e-a7e7d619e666")
-		(property "Reference" "C7"
-			(at 62.484 123.444 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 58.42 123.444 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 121.158 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 54.356 121.158 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 58.674 121.158 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "014bbc06-f5db-494b-b38f-753bae6dab10")
-		)
-		(pin "1"
-			(uuid "d62a4427-8384-451b-b8d0-206d386f566b")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Barrel_Jack")
 		(at 22.86 29.21 0)
 		(unit 1)
@@ -12726,6 +12792,129 @@
 			(project ""
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 121.92 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2190430e-0cee-48f4-bd13-5648fa5076fb")
+		(property "Reference" "C6"
+			(at 62.484 120.904 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 58.42 120.904 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 53.086 118.364 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 57.404 118.364 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 118.364 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 118.364 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9d4bea9d-2a78-4f38-85f1-ab223d283ff1")
+		)
+		(pin "1"
+			(uuid "adbd3043-a607-465b-be12-9da43fec5931")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -12857,120 +13046,6 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
 					(reference "TP4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 187.96 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "25fb6bae-a8f0-4889-bf2d-bce6d2002239")
-		(property "Reference" "C15"
-			(at 62.484 186.944 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 58.42 186.944 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 184.658 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 54.356 184.658 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 58.674 184.658 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9ddb9ec6-a0f6-4853-acf9-38d21175ef2d")
-		)
-		(pin "1"
-			(uuid "e0c0ef42-4b45-4c03-b8dc-a6c5fc64053c")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -13177,16 +13252,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 129.54 90)
+		(lib_id "Device:R")
+		(at 317.5 73.66 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "2b5f086b-86a6-49d9-85b5-d3248c41758e")
-		(property "Reference" "C9"
-			(at 62.484 128.524 90)
+		(uuid "304ea9a9-7087-4b05-befa-657c2b4a4041")
+		(property "Reference" "R13"
+			(at 314.96 72.3899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13194,8 +13270,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 58.42 128.524 90)
+		(property "Value" "56"
+			(at 314.96 74.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13203,8 +13279,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 129.54 0)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 319.278 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13213,7 +13289,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 129.54 0)
+			(at 317.5 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13221,8 +13297,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 129.54 0)
+		(property "Description" "Resistor"
+			(at 317.5 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13230,8 +13306,24 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 126.238 90)
+		(property "Power Rating" "330mW"
+			(at 313.436 78.994 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 315.468 81.026 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-T08J560V"
+			(at 317.5 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13239,8 +13331,8 @@
 				(hide yes)
 			)
 		)
-		(property "Dielectric" "X7R"
-			(at 54.356 126.238 90)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-T08J560V?qs=iIVTEDlrHA3Ruo5DqztDcA%3D%3D"
+			(at 317.5 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13248,157 +13340,24 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "10%"
-			(at 58.674 126.238 90)
+		(property "Package Size" "1206"
+			(at 314.452 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "2"
-			(uuid "c59fa92b-1b5d-434a-b506-7c61a3b55e52")
+			(uuid "aaa3c64b-e63e-4785-bd8c-148e0082787a")
 		)
 		(pin "1"
-			(uuid "0e66ef78-0fea-433f-ab90-bc6576b94523")
+			(uuid "abf01451-3929-4f21-ab62-d8bc69d7ada6")
 		)
 		(instances
-			(project "S25-26"
+			(project ""
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 45.72 132.08 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "351b7acd-ceea-4737-a9ea-ffb910f644a7")
-		(property "Reference" "C1"
-			(at 56.134 131.064 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 52.07 131.064 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 45.72 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 45.72 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 45.72 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "16V"
-			(at 43.688 128.778 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 48.006 128.778 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 52.324 128.778 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 45.72 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 45.72 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "87c2913a-583a-4884-93f8-730b252b89c5")
-		)
-		(pin "1"
-			(uuid "0a17e547-095d-45c3-bc64-00ab5b5c5526")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C1")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -13848,6 +13807,129 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 165.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "390f6919-de9c-46f3-830b-30c0f9d6e92a")
+		(property "Reference" "C14"
+			(at 62.484 164.084 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 58.42 164.084 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 53.086 161.544 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 57.404 161.544 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 161.544 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 161.544 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8c049187-9fc9-4f24-8255-01c72d2ec6d4")
+		)
+		(pin "1"
+			(uuid "65bbbd44-3bf1-41b7-a562-279102210654")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 81.28 234.95 0)
 		(unit 1)
@@ -13980,15 +14062,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 52.07 162.56 90)
+		(at 52.07 193.04 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "47c93336-0b04-48f5-8bc7-e847c77d9f53")
-		(property "Reference" "C13"
-			(at 62.484 161.544 90)
+		(uuid "4358a81a-37c6-43c4-9378-ff1844800ade")
+		(property "Reference" "C17"
+			(at 62.484 192.024 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13997,7 +14079,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 58.42 161.544 90)
+			(at 58.42 192.024 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14005,8 +14087,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 162.56 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14015,7 +14097,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 162.56 0)
+			(at 52.07 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14024,7 +14106,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 162.56 0)
+			(at 52.07 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14032,8 +14114,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 159.258 90)
+		(property "Voltage Rating" "50V"
+			(at 53.086 189.484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14042,7 +14124,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 54.356 159.258 90)
+			(at 57.404 189.484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14050,8 +14132,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "10%"
-			(at 58.674 159.258 90)
+		(property "Tolerance" "5%"
+			(at 61.214 189.484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14059,8 +14141,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 162.56 0)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14068,8 +14150,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 162.56 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 189.484 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14078,15 +14169,138 @@
 			)
 		)
 		(pin "2"
-			(uuid "2fad9747-60b7-44da-9e14-ee8098ffd8a3")
+			(uuid "d829d978-ceb0-4ddd-af28-963dab0683e4")
 		)
 		(pin "1"
-			(uuid "59e38ee7-f18a-46d8-9536-2babe4e0d10e")
+			(uuid "1cedcfc5-3aa4-4df7-9644-d5af80e5cbcf")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C13")
+					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 149.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "490972b0-1507-4e9f-95df-e95698ab53a7")
+		(property "Reference" "C10"
+			(at 62.484 148.844 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 58.42 148.844 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 53.086 146.304 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 57.404 146.304 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 146.304 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 146.304 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e3ed7e46-c3a7-4743-b328-81a580059b42")
+		)
+		(pin "1"
+			(uuid "0e9b3b7f-989b-408c-8d38-01284113ce70")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -14265,120 +14479,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 119.38 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4e3e122c-2c13-419a-9715-beb53bd63ddf")
-		(property "Reference" "C5"
-			(at 62.484 118.364 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 58.42 118.364 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 116.078 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 54.356 116.078 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 58.674 116.078 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a6a8844f-4a20-4d9b-86a6-857994dbec5f")
-		)
-		(pin "1"
-			(uuid "d70d98ce-b11e-4e12-a869-063244bf691e")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 39.37 109.22 270)
 		(unit 1)
@@ -14496,8 +14596,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.25W"
-			(at 205.486 240.03 90)
+		(property "Power Rating" "250mW"
+			(at 205.486 240.538 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14505,14 +14605,14 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 203.962 242.57 90)
+			(at 203.454 242.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW06031K00FKED "
+		(property "Mouser Part Number" "71-RCA12061K00FKEA"
 			(at 203.2 245.11 90)
 			(effects
 				(font
@@ -14521,13 +14621,21 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW06031K00FKED?qs=%252B6g0mu59x7IDenfbVFhzAg%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Draloric/RCA12061K00FKEA?qs=4%252Ber4tcBTOjJN1hA481lyw%3D%3D"
 			(at 203.2 245.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 204.47 238.506 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -14952,15 +15060,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 118.11 198.12 90)
+		(at 52.07 195.58 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "66f76458-0797-488e-9cf1-9b4057257f00")
-		(property "Reference" "C20"
-			(at 111.76 197.104 90)
+		(uuid "6792daa6-d6b5-470e-881d-11f73f43b0c5")
+		(property "Reference" "C18"
+			(at 62.484 194.564 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14969,7 +15077,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 117.348 197.104 90)
+			(at 58.42 194.564 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14977,8 +15085,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 118.11 198.12 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14987,7 +15095,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 198.12 0)
+			(at 52.07 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14996,7 +15104,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 118.11 198.12 0)
+			(at 52.07 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15004,8 +15112,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "16V"
-			(at 116.078 194.818 90)
+		(property "Voltage Rating" "50V"
+			(at 53.086 192.024 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15014,7 +15122,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 120.396 194.818 90)
+			(at 57.404 192.024 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15022,8 +15130,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "10%"
-			(at 124.714 194.818 90)
+		(property "Tolerance" "5%"
+			(at 61.214 192.024 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15031,8 +15139,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 118.11 198.12 0)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15040,8 +15148,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 118.11 198.12 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 192.024 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15050,15 +15167,139 @@
 			)
 		)
 		(pin "2"
-			(uuid "ffa9ebe0-3461-4e6b-a9e5-711a53e0dd96")
+			(uuid "7ff4663e-3238-4257-8875-d3cc1ca2c399")
 		)
 		(pin "1"
-			(uuid "57a276bc-df6f-4507-85a8-f4f83fa95150")
+			(uuid "3734bbbb-eca8-43d4-b422-8ebec8e0b66a")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C20")
+					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 118.11 195.58 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "73a69f40-93fb-4629-adec-3d1ba5ac7883")
+		(property "Reference" "C19"
+			(at 107.696 194.564 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 111.76 194.564 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 118.11 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.11 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 118.11 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 117.094 192.024 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 112.776 192.024 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 108.966 192.024 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 118.11 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 118.11 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 121.92 192.024 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2ecf55ba-b6ba-4af5-a123-680f740e09ee")
+		)
+		(pin "1"
+			(uuid "a9152395-2fac-42ce-9294-06b967f6cf0e")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -15132,120 +15373,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 165.1 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "75d3fb0f-5668-4cbd-949c-493815f922c4")
-		(property "Reference" "C14"
-			(at 62.484 164.084 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 58.42 164.084 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 161.798 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 54.356 161.798 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 58.674 161.798 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "895f19a0-89de-46dc-b39c-730d4a1baa7c")
-		)
-		(pin "1"
-			(uuid "a09d770e-4d4d-4f75-be0b-a275c21e9489")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 81.28 251.46 0)
 		(unit 1)
@@ -15311,15 +15438,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 52.07 193.04 90)
+		(at 52.07 104.14 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "784202ae-fc1e-4fa1-9f34-dde08972b0e1")
-		(property "Reference" "C17"
-			(at 62.484 192.024 90)
+		(uuid "7907e11f-e3bc-48a0-8d22-1d92065089de")
+		(property "Reference" "C3"
+			(at 62.484 103.124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15328,7 +15455,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 58.42 192.024 90)
+			(at 58.42 103.124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15336,8 +15463,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 193.04 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15346,7 +15473,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 193.04 0)
+			(at 52.07 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15355,7 +15482,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 193.04 0)
+			(at 52.07 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15363,8 +15490,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 189.738 90)
+		(property "Voltage Rating" "50V"
+			(at 53.086 100.584 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15373,7 +15500,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 54.356 189.738 90)
+			(at 57.404 100.584 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15381,8 +15508,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "10%"
-			(at 58.674 189.738 90)
+		(property "Tolerance" "5%"
+			(at 61.214 100.584 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15390,8 +15517,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 193.04 0)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15399,8 +15526,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 193.04 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 100.584 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15409,15 +15545,138 @@
 			)
 		)
 		(pin "2"
-			(uuid "00a99c9d-24ae-45b6-912a-39302536eb8c")
+			(uuid "e338fb25-cc58-4715-b2b9-36501848191b")
 		)
 		(pin "1"
-			(uuid "a8b5c41a-1d8b-4cc1-b532-2d7695fbe7e0")
+			(uuid "ddb9fd4a-07d2-4b39-9a2a-30ecf9922033")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C17")
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 129.54 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "79f28d89-331f-4898-86b1-c841ec97731c")
+		(property "Reference" "C9"
+			(at 62.484 128.524 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 58.42 128.524 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 53.086 125.984 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 57.404 125.984 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 125.984 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 125.984 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3046efc1-fd32-4784-bb44-84744cbd562c")
+		)
+		(pin "1"
+			(uuid "ad74a47e-f27f-4cfa-b94e-b826f3f19daf")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -15485,6 +15744,125 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 101.6 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "80f14496-c090-4d84-8a17-02863557f10e")
+		(property "Reference" "C2"
+			(at 62.484 100.584 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 58.42 100.584 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 53.086 98.044 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 57.404 98.044 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 98.044 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 98.044 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "f45195e5-911d-4ccf-9f48-fc6bcc56da0f")
+		)
+		(pin "1"
+			(uuid "bec8b4d2-edb6-42e9-a37c-116d4697a88a")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -15625,117 +16003,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 101.6 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "869e9ad0-99c1-4821-9008-7c5846521fa5")
-		(property "Reference" "C2"
-			(at 62.484 100.584 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 58.42 100.584 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 98.298 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 54.356 98.298 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 58.674 98.298 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "42b2390e-32a3-46da-afca-adf182875f50")
-		)
-		(pin "1"
-			(uuid "258c0b3e-bef2-43ec-be3d-af036bdbe007")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 111.76 139.7 90)
 		(unit 1)
@@ -15804,15 +16071,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 52.07 190.5 90)
+		(at 45.72 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "8c91fab6-ed79-4056-a10d-56210cbb8486")
-		(property "Reference" "C16"
-			(at 62.484 189.484 90)
+		(uuid "8c9a7daf-820c-4a05-a02c-2115eae2aeda")
+		(property "Reference" "C1"
+			(at 56.134 131.064 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15821,7 +16088,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 58.42 189.484 90)
+			(at 52.07 131.064 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15829,8 +16096,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 190.5 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 45.72 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15839,7 +16106,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 190.5 0)
+			(at 45.72 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15848,7 +16115,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 190.5 0)
+			(at 45.72 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15856,8 +16123,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 187.198 90)
+		(property "Voltage Rating" "50V"
+			(at 46.736 128.524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15866,7 +16133,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 54.356 187.198 90)
+			(at 51.054 128.524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15874,8 +16141,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "10%"
-			(at 58.674 187.198 90)
+		(property "Tolerance" "5%"
+			(at 54.864 128.524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15883,8 +16150,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 190.5 0)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 45.72 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15892,8 +16159,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 190.5 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 45.72 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 41.91 128.524 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15902,15 +16178,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "3c8db9d0-1317-45dd-85f9-678113933cc8")
+			(uuid "f008c658-c2b8-4afa-bb99-ac2040822368")
 		)
 		(pin "1"
-			(uuid "2c2d0baa-fad5-4e87-814c-da4c288beea3")
+			(uuid "547fd403-27b3-4d22-9286-c937d1aaf8cb")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C16")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -15978,120 +16254,6 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 127 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9572dc3b-a14f-4c0b-b069-eb35daf6f29d")
-		(property "Reference" "C8"
-			(at 62.484 125.984 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 58.42 125.984 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 123.698 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 54.356 123.698 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 58.674 123.698 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "37ab0efe-f1f2-4ba4-b9e3-ae556597a084")
-		)
-		(pin "1"
-			(uuid "5dda0862-56a0-4df1-b480-3fb17e7b51c9")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -16212,120 +16374,6 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
 					(reference "TR2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 104.14 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "95e6c902-7e0c-46dc-a360-b0f0524b5f7a")
-		(property "Reference" "C3"
-			(at 62.484 103.124 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 58.42 103.124 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 100.838 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 54.356 100.838 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 58.674 100.838 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "212d2f6d-7dde-4790-b424-9b03bf0d576d")
-		)
-		(pin "1"
-			(uuid "6411d566-154d-4425-b7ac-aebe00fdf0be")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -16583,32 +16631,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 264.16 245.11 270)
+		(lib_id "Device:C_Small")
+		(at 52.07 124.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a2460b9b-f371-4fdb-a96e-20f51bf2ecfb")
-		(property "Reference" "R2"
-			(at 261.62 240.03 90)
+		(uuid "a2f43a66-4a62-4d79-a920-929dfb4b61d3")
+		(property "Reference" "C7"
+			(at 62.484 123.444 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "1k"
-			(at 261.62 242.57 90)
+		(property "Value" "0.1uF"
+			(at 58.42 123.444 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 264.16 243.332 90)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16617,7 +16667,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 264.16 245.11 0)
+			(at 52.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16625,8 +16675,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
-			(at 264.16 245.11 0)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16634,24 +16684,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.25W"
-			(at 266.446 240.03 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" "1%"
-			(at 264.922 242.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "71-CRCW06031K00FKED "
-			(at 264.16 245.11 90)
+		(property "Voltage Rating" "50V"
+			(at 53.086 120.904 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16659,8 +16693,44 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW06031K00FKED?qs=%252B6g0mu59x7IDenfbVFhzAg%3D%3D"
-			(at 264.16 245.11 90)
+		(property "Dielectric" "X7R"
+			(at 57.404 120.904 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 120.904 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 120.904 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16669,15 +16739,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "468a60c2-4cd1-475d-a91d-3856bde8e5ed")
+			(uuid "fc0b2201-6e91-4d63-917b-83c6eafb0b5d")
 		)
 		(pin "1"
-			(uuid "b13652c2-9a26-4ad8-9420-cd92362afa48")
+			(uuid "1d50e7e7-710c-4785-a181-f5d87b74fc27")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "R2")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -16886,15 +16956,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 52.07 149.86 90)
+		(at 52.07 106.68 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "aca858d0-e723-4adc-99c9-3a1c2272f11f")
-		(property "Reference" "C10"
-			(at 62.484 148.844 90)
+		(uuid "b6f97789-2470-4696-9303-fc6301ba6644")
+		(property "Reference" "C4"
+			(at 62.484 105.664 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16903,7 +16973,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 58.42 148.844 90)
+			(at 58.42 105.664 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16911,8 +16981,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 149.86 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16921,7 +16991,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 149.86 0)
+			(at 52.07 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16930,7 +17000,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 149.86 0)
+			(at 52.07 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16938,8 +17008,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 146.558 90)
+		(property "Voltage Rating" "50V"
+			(at 53.086 103.124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16948,7 +17018,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 54.356 146.558 90)
+			(at 57.404 103.124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16956,8 +17026,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "10%"
-			(at 58.674 146.558 90)
+		(property "Tolerance" "5%"
+			(at 61.214 103.124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16965,8 +17035,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 149.86 0)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16974,8 +17044,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 149.86 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 103.124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16984,15 +17063,138 @@
 			)
 		)
 		(pin "2"
-			(uuid "9070802f-5958-468b-8349-f95d4af5f626")
+			(uuid "fa732983-51cf-4530-80cd-05ca3dfd25b0")
 		)
 		(pin "1"
-			(uuid "3cb1af58-120d-46c7-bcff-21ce6fb13e7f")
+			(uuid "3fccd61a-0cb5-4ba5-b119-32d40a890d63")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C10")
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 119.38 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b72d0faf-30b2-4636-8fe2-9cae9e6b4465")
+		(property "Reference" "C5"
+			(at 62.484 118.364 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 58.42 118.364 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 53.086 115.824 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 57.404 115.824 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 115.824 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 115.824 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "67e238e6-1c77-4da7-bb44-e8773225ea8a")
+		)
+		(pin "1"
+			(uuid "9e9d0773-bb5d-4f96-ade7-ed299f3aa0f5")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -17067,15 +17269,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 118.11 195.58 90)
+		(at 52.07 187.96 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "c2101443-0077-4b4d-9274-090c66f6e298")
-		(property "Reference" "C19"
-			(at 111.76 194.564 90)
+		(uuid "c320ae1c-020c-4f4a-884e-c90063c607ca")
+		(property "Reference" "C15"
+			(at 62.484 186.944 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17084,7 +17286,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 117.348 194.564 90)
+			(at 58.42 186.944 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17092,8 +17294,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 118.11 195.58 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17102,7 +17304,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 118.11 195.58 0)
+			(at 52.07 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17111,7 +17313,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 118.11 195.58 0)
+			(at 52.07 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17119,32 +17321,17 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "16V"
-			(at 116.078 192.278 90)
+		(property "Voltage Rating" "50V"
+			(at 53.086 184.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 120.396 192.278 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 124.714 192.278 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 118.11 195.58 0)
+			(at 57.404 184.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17152,8 +17339,35 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 118.11 195.58 0)
+		(property "Tolerance" "5%"
+			(at 61.214 184.404 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 184.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17162,15 +17376,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "5d3b9568-e6a3-47f9-9332-35002270e8c3")
+			(uuid "bb1a4ce1-da4c-4dd7-ab5a-6c2d15c8db23")
 		)
 		(pin "1"
-			(uuid "2a223663-b068-404d-9b0f-513598b37d11")
+			(uuid "a41f0261-5271-4093-a20d-aaf29e5a3dda")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C19")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -17376,6 +17590,129 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 127 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c94c0c59-29ea-47b4-a46e-b5da4fd3773b")
+		(property "Reference" "C8"
+			(at 62.484 125.984 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 58.42 125.984 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 53.086 123.444 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 57.404 123.444 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 123.444 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 123.444 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3969863a-e5bb-4411-acf5-f1b426718ba6")
+		)
+		(pin "1"
+			(uuid "fb2b9602-b7dc-4e2a-bc95-68135ec5cc98")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 111.76 152.4 90)
 		(unit 1)
@@ -17437,6 +17774,129 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 152.4 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cc696fe2-3b70-4059-a166-5bc60b620c94")
+		(property "Reference" "C11"
+			(at 62.484 151.384 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 58.42 151.384 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 53.086 148.844 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 57.404 148.844 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 148.844 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 148.844 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c9a207ec-366e-4593-8c1d-608eb484a708")
+		)
+		(pin "1"
+			(uuid "aee8ed07-4bbc-4ca0-8e0f-4461548767c3")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -17571,6 +18031,129 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 52.07 162.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d4b96498-714a-4c5b-8713-dba16e732ee4")
+		(property "Reference" "C13"
+			(at 62.484 161.544 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 58.42 161.544 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 52.07 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 52.07 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 53.086 159.004 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 57.404 159.004 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 61.214 159.004 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 52.07 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 52.07 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 48.26 159.004 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6b3fdcc6-2a7d-4ce3-9963-7e34b15ef205")
+		)
+		(pin "1"
+			(uuid "1c90404a-26a5-4d47-a275-9e95511e9a09")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 322.58 77.47 180)
 		(unit 1)
@@ -17637,16 +18220,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 152.4 90)
+		(lib_id "Device:R")
+		(at 308.61 73.66 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "eaf8e129-9a11-41f8-9011-29c09511c683")
-		(property "Reference" "C11"
-			(at 62.484 151.384 90)
+		(uuid "dddb70c3-0eec-4611-be30-6141452cc721")
+		(property "Reference" "R12"
+			(at 306.07 72.3899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17654,8 +18238,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 58.42 151.384 90)
+		(property "Value" "60"
+			(at 306.07 74.9299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17663,8 +18247,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 152.4 0)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 310.388 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17673,7 +18257,119 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 152.4 0)
+			(at 308.61 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 308.61 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "250mW"
+			(at 298.45 74.422 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 299.72 76.454 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW120660R0KNAIF"
+			(at 308.61 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW120660R0KNEAIF?qs=0LP1uVfdam9gTU37MuGrNg%3D%3D"
+			(at 308.61 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 299.212 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "79cd6c27-d3b3-4f77-a65e-4b10b482ba74")
+		)
+		(pin "2"
+			(uuid "c241e69f-b579-4876-85b9-d7047fb93b97")
+		)
+		(instances
+			(project ""
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 118.11 198.12 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e86b6780-8164-422f-8955-6ae0d6e994fe")
+		(property "Reference" "C20"
+			(at 107.696 197.104 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 111.76 197.104 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 118.11 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.11 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17682,7 +18378,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 152.4 0)
+			(at 118.11 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17690,8 +18386,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 149.098 90)
+		(property "Voltage Rating" "50V"
+			(at 117.094 194.564 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17700,7 +18396,7 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 54.356 149.098 90)
+			(at 112.776 194.564 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17708,8 +18404,8 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "10%"
-			(at 58.674 149.098 90)
+		(property "Tolerance" "5%"
+			(at 108.966 194.564 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17717,8 +18413,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 152.4 0)
+		(property "Mouser Part Number" "581-12065C104J4Z2A"
+			(at 118.11 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17726,8 +18422,17 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 152.4 0)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=WcAEtQi8OAbNr9raFWb3vQ%3D%3D"
+			(at 118.11 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 121.92 194.564 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17736,15 +18441,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "36fe8147-8a7c-4c35-a7aa-2acc020f4c90")
+			(uuid "7b0e112e-8eea-4e73-81e9-2f7ddb4aedf9")
 		)
 		(pin "1"
-			(uuid "802cfdc6-24bd-4b91-a171-1d47fe3bba16")
+			(uuid "148e79f6-37cb-4974-98ea-3ef002098b5f")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C11")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -17888,34 +18593,32 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 195.58 90)
+		(lib_id "Device:R")
+		(at 264.16 245.11 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "edd43962-b6fd-4614-80a6-fc1c68789693")
-		(property "Reference" "C18"
-			(at 62.484 194.564 90)
+		(uuid "efa3c9eb-fa97-4a60-bad8-13801835e811")
+		(property "Reference" "R2"
+			(at 261.62 240.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
-			(at 58.42 194.564 90)
+		(property "Value" "1k"
+			(at 261.62 242.57 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 195.58 0)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 264.16 243.332 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17924,7 +18627,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 52.07 195.58 0)
+			(at 264.16 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17932,8 +18635,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 195.58 0)
+		(property "Description" "Resistor"
+			(at 264.16 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17941,8 +18644,24 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 192.278 90)
+		(property "Power Rating" "250mW"
+			(at 266.446 240.538 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 264.414 242.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-RCA12061K00FKEA"
+			(at 264.16 245.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17950,8 +18669,8 @@
 				(hide yes)
 			)
 		)
-		(property "Dielectric" "X7R"
-			(at 54.356 192.278 90)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Vishay-Draloric/RCA12061K00FKEA?qs=4%252Ber4tcBTOjJN1hA481lyw%3D%3D"
+			(at 264.16 245.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17959,157 +18678,24 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" "10%"
-			(at 58.674 192.278 90)
+		(property "Package Size" "1206"
+			(at 265.43 238.506 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "2"
-			(uuid "ddca0a61-e1c9-44ff-821f-3ca1b1357c13")
+			(uuid "3360d26e-8a42-48c6-988b-7e7487c773b1")
 		)
 		(pin "1"
-			(uuid "7e803e56-29ef-45ef-aaf1-0a705c341e4d")
+			(uuid "372f9818-d0d3-43e0-b80b-9ee0d497ea19")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 121.92 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ef32ef21-f644-414e-beb0-922ee6bf4dc3")
-		(property "Reference" "C6"
-			(at 62.484 120.904 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 58.42 120.904 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 118.618 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 54.356 118.618 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 58.674 118.618 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "472dff4a-c9c0-4fa1-8767-d3393aed55c5")
-		)
-		(pin "1"
-			(uuid "c58611e1-05e7-4171-b26f-7310b7d39e7a")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C6")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -18241,120 +18827,6 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
 					(reference "TP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 52.07 160.02 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f968580d-bb31-4e0c-bdd1-4c662aa1a471")
-		(property "Reference" "C12"
-			(at 62.484 159.004 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 58.42 159.004 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 52.07 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 52.07 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 52.07 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "16V"
-			(at 50.038 156.718 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 54.356 156.718 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 58.674 156.718 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "81-GCM188R71C104KA7J"
-			(at 52.07 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM188R71C104KA37J?qs=bGEzvQhTDnZD08oWyjLpYQ%3D%3D"
-			(at 52.07 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "30cf58eb-72ae-4679-9e78-33260a020fba")
-		)
-		(pin "1"
-			(uuid "9275da7c-7f3a-4f76-bf3b-200d0ec245aa")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
-					(reference "C12")
 					(unit 1)
 				)
 			)

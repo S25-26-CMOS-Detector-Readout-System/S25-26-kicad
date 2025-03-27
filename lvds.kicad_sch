@@ -1052,16 +1052,16 @@
 		(uuid "4b98cfe8-fc42-425a-b18e-c5a054847394")
 	)
 	(junction
-		(at 179.07 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4fca439e-a2df-4d43-bc0a-75904c033783")
-	)
-	(junction
 		(at 105.41 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5bd4a163-046a-43cc-9702-d914a65b620a")
+	)
+	(junction
+		(at 179.07 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60221b8a-eb17-4b1b-a964-ce70c4740de8")
 	)
 	(junction
 		(at 179.07 54.61)
@@ -1106,16 +1106,16 @@
 		(uuid "a1ef1c29-e84a-42c0-bf1f-2987d7f20085")
 	)
 	(junction
+		(at 165.1 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a2f7107a-6929-4e35-b9a9-7491ed1030f4")
+	)
+	(junction
 		(at 105.41 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5161d7e-2f83-41c8-b00a-93e8f09478a0")
-	)
-	(junction
-		(at 167.64 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a6c36f61-700b-4e95-be17-eba82c7b0410")
 	)
 	(junction
 		(at 105.41 80.01)
@@ -1142,6 +1142,12 @@
 		(uuid "c19f0454-9c02-42ec-a97b-5a8d0878d09f")
 	)
 	(junction
+		(at 179.07 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cb79d2a1-e8a3-4ff6-90a2-2a0b18d90829")
+	)
+	(junction
 		(at 105.41 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1152,12 +1158,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8c20e22-edf9-4a90-b1c6-0d59a089a9a3")
-	)
-	(junction
-		(at 179.07 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f64a3d26-95d8-4a33-8564-b7cf10ec382b")
 	)
 	(junction
 		(at 105.41 105.41)
@@ -1505,16 +1505,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 133.35) (xy 179.07 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fd115da-d2e7-4840-8e1e-c8ac3117aed3")
-	)
-	(wire
-		(pts
 			(xy 109.22 45.72) (xy 109.22 49.53)
 		)
 		(stroke
@@ -1625,7 +1615,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 133.35) (xy 167.64 134.62)
+			(xy 165.1 133.35) (xy 165.1 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1685,7 +1675,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 133.35) (xy 167.64 133.35)
+			(xy 147.32 133.35) (xy 165.1 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1725,7 +1715,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 139.7) (xy 167.64 140.97)
+			(xy 165.1 139.7) (xy 165.1 140.97)
 		)
 		(stroke
 			(width 0)
@@ -1772,6 +1762,16 @@
 			(type default)
 		)
 		(uuid "764756b5-1aad-4989-9971-90af7683db0f")
+	)
+	(wire
+		(pts
+			(xy 179.07 133.35) (xy 187.96 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a6583ea-6de7-4f82-bce0-455907dbd3c5")
 	)
 	(polyline
 		(pts
@@ -1875,7 +1875,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 93.98) (xy 187.96 93.98)
+			(xy 165.1 93.98) (xy 179.07 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1912,6 +1912,16 @@
 			(type default)
 		)
 		(uuid "a60e7530-f9d5-41e5-b8a2-6c187ca4d798")
+	)
+	(wire
+		(pts
+			(xy 165.1 133.35) (xy 179.07 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abe49be4-7d97-44b5-b7e7-9673ee618c7c")
 	)
 	(polyline
 		(pts
@@ -2055,6 +2065,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 93.98) (xy 187.96 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9bd862a-34f6-4863-bc3a-8c8548007e7f")
+	)
+	(wire
+		(pts
 			(xy 93.98 71.12) (xy 105.41 71.12)
 		)
 		(stroke
@@ -2142,16 +2162,6 @@
 			(type default)
 		)
 		(uuid "d565716a-5f3c-4d20-bb2f-3c134fbb7e43")
-	)
-	(wire
-		(pts
-			(xy 179.07 133.35) (xy 187.96 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7df24e9-2770-4849-935b-22daa2da24a2")
 	)
 	(wire
 		(pts
@@ -2282,16 +2292,6 @@
 			(type default)
 		)
 		(uuid "fc25ab5b-df19-4215-b222-4d71cfb9a305")
-	)
-	(wire
-		(pts
-			(xy 165.1 93.98) (xy 179.07 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe0786f9-694b-445a-a997-c0d6bb2582d8")
 	)
 	(wire
 		(pts
@@ -2700,117 +2700,6 @@
 		(uuid "f7f664a7-1819-4c9c-a405-8a0207ed8a53")
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 167.64 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "16fb9ed4-e08e-47b4-8ef0-eee1636d7b4d")
-		(property "Reference" "C67"
-			(at 170.18 135.8962 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1nF"
-			(at 170.18 138.4362 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "50V"
-			(at 171.958 140.208 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Dielectric" "X7R"
-			(at 172.212 141.986 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 172.212 143.764 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "581-KAM15AR71H102KM"
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAM15AR71H102KM?qs=OcgtsXO%252B3guc58RvGZLAWA%3D%3D"
-			(at 167.64 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5a1970f3-a271-41d3-a63b-6e39debf11d7")
-		)
-		(pin "1"
-			(uuid "741699ac-7ed0-464f-8b34-4287296f6313")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "C67")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 165.1 101.6 0)
 		(unit 1)
@@ -2944,6 +2833,125 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 165.1 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "289828c9-a393-4ffc-a21c-397a5e35b8d6")
+		(property "Reference" "C66"
+			(at 167.64 96.5262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000pF"
+			(at 167.64 99.0662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 165.1 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 165.1 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 169.418 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 169.672 104.648 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 169.672 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "80-C1206C102M5RACTM"
+			(at 165.1 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KEMET/C1206C102M5RACTM?qs=ED%252B2xvMfDz25MTPJsbkHzg%3D%3D"
+			(at 165.1 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 170.18 100.838 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8f8958c6-7f15-4b4b-a9ee-52cf58de83ae")
+		)
+		(pin "1"
+			(uuid "a7d87747-eed0-400a-af80-fd1baa90d7c4")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
+					(reference "C66")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 179.07 58.42 0)
 		(unit 1)
@@ -2970,7 +2978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 180.0352 62.23 0)
 			(effects
 				(font
@@ -2997,8 +3005,8 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "20V"
-			(at 184.912 60.96 0)
+		(property "Voltage Rating" "35V"
+			(at 184.912 62.738 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3006,7 +3014,7 @@
 			)
 		)
 		(property "Dielectric" "TANT"
-			(at 185.166 62.738 0)
+			(at 185.166 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3014,14 +3022,14 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 184.912 64.516 0)
+			(at 184.912 66.294 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Mouser Part Number" "581-TAJR104K020R"
+		(property "Mouser Part Number" "581-TAJA104K035SNJ"
 			(at 179.07 58.42 0)
 			(effects
 				(font
@@ -3030,13 +3038,21 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/TAJR104K020RNJ?qs=4whTb%2F0XQMhML1Gq%2FTLBlg%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/TAJA104K035SNJ?qs=0%252BYwpxhRXZhtcvceHRBYuQ%3D%3D"
 			(at 179.07 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 185.42 60.706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3177,7 +3193,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1nF"
+		(property "Value" "1000pF"
 			(at 167.64 59.6962 0)
 			(effects
 				(font
@@ -3186,7 +3202,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 165.1 58.42 0)
 			(effects
 				(font
@@ -3214,7 +3230,7 @@
 			)
 		)
 		(property "Voltage Rating" "50V"
-			(at 169.418 61.468 0)
+			(at 169.418 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3222,22 +3238,22 @@
 			)
 		)
 		(property "Dielectric" "X7R"
-			(at 169.672 63.246 0)
+			(at 169.672 65.278 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Tolerance" "10%"
-			(at 169.672 65.024 0)
+		(property "Tolerance" "20%"
+			(at 169.672 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Mouser Part Number" "581-KAM15AR71H102KM"
+		(property "Mouser Part Number" "80-C1206C102M5RACTM"
 			(at 165.1 58.42 0)
 			(effects
 				(font
@@ -3246,13 +3262,21 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAM15AR71H102KM?qs=OcgtsXO%252B3guc58RvGZLAWA%3D%3D"
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KEMET/C1206C102M5RACTM?qs=ED%252B2xvMfDz25MTPJsbkHzg%3D%3D"
 			(at 165.1 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 170.18 61.468 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -3265,117 +3289,6 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
 					(reference "C65")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 179.07 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2f5cc7e5-53ce-4cc0-b3a2-fd0d3c1cf9c6")
-		(property "Reference" "C70"
-			(at 182.88 135.0009 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 182.88 137.5409 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 180.0352 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 179.07 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 179.07 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "20V"
-			(at 184.912 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Dielectric" "TANT"
-			(at 185.166 141.478 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 184.912 143.256 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "581-TAJR104K020R"
-			(at 179.07 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/TAJR104K020RNJ?qs=4whTb%2F0XQMhML1Gq%2FTLBlg%3D%3D"
-			(at 179.07 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d82b9f0a-bc9a-455f-a1f3-2d1e171a37d2")
-		)
-		(pin "2"
-			(uuid "f350cd26-1f39-4f06-af94-c58d1062f469")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "C70")
 					(unit 1)
 				)
 			)
@@ -3592,16 +3505,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 165.1 97.79 0)
+		(lib_id "Device:C_Polarized")
+		(at 179.07 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "5ceec029-ad45-49c9-82ea-7e359d0cc7af")
-		(property "Reference" "C66"
-			(at 167.64 96.5262 0)
+		(uuid "5c4d671d-720a-416c-8f2c-7007f09ad510")
+		(property "Reference" "C69"
+			(at 182.88 95.6309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3609,8 +3522,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1nF"
-			(at 167.64 99.0662 0)
+		(property "Value" "0.1uF"
+			(at 182.88 98.1709 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3618,8 +3531,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 165.1 97.79 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 180.0352 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3628,7 +3541,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 165.1 97.79 0)
+			(at 179.07 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3636,8 +3549,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 165.1 97.79 0)
+		(property "Description" "Polarized capacitor"
+			(at 179.07 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3645,16 +3558,16 @@
 				(hide yes)
 			)
 		)
-		(property "Voltage Rating" "50V"
-			(at 169.418 100.838 0)
+		(property "Voltage Rating" "35V"
+			(at 184.912 102.108 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Dielectric" "X7R"
-			(at 169.672 102.616 0)
+		(property "Dielectric" "TANT"
+			(at 185.166 103.886 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3662,24 +3575,15 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 169.672 104.394 0)
+			(at 184.912 105.664 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Mouser Part Number" "581-KAM15AR71H102KM"
-			(at 165.1 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAM15AR71H102KM?qs=OcgtsXO%252B3guc58RvGZLAWA%3D%3D"
-			(at 165.1 97.79 0)
+		(property "Mouser Part Number" "581-TAJA104K035SNJ"
+			(at 179.07 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3687,16 +3591,33 @@
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "40f05c1b-cd80-403c-9672-8e983b48d3d1")
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/TAJA104K035SNJ?qs=0%252BYwpxhRXZhtcvceHRBYuQ%3D%3D"
+			(at 179.07 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 185.42 100.076 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "1"
-			(uuid "b032cbdd-33cd-4d61-ba2d-170f5a3c1f53")
+			(uuid "fab07ebf-158f-4eb5-ab85-673bdaab0b59")
+		)
+		(pin "2"
+			(uuid "45a9475c-ab17-428a-9921-d937d712010e")
 		)
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "C66")
+					(reference "C69")
 					(unit 1)
 				)
 			)
@@ -3869,6 +3790,125 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
 					(reference "RLVDS9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 165.1 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "73f51992-edfb-4f49-87cb-bab30218900c")
+		(property "Reference" "C67"
+			(at 167.64 135.8962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000pF"
+			(at 167.64 138.4362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 165.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 165.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "50V"
+			(at 169.418 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "X7R"
+			(at 169.672 144.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 169.672 145.796 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "80-C1206C102M5RACTM"
+			(at 165.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KEMET/C1206C102M5RACTM?qs=ED%252B2xvMfDz25MTPJsbkHzg%3D%3D"
+			(at 165.1 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 170.18 140.208 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "182a05ab-804b-4773-a0e9-e76779996db0")
+		)
+		(pin "1"
+			(uuid "2f10afde-a034-4e8a-864a-9f49fef539f6")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
+					(reference "C67")
 					(unit 1)
 				)
 			)
@@ -4107,117 +4147,6 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
 					(reference "RLVDS10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 179.07 97.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "94f8a353-c5ca-4502-aec1-5373a8daf386")
-		(property "Reference" "C69"
-			(at 182.88 95.6309 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 182.88 98.1709 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 180.0352 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 179.07 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Polarized capacitor"
-			(at 179.07 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Voltage Rating" "20V"
-			(at 184.912 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Dielectric" "TANT"
-			(at 185.166 102.108 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Tolerance" "10%"
-			(at 184.912 103.886 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "581-TAJR104K020R"
-			(at 179.07 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/TAJR104K020RNJ?qs=4whTb%2F0XQMhML1Gq%2FTLBlg%3D%3D"
-			(at 179.07 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "228f4a0f-e87a-42d6-8c8b-2dab57a9d737")
-		)
-		(pin "2"
-			(uuid "4a511d05-5953-4848-b633-fc05d4a65734")
-		)
-		(instances
-			(project "S25-26"
-				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
-					(reference "C69")
 					(unit 1)
 				)
 			)
@@ -4505,8 +4434,8 @@
 				(hide yes)
 			)
 		)
-		(property "Power Rating" "0.2W"
-			(at 109.22 42.418 0)
+		(property "Power Rating" "200mW"
+			(at 109.728 42.418 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4514,7 +4443,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 108.204 44.196 0)
+			(at 107.696 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4823,7 +4752,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 167.64 140.97 0)
+		(at 165.1 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4832,7 +4761,7 @@
 		(fields_autoplaced yes)
 		(uuid "be1ae1a3-53be-4981-b807-c88d4207d5cc")
 		(property "Reference" "#PWR059"
-			(at 167.64 147.32 0)
+			(at 165.1 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4841,7 +4770,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 167.64 146.05 0)
+			(at 165.1 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4849,7 +4778,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 167.64 140.97 0)
+			(at 165.1 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4858,7 +4787,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 167.64 140.97 0)
+			(at 165.1 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4867,7 +4796,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 167.64 140.97 0)
+			(at 165.1 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4882,6 +4811,125 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
 					(reference "#PWR059")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 179.07 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bfb4f07a-11f2-42db-9c34-7da23f0dd1fa")
+		(property "Reference" "C70"
+			(at 182.88 135.0009 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 182.88 137.5409 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 180.0352 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 179.07 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 179.07 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage Rating" "35V"
+			(at 184.912 141.478 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Dielectric" "TANT"
+			(at 185.166 143.256 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 184.912 145.034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "581-TAJA104K035SNJ"
+			(at 179.07 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/TAJA104K035SNJ?qs=0%252BYwpxhRXZhtcvceHRBYuQ%3D%3D"
+			(at 179.07 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 185.42 139.446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "47c09eea-f549-423e-ab70-d708553b90a2")
+		)
+		(pin "2"
+			(uuid "c41556e1-176e-4f31-b0ba-fab2f75026ba")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/10aa7ffc-4759-4dd0-b397-4be5b97e2346"
+					(reference "C70")
 					(unit 1)
 				)
 			)
