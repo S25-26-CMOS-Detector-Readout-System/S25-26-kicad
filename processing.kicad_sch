@@ -15988,9 +15988,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "038fb440-15d9-49f3-a570-3ebd70dc736d")
-		(property "Reference" "TP15"
+		(property "Reference" "QSPI_IO0"
 			(at 93.98 113.0299 90)
 			(effects
 				(font
@@ -16041,7 +16040,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "TP15")
+					(reference "QSPI_IO0")
 					(unit 1)
 				)
 			)
@@ -18375,9 +18374,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0f81c352-6c5b-43ce-9e60-26530b683405")
-		(property "Reference" "TP13"
+		(property "Reference" "QSPI_IO3"
 			(at 93.98 105.4099 90)
 			(effects
 				(font
@@ -18428,7 +18426,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "TP13")
+					(reference "QSPI_IO3")
 					(unit 1)
 				)
 			)
@@ -18561,9 +18559,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "1c2e0893-8715-4a92-bc86-6fe86a7fb15e")
-		(property "Reference" "TP17"
+		(property "Reference" "QSPI_SEL1"
 			(at 17.78 124.9679 0)
 			(effects
 				(font
@@ -18614,7 +18611,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "TP17")
+					(reference "QSPI_SEL1")
 					(unit 1)
 				)
 			)
@@ -19553,9 +19550,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3cfc4597-0747-4611-82dc-afc76c742e16")
-		(property "Reference" "TP10"
+		(property "Reference" "QSPI_SEL0"
 			(at 17.78 95.7579 0)
 			(effects
 				(font
@@ -19606,7 +19602,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "TP10")
+					(reference "QSPI_SEL0")
 					(unit 1)
 				)
 			)
@@ -20169,9 +20165,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "47e088a4-155c-44f2-b994-6de95bb5ac62")
-		(property "Reference" "TP12"
+		(property "Reference" "QSPI_IO2"
 			(at 22.86 121.9199 90)
 			(effects
 				(font
@@ -20222,7 +20217,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "TP12")
+					(reference "QSPI_IO2")
 					(unit 1)
 				)
 			)
@@ -20355,9 +20350,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4c11e145-bb01-4ea8-8b20-bf53997f1b1a")
-		(property "Reference" "TP14"
+		(property "Reference" "QSPI_SCLK1"
 			(at 93.98 109.2199 90)
 			(effects
 				(font
@@ -20408,7 +20402,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "TP14")
+					(reference "QSPI_SCLK1")
 					(unit 1)
 				)
 			)
@@ -23685,9 +23679,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ac18fe33-5fec-4708-8210-ce35baf02a9c")
-		(property "Reference" "TP11"
+		(property "Reference" "QSPI_IO1"
 			(at 17.78 117.6019 0)
 			(effects
 				(font
@@ -23738,7 +23731,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "TP11")
+					(reference "QSPI_IO1")
 					(unit 1)
 				)
 			)
@@ -24083,9 +24076,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b8bf2a04-f95e-4290-8560-1e0ca1341c6b")
-		(property "Reference" "TP16"
+		(property "Reference" "DRV_VOUT1"
 			(at 375.92 107.1879 0)
 			(effects
 				(font
@@ -24094,7 +24086,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DRV_VOUT"
+		(property "Value" "DRV_VOUT1"
 			(at 375.92 109.7279 0)
 			(effects
 				(font
@@ -24136,7 +24128,7 @@
 		(instances
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
-					(reference "TP16")
+					(reference "DRV_VOUT1")
 					(unit 1)
 				)
 			)

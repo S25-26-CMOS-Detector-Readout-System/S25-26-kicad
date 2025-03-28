@@ -112,6 +112,168 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:C_Polarized_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Polarized_Small"
+				(at 0.254 -2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Polarized capacitor, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "CP_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Polarized_Small_0_1"
+				(rectangle
+					(start -1.524 0.6858)
+					(end 1.524 0.3048)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.524 -0.3048)
+					(end 1.524 -0.6858)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.524) (xy -0.762 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 1.27) (xy -1.016 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_Polarized_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 1.8542)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 1.8542)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -2772,7 +2934,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
+		(lib_id "Device:C_Polarized_Small")
 		(at 163.83 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2798,7 +2960,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W"
 			(at 163.83 38.1 0)
 			(effects
 				(font
@@ -2816,7 +2978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "Polarized capacitor, small symbol"
 			(at 163.83 38.1 0)
 			(effects
 				(font
@@ -2849,7 +3011,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "Multiple"
+		(property "Mouser Part Number" " 74-293D107X9010D2TE3"
 			(at 163.83 38.1 0)
 			(effects
 				(font
@@ -2858,7 +3020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "Multiple"
+		(property "Mouser Price/Stock" "0.71/103,354"
 			(at 163.83 38.1 0)
 			(effects
 				(font
@@ -2867,7 +3029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package Size" "1206"
+		(property "Package Size" "2917"
 			(at 168.91 41.402 0)
 			(effects
 				(font
@@ -4622,7 +4784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SRP6060FA150M"
+		(property "Footprint" "SamacSys_Parts:SRP6060FA150M"
 			(at 160.02 127.94 0)
 			(effects
 				(font
@@ -4853,7 +5015,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X170-9N"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X170-9N"
 			(at 95.25 126.67 0)
 			(effects
 				(font
@@ -5388,7 +5550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DIOM8059X261N"
+		(property "Footprint" "SamacSys_Parts:DIOM8059X261N"
 			(at 46.05 43.18 0)
 			(effects
 				(font
