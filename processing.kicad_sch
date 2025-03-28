@@ -11808,7 +11808,7 @@
 	)
 	(text "Primary Microcontroller, Infineon XMC7200D"
 		(exclude_from_sim no)
-		(at 366.522 97.536 0)
+		(at 275.844 95.504 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -11884,6 +11884,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1eb2928a-6a6c-41d1-8275-043e621569ec")
+	)
+	(junction
+		(at 317.5 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f1a23f1-189d-4f34-be6b-57f2476c308e")
 	)
 	(junction
 		(at 52.07 64.77)
@@ -12084,6 +12090,12 @@
 		(uuid "c6b67884-2f34-4cdc-85bf-80928960ced4")
 	)
 	(junction
+		(at 227.33 308.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c7b404f8-889d-489b-88d8-0f7bcd0c1485")
+	)
+	(junction
 		(at 31.75 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -12100,6 +12112,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d46e18fb-2fa7-4573-a2fd-38b92bf007df")
+	)
+	(junction
+		(at 314.96 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8a1d3e9-8afc-404e-9285-ffbc3d61562d")
 	)
 	(junction
 		(at 31.75 57.15)
@@ -12347,6 +12365,16 @@
 	)
 	(wire
 		(pts
+			(xy 317.5 99.06) (xy 317.5 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10fc5191-cece-4d13-b616-e82a461da627")
+	)
+	(wire
+		(pts
 			(xy 125.73 66.04) (xy 125.73 67.31)
 		)
 		(stroke
@@ -12364,6 +12392,16 @@
 			(type default)
 		)
 		(uuid "113c344e-7386-4443-8e13-a4ea507e684d")
+	)
+	(wire
+		(pts
+			(xy 314.96 99.06) (xy 314.96 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11d84e48-a71f-457f-b5ce-489b6384a15e")
 	)
 	(wire
 		(pts
@@ -12847,7 +12885,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 294.64) (xy 227.33 285.75)
+			(xy 227.33 311.15) (xy 227.33 308.61)
 		)
 		(stroke
 			(width 0)
@@ -13274,6 +13312,16 @@
 			(type default)
 		)
 		(uuid "76fef69d-0fc5-45ee-aeb6-8860ebeee4f8")
+	)
+	(wire
+		(pts
+			(xy 317.5 93.98) (xy 317.5 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "772bc0ea-4b3f-4b02-ab7b-2cd67b11fc9f")
 	)
 	(wire
 		(pts
@@ -13747,6 +13795,16 @@
 	)
 	(wire
 		(pts
+			(xy 314.96 93.98) (xy 314.96 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aefc818a-1355-4011-997f-035967d04b5c")
+	)
+	(wire
+		(pts
 			(xy 82.55 41.91) (xy 72.39 41.91)
 		)
 		(stroke
@@ -13934,6 +13992,16 @@
 			(type default)
 		)
 		(uuid "c83f468d-b640-4bd0-922b-c82526b318c3")
+	)
+	(wire
+		(pts
+			(xy 227.33 308.61) (xy 227.33 285.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8d40c5d-987f-4194-9d76-13a23f8e1a70")
 	)
 	(wire
 		(pts
@@ -14967,6 +15035,17 @@
 			)
 		)
 	)
+	(hierarchical_label "+3V3"
+		(shape input)
+		(at 325.12 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0029f1ca-7b10-42df-a03c-1c45d0625223")
+	)
 	(hierarchical_label "ETH0_RX_CLK (P23.3)"
 		(shape input)
 		(at 191.77 209.55 180)
@@ -15035,7 +15114,7 @@
 	)
 	(hierarchical_label "ETH0_MDC (P3.1)"
 		(shape bidirectional)
-		(at 317.5 123.19 90)
+		(at 317.5 93.98 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15112,7 +15191,7 @@
 	)
 	(hierarchical_label "CMOS_RESET_N"
 		(shape output)
-		(at 231.14 109.22 90)
+		(at 231.14 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15153,6 +15232,17 @@
 			(justify right)
 		)
 		(uuid "46ddb821-7976-4fc6-bdba-d02946480635")
+	)
+	(hierarchical_label "+3V3"
+		(shape input)
+		(at 234.95 308.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4b882a90-0528-4828-82a5-c840bb865752")
 	)
 	(hierarchical_label "ETH0_RXD_1 (P19.1)"
 		(shape input)
@@ -15211,7 +15301,7 @@
 	)
 	(hierarchical_label "ETH0_MDIO (P3.0)"
 		(shape bidirectional)
-		(at 314.96 123.19 90)
+		(at 314.96 93.98 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15373,6 +15463,17 @@
 			(justify left)
 		)
 		(uuid "9e73cfa4-110c-48ff-991c-784ec3157415")
+	)
+	(hierarchical_label "+3V3"
+		(shape input)
+		(at 307.34 99.06 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a1d592ce-b84b-4307-948c-2895ce59c3a9")
 	)
 	(hierarchical_label "FRAME_REQ"
 		(shape output)
@@ -21543,6 +21644,117 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 321.31 99.06 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6513aa28-6402-4f4c-9126-7319d565c3e6")
+		(property "Reference" "R15"
+			(at 320.0399 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 322.5799 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 321.31 100.838 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 321.31 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 321.31 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "330mW"
+			(at 326.39 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 328.168 94.742 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-T08J103V"
+			(at 321.31 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-T08J103V?qs=iIVTEDlrHA0RyZNTmuQ2%2FA%3D%3D"
+			(at 321.31 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 324.612 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1a1a82eb-8090-4ac7-89d3-0c9e77898713")
+		)
+		(pin "2"
+			(uuid "fbe5788e-a7c5-44e5-b5bd-293bf8042a69")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 106.68 39.37 0)
 		(unit 1)
@@ -23235,6 +23447,118 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 311.15 99.06 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a54c9a29-e243-4665-8ab4-e09f2f842767")
+		(property "Reference" "R16"
+			(at 312.4201 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 309.8801 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 311.15 100.838 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 311.15 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 311.15 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "330mW"
+			(at 306.07 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 304.292 94.742 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-T08J103V"
+			(at 311.15 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-T08J103V?qs=iIVTEDlrHA0RyZNTmuQ2%2FA%3D%3D"
+			(at 311.15 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 307.848 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "01cdd95b-23cf-4899-9422-1e0ea626f5de")
+		)
+		(pin "2"
+			(uuid "964f1dd9-ee34-48bc-993c-d16c2781f114")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 21.59 38.1 0)
 		(unit 1)
@@ -23687,7 +24011,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 227.33 294.64 180)
+		(at 227.33 311.15 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -23695,7 +24019,7 @@
 		(dnp no)
 		(uuid "b73fe197-9812-4578-9ff2-6ecd9f97385e")
 		(property "Reference" "XRES1"
-			(at 237.744 300.482 0)
+			(at 237.744 316.992 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23704,7 +24028,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 237.744 297.942 0)
+			(at 237.744 314.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23713,7 +24037,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 222.25 294.64 0)
+			(at 222.25 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23722,7 +24046,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 222.25 294.64 0)
+			(at 222.25 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23731,7 +24055,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 227.33 294.64 0)
+			(at 227.33 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24593,6 +24917,117 @@
 			(project "S25-26"
 				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
 					(reference "C46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 231.14 308.61 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d70b5c7e-7a26-41a8-8457-3f3f6ca04f8b")
+		(property "Reference" "R14"
+			(at 229.8699 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 232.4099 306.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 231.14 310.388 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 231.14 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power Rating" "330mW"
+			(at 236.22 302.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 237.998 304.292 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-T08J103V"
+			(at 231.14 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.com/ProductDetail/Panasonic/ERJ-T08J103V?qs=iIVTEDlrHA0RyZNTmuQ2%2FA%3D%3D"
+			(at 231.14 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package Size" "1206"
+			(at 234.442 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ea1877b6-e835-4955-87ae-bcfcf2fbd8fe")
+		)
+		(pin "2"
+			(uuid "804fb7fc-4f8d-4a0d-b646-2dcbd911dcd7")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56/e295881b-793d-44b2-856b-25e9d19ba3af"
+					(reference "R14")
 					(unit 1)
 				)
 			)
