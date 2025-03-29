@@ -169,7 +169,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "C:/Users/Noah/Desktop/Somejunk/")
+			(outputdirectory "C:/Users/Noah/Desktop/PCBOrder2/")
 		)
 	)
 	(net 0 "")
