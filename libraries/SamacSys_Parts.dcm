@@ -78,4 +78,10 @@ K
 F https://www.arrow.com/en/products/srp6060fa-150m/bourns
 $ENDCMP
 #
+$CMP DP83867IRPAPT
+D Industrial temperature, robust gigabit Ethernet PHY transceiver
+K
+F http://www.ti.com/lit/gpn/DP83867IR
+$ENDCMP
+#
 #End Doc Library

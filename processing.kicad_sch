@@ -15728,6 +15728,17 @@
 		)
 		(uuid "f557032e-f7e6-4fc3-8389-eb6fedefb0a9")
 	)
+	(hierarchical_label "XRES"
+		(shape input)
+		(at 227.33 311.15 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f5e988b7-d3f5-4444-acd7-98f5264c12cd")
+	)
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 229.87 26.67 90)
@@ -22813,7 +22824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 228.092 45.72 90)
 			(effects
 				(font
@@ -24004,7 +24015,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 227.33 311.15 180)
+		(at 227.33 311.15 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -24012,7 +24023,7 @@
 		(dnp no)
 		(uuid "b73fe197-9812-4578-9ff2-6ecd9f97385e")
 		(property "Reference" "XRES1"
-			(at 237.744 316.992 0)
+			(at 221.488 321.564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24021,7 +24032,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 237.744 314.452 0)
+			(at 224.028 321.564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24030,7 +24041,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 222.25 311.15 0)
+			(at 227.33 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24039,7 +24050,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 222.25 311.15 0)
+			(at 227.33 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24705,7 +24716,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TO-252-3_TabPin4"
+		(property "Footprint" "CustomFootprintLibrary:TO-252-3_TabPin4"
 			(at 290.83 33.02 0)
 			(effects
 				(font
