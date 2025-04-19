@@ -13146,16 +13146,17 @@
 		(at 36.83 111.76 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "24273fc1-5743-4c25-8125-22fab3de5063")
 		(property "Reference" "FRAME_REQ1"
-			(at 29.972 111.76 90)
+			(at 26.67 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "FRAME_REQ"
@@ -13210,7 +13211,7 @@
 		(at 278.13 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "273cf5ab-c5c9-4313-8d06-22d3a4f8696d")
@@ -13918,7 +13919,7 @@
 		(at 36.83 177.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "3689012c-4429-4465-b18a-2c5e47131efd")
@@ -13928,6 +13929,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "CMOS_RESET_N"
@@ -15007,7 +15009,7 @@
 		(at 38.1 147.32 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "59de92d3-e826-4315-8bcb-4bd1c062b48b")
@@ -15017,6 +15019,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "CMOS_SPI_EN"
@@ -15604,7 +15607,7 @@
 		(at 142.24 207.01 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "75aa6dd7-d57b-48d3-bb6a-0705b04713ca")
@@ -17101,7 +17104,7 @@
 		(at 36.83 114.3 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "967b77c0-d54f-4f20-8d8a-b600109d14f1")
@@ -17111,6 +17114,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "CMOS_SPI_MOSI"
@@ -18736,7 +18740,7 @@
 		(at 36.83 116.84 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d2e9044e-69b5-4199-b043-c29a6b392416")
@@ -18746,6 +18750,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "CMOS_SPI_MISO"
@@ -19537,7 +19542,7 @@
 		(at 36.83 180.34 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f71127ad-a00c-4016-95c0-ab3901e49b58")
@@ -19547,6 +19552,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "CMOS_SPI_CLK"
