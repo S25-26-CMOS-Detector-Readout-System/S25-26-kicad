@@ -56,6 +56,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.4,
+          "via_gap": 0.0,
+          "width": 0.2
         }
       ],
       "drc_exclusions": [],
@@ -496,9 +501,9 @@
       {
         "bus_width": 12,
         "clearance": 0.1016,
-        "diff_pair_gap": 0.0762,
+        "diff_pair_gap": 0.2,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.0762,
+        "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -506,27 +511,9 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.1016,
+        "track_width": 0.2,
         "via_diameter": 0.3,
         "via_drill": 0.2,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.1016,
-        "diff_pair_gap": 0.0,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.0,
-        "line_style": 0,
-        "microvia_diameter": 0.0,
-        "microvia_drill": 0.0,
-        "name": "No Clearance",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.0,
-        "via_diameter": 0.0,
-        "via_drill": 0.0,
         "wire_width": 6
       }
     ],

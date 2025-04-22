@@ -84,4 +84,10 @@ K
 F http://www.ti.com/lit/gpn/DP83867IR
 $ENDCMP
 #
+$CMP TLS208D1EJVXUMA1
+D INFINEON - TLS208D1EJVXUMA1 - LDO, 0.8V-5.25V, 0.8A, -40 TO 150DEG C
+K
+F https://componentsearchengine.com/Datasheets/1/TLS208D1EJVXUMA1.pdf
+$ENDCMP
+#
 #End Doc Library
