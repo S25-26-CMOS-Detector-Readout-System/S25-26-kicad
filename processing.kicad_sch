@@ -12281,16 +12281,6 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 168.91) (xy 191.77 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07b0e439-d720-4243-a835-f9bd7bc6979b")
-	)
-	(wire
-		(pts
 			(xy 53.34 168.91) (xy 59.69 168.91)
 		)
 		(stroke
@@ -12681,7 +12671,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 285.75) (xy 270.51 294.64)
+			(xy 267.97 285.75) (xy 267.97 294.64)
 		)
 		(stroke
 			(width 0)
@@ -13121,16 +13111,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 190.5) (xy 191.77 189.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5501a3de-0cb2-4c1e-9982-47eec8b4d593")
-	)
-	(wire
-		(pts
 			(xy 105.41 66.04) (xy 105.41 67.31)
 		)
 		(stroke
@@ -13178,6 +13158,16 @@
 			(type default)
 		)
 		(uuid "5977e400-9933-4832-9b35-ffab413b994c")
+	)
+	(wire
+		(pts
+			(xy 170.18 265.43) (xy 191.77 265.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5aee5ccc-0e6a-46b2-bff1-d42f7a325925")
 	)
 	(wire
 		(pts
@@ -14191,16 +14181,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 190.5) (xy 191.77 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d995f95d-97b1-4e39-9e79-4500a65aa729")
-	)
-	(wire
-		(pts
 			(xy 125.73 67.31) (xy 125.73 69.85)
 		)
 		(stroke
@@ -14499,16 +14479,6 @@
 		)
 		(uuid "0c80f883-ef6b-49dd-9ebd-9e281770b58c")
 	)
-	(label "CMOS_LVDS_CLK_IN"
-		(at 158.75 168.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "155e63e0-2145-4dd0-914a-0e448f41806e")
-	)
 	(label "QSPI_SCLK"
 		(at 180.975 267.97 0)
 		(effects
@@ -14650,7 +14620,7 @@
 		(uuid "43139d77-0a27-4312-9d39-4d74485adb19")
 	)
 	(label "ECO_IN"
-		(at 270.51 294.64 90)
+		(at 267.97 294.64 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14658,6 +14628,16 @@
 			(justify left bottom)
 		)
 		(uuid "4dea5244-1d9e-4a70-a749-18814ac81ffc")
+	)
+	(label "CMOS_LVDS_CLK_IN"
+		(at 170.18 265.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "50eedc06-6f85-4764-b798-91b5c1512c33")
 	)
 	(label "QSPI_IO3"
 		(at 234.95 295.91 90)
@@ -15722,7 +15702,7 @@
 	)
 	(hierarchical_label "CMOS_MASTER_CLK (P7.2)"
 		(shape output)
-		(at 168.91 190.5 180)
+		(at 191.77 189.23 180)
 		(effects
 			(font
 				(size 1.27 1.27)
