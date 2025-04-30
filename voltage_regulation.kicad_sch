@@ -9894,7 +9894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X170-9N"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X170-9N"
 			(at 88.9 195.25 0)
 			(effects
 				(font
@@ -10591,7 +10591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X170-9N"
+		(property "Footprint" "SamacSys_Parts:SOIC127P600X170-9N"
 			(at 88.9 238.43 0)
 			(effects
 				(font

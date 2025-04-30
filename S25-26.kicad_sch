@@ -8448,7 +8448,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 209.55) (xy 243.84 234.95)
+			(xy 245.11 209.55) (xy 245.11 234.95)
 		)
 		(stroke
 			(width 0)
@@ -10768,7 +10768,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 234.95) (xy 262.89 234.95)
+			(xy 245.11 234.95) (xy 262.89 234.95)
 		)
 		(stroke
 			(width 0)
@@ -16379,7 +16379,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm"
+		(property "Footprint" "SamacSys_Parts:MountingHole_2.7mm_Keepout"
 			(at 400.05 26.67 0)
 			(effects
 				(font
@@ -18513,6 +18513,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 389.89 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "74ebce52-d786-4547-8693-6ec654e9f2a6")
+		(property "Reference" "#PWR049"
+			(at 389.89 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 389.89 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 389.89 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 389.89 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 389.89 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9cc8bdc5-3c1f-4e5b-b039-6416005c410e")
+		)
+		(instances
+			(project "S25-26"
+				(path "/6f4563ef-8a79-4567-b913-33c6dfb42b56"
+					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 400.05 43.18 0)
 		(unit 1)
@@ -18540,7 +18606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm"
+		(property "Footprint" "SamacSys_Parts:MountingHole_2.7mm_Keepout"
 			(at 400.05 43.18 0)
 			(effects
 				(font
@@ -19659,7 +19725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "QFP50P1200X1200X120-65N"
+		(property "Footprint" "SamacSys_Parts:QFP50P1200X1200X120-65N"
 			(at 300.99 178.74 0)
 			(effects
 				(font
@@ -22512,7 +22578,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm"
+		(property "Footprint" "SamacSys_Parts:MountingHole_2.7mm_Keepout"
 			(at 400.05 19.05 0)
 			(effects
 				(font
@@ -23064,7 +23130,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.7mm"
+		(property "Footprint" "SamacSys_Parts:MountingHole_2.7mm_Keepout"
 			(at 400.05 34.29 0)
 			(effects
 				(font
@@ -24009,16 +24075,6 @@
 				(justify left)
 			)
 		)
-		(pin "TEMPR_ADC1 (P6.1)" input
-			(at 243.84 209.55 270)
-			(uuid "1094d5d6-61cf-467b-8766-83b11e1090b1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "CMOS_CH15 (P5.3)" input
 			(at 193.04 110.49 180)
 			(uuid "6e6aeb7d-001c-4a72-ba6e-cf347891c202")
@@ -24299,16 +24355,6 @@
 				(justify left)
 			)
 		)
-		(pin "TEMPR_ADC0 (P6.0)" input
-			(at 240.03 209.55 270)
-			(uuid "dbffc8ec-e4ec-4520-93e3-5a072a2c3af6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "CMOS_CH01 (P5.0)" input
 			(at 193.04 92.71 180)
 			(uuid "ec634927-e899-40a7-810f-50bf1deaf62a")
@@ -24507,6 +24553,26 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "TEMPR_ADC1 (P13.0)" input
+			(at 245.11 209.55 270)
+			(uuid "672fab64-b7d0-4abe-8cc6-3b359b501f45")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TEMPR_ADC0 (P12.6)" input
+			(at 240.03 209.55 270)
+			(uuid "236c80d5-15a8-4e99-985f-7896e9776be6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
